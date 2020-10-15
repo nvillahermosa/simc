@@ -1,4 +1,4 @@
-SimulationCraft 901-01 for World of Warcraft 9.0.1.36230 shadowlands-BETA (hotfix 2020-10-15/36230, no-networking)
+SimulationCraft 901-01 for World of Warcraft 9.0.1.36247 shadowlands-BETA (hotfix 2020-10-15/36247, no-networking)
 
 Name             : Invisibility (id=66) [Spell Family (3)] 
 Class            : Paladin, Mage
@@ -163,11 +163,12 @@ Description      : Throws a fiery ball that causes $s1 Fire damage.$?a157642[
 Each time your Fireball fails to critically strike a target, it gains a stacking $157644s1% increased critical strike chance. Effect ends when Fireball critically strikes.][]
 
 Name             : Remove Curse (id=475) [Spell Family (3)] 
-Hotfixed         : Spell Level (21 -> 0)
+Hotfixed         : Learn Level (21 -> 0), Required Level (21 -> 28)
 Class            : Mage
 School           : Arcane
 Spell Type       : Magic
 Resource         : 1.3% Base Mana (0) (id=52)
+Spell Level      : 28
 Range            : 40 yards
 GCD              : 1.5 seconds
 Cooldown         : 8 seconds
@@ -532,11 +533,12 @@ Hotfixed         : SP Coefficient (1.239 -> 1.363)
 Description      : Hurls an immense fiery boulder that causes $s1 Fire damage$?a321711[ and an additional $321712o2 Fire damage over $321712d][].
 
 Name             : Ice Barrier (id=11426) [Spell Family (3)] 
-Hotfixed         : Spell Level (28 -> 0)
+Hotfixed         : Learn Level (28 -> 0), Required Level (28 -> 21)
 Class            : Frost Mage
 School           : Frost
 Spell Type       : Magic
 Resource         : 3% Base Mana (0) (id=414)
+Spell Level      : 21
 GCD              : 1.5 seconds
 Duration         : 60 seconds
 Cooldown         : 25 seconds
@@ -1318,6 +1320,7 @@ Name             : Fingers of Frost (id=44544) [Spell Family (3)]
 Class            : Mage
 School           : Frost
 Spell Type       : None
+Spell Level      : 1
 Range            : 100 yards
 Duration         : 15 seconds
 Stacks           : 2 maximum
@@ -2583,6 +2586,7 @@ Name             : Incanter's Flow (id=116267) [Spell Family (3)]
 Class            : Mage
 School           : Arcane
 Spell Type       : None
+Spell Level      : 1
 Range            : 50000 yards
 Duration         : 25 seconds
 Stacks           : 5 maximum
@@ -5490,11 +5494,12 @@ Effects          :
 Description      : Ice Barrier increases your armor by $s1% while active, and Ice Block applies Ice Barrier to you when it fades.
 
 Name             : Blazing Barrier (id=235313) [Spell Family (3)] 
-Hotfixed         : Spell Level (28 -> 0)
+Hotfixed         : Learn Level (28 -> 0), Required Level (28 -> 21)
 Class            : Fire Mage
 School           : Fire
 Spell Type       : Magic
 Resource         : 3% Base Mana (0) (id=11752)
+Spell Level      : 21
 GCD              : 1.5 seconds
 Duration         : 60 seconds
 Cooldown         : 25 seconds
@@ -5572,11 +5577,12 @@ Effects          :
 Description      : Casting Blink ignites a Blazing Barrier around you.
 
 Name             : Prismatic Barrier (id=235450) [Spell Family (3)] 
-Hotfixed         : Spell Level (28 -> 0)
+Hotfixed         : Learn Level (28 -> 0), Required Level (28 -> 21)
 Class            : Arcane Mage
 School           : Arcane
 Spell Type       : Magic
 Resource         : 3% Base Mana (0) (id=11754)
+Spell Level      : 21
 GCD              : 1.5 seconds
 Duration         : 60 seconds
 Cooldown         : 25 seconds

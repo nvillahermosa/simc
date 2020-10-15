@@ -1,4 +1,4 @@
-SimulationCraft 901-01 for World of Warcraft 9.0.1.36230 shadowlands-BETA (hotfix 2020-10-15/36230, no-networking)
+SimulationCraft 901-01 for World of Warcraft 9.0.1.36247 shadowlands-BETA (hotfix 2020-10-15/36247, no-networking)
 
 Name             : Dual Wield (desc=Passive) (id=674) [Passive] 
 Class            : Frost Warrior, Hunter, Rogue, Death Knight, Monk, Demon Hunter
@@ -582,6 +582,7 @@ Effects          :
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Misc Value: 17 | Target: Self (1)
 
 Name             : Metamorphosis (id=187827) [Spell Family (107)] 
+Hotfixed         : Required Level (20 -> 0)
 Replaces         : Metamorphosis (id=191427)
 Class            : Vengeance Demon Hunter
 School           : Chaos
@@ -636,6 +637,7 @@ Class            : Havoc Demon Hunter
 School           : Physical
 Spell Type       : Melee
 Resource         : 35 Fury (17) (id=10434)
+Spell Level      : 12
 GCD              : 1.5 seconds
 Duration         : 1 seconds
 Requires weapon  : One-handed Axe, One-handed Mace, One-handed Sword, War Glaive, Fist Weapon
@@ -1445,10 +1447,11 @@ Description      : Place a Sigil of Silence at the target location that activate
 Silences all enemies affected by the sigil for $204490d.
 
 Name             : Sigil of Chains (id=202138) [Spell Family (107)] 
-Hotfixed         : Spell Level (50 -> 0)
+Hotfixed         : Learn Level (50 -> 0), Required Level (50 -> 40)
 Class            : Demon Hunter
 School           : Physical
 Spell Type       : None
+Spell Level      : 40
 Range            : 30 yards
 GCD              : 1.5 seconds
 Duration         : 2 seconds
@@ -7262,6 +7265,7 @@ Name             : Immolation Aura (desc=Rank 2) (id=320364) [Spell Family (107)
 Class            : Demon Hunter
 School           : Physical
 Spell Type       : None
+Spell Level      : 18
 Attributes       : ......x. ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 

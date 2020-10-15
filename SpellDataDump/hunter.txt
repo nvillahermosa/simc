@@ -1,4 +1,4 @@
-SimulationCraft 901-01 for World of Warcraft 9.0.1.36230 shadowlands-BETA (hotfix 2020-10-15/36230, no-networking)
+SimulationCraft 901-01 for World of Warcraft 9.0.1.36247 shadowlands-BETA (hotfix 2020-10-15/36247, no-networking)
 
 Name             : Auto Shot (id=75) [Spell Family (9)] 
 Class            : Hunter
@@ -29,6 +29,7 @@ Name             : Mend Pet (id=136) [Spell Family (9)]
 Class            : Hunter
 School           : Nature
 Spell Type       : Magic
+Spell Level      : 5
 Range            : 45 yards
 GCD              : 1.5 seconds
 Duration         : 10 seconds
@@ -98,6 +99,7 @@ Name             : Call Pet 1 (id=883) [Spell Family (9)]
 Class            : Hunter
 School           : Physical
 Spell Type       : None
+Spell Level      : 5
 GCD              : 1.5 seconds
 Duration         : Aura (infinite)
 Affecting spells : Hunter (137014 effect#3), Aspect of the Wild (193530 effect#3)
@@ -120,6 +122,7 @@ Class            : Hunter
 School           : Nature
 Spell Type       : Magic
 Resource         : 35 Focus (2) (id=106)
+Spell Level      : 5
 Cast Time        : 4 seconds
 GCD              : 1.5 seconds
 Duration         : 3 seconds
@@ -143,6 +146,7 @@ Name             : Beast Lore (id=1462) [Spell Family (9)]
 Class            : Hunter
 School           : Nature
 Spell Type       : None
+Spell Level      : 5
 Range            : 40 yards
 GCD              : 1.5 seconds
 Duration         : 30 seconds
@@ -219,6 +223,7 @@ Name             : Tame Beast (id=1515) [Spell Family (9)]
 Class            : Hunter
 School           : Nature
 Spell Type       : None
+Spell Level      : 5
 Range            : 30 yards
 GCD              : 1.5 seconds
 Duration         : 6 seconds
@@ -292,6 +297,7 @@ Name             : Dismiss Pet (id=2641) [Spell Family (9)]
 Class            : Hunter
 School           : Physical
 Spell Type       : Magic
+Spell Level      : 5
 Range            : 50000 yards
 Cast Time        : 3 seconds
 GCD              : 1.5 seconds
@@ -460,6 +466,7 @@ Name             : Feed Pet (id=6991)
 Class            : Hunter
 School           : Physical
 Spell Type       : None
+Spell Level      : 5
 Range            : 10 yards
 Cooldown         : 10 seconds
 Attributes       : ....x... ........ x....... ...xx...   ........ ........ .x...... ........ 
@@ -2004,6 +2011,7 @@ Name             : Control Pet (desc=Passive) (id=93321) [Passive]
 Class            : Hunter
 School           : Physical
 Spell Type       : None
+Spell Level      : 10
 Proc Chance      : 101%
 Attributes       : ......x. ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -2020,7 +2028,7 @@ Effects          :
 Description      : Allows you to give commands to control your pet.
 
 Name             : Control Pet (desc=Passive) (id=93322) [Hidden] 
-Hotfixed         : Spell Level (0 -> 1)
+Hotfixed         : Learn Level (0 -> 1), Required Level (10 -> 1)
 Class            : Hunter
 School           : Physical
 Spell Type       : None
@@ -3907,6 +3915,7 @@ Name             : Freezing Trap (id=187650) [Spell Family (9)]
 Class            : Hunter
 School           : Physical
 Spell Type       : None
+Spell Level      : 10
 Range            : 40 yards
 GCD              : 1.5 seconds
 Velocity         : 20 yards/sec

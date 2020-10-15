@@ -1,4 +1,4 @@
-SimulationCraft 901-01 for World of Warcraft 9.0.1.36230 shadowlands-BETA (hotfix 2020-10-15/36230, no-networking)
+SimulationCraft 901-01 for World of Warcraft 9.0.1.36247 shadowlands-BETA (hotfix 2020-10-15/36247, no-networking)
 
 Name             : Backstab (id=53) [Spell Family (8)] 
 Replaces         : Sinister Strike (id=1752)
@@ -6,6 +6,7 @@ Class            : Subtlety Rogue
 School           : Physical
 Spell Type       : Melee
 Resource         : 35 Energy (3) (id=13)
+Spell Level      : 14
 Range            : 5 yards
 GCD              : 1 seconds
 Requires weapon  : Dagger
@@ -40,6 +41,7 @@ School           : Physical
 Spell Type       : Melee
 Resource         : 25 Energy (3) (id=46)
 Resource         : 1 - 5 Combo Points (4) (id=10591)
+Spell Level      : 13
 Range            : 5 yards
 GCD              : 1 seconds
 Duration         : 1 seconds
@@ -95,6 +97,7 @@ Class            : Assassination Rogue
 School           : Physical
 Spell Type       : Melee
 Resource         : 45 Energy (3) (id=86)
+Spell Level      : 16
 Range            : 5 yards
 GCD              : 1 seconds
 Duration         : 18 seconds
@@ -134,6 +137,7 @@ Class            : Assassination Rogue
 School           : Physical
 Spell Type       : Melee
 Resource         : 50 Energy (3) (id=122)
+Spell Level      : 12
 Range            : 5 yards
 GCD              : 1 seconds
 Requires weapon  : Dagger
@@ -191,6 +195,7 @@ Class            : Rogue
 School           : Physical
 Spell Type       : Magic
 Resource         : 30 Energy (3) (id=139)
+Spell Level      : 28
 Range            : 30 yards
 GCD              : 1 seconds
 Cooldown         : 30 seconds
@@ -268,6 +273,7 @@ Class            : Outlaw Rogue
 School           : Physical
 Spell Type       : Melee
 Resource         : 25 Energy (3) (id=142)
+Spell Level      : 46
 Range            : 5 yards
 GCD              : 1 seconds
 Duration         : 4 seconds
@@ -350,6 +356,7 @@ Name             : Pick Lock (id=1804) [Spell Family (8)]
 Class            : Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 14
 Range            : 5 yards
 Cast Time        : 1.5 seconds
 Family Flags     : 46
@@ -363,7 +370,7 @@ Attributes       : ....x... ........ x....... ........   ........ ........ .x...
                  : ........ ........ ........ ........   
 Effects          :
 #1 (id=553)      : Open Lock (33)
-                   Base Value: 0 | Scaled Value: 60 | Points Per Level: 1 | PvP Coefficient: 1.00000 | Misc Value: 1 | Target: Unknown(26)
+                   Base Value: 0 | Scaled Value: 46 | Points Per Level: 1 | PvP Coefficient: 1.00000 | Misc Value: 1 | Target: Unknown(26)
 Hotfixed         : Base Value (15.0 -> 0.0)
 Description      : Allows opening of locked chests and doors that require a skill level of up to $PL.
 
@@ -372,6 +379,7 @@ Class            : Rogue
 School           : Physical
 Spell Type       : Melee
 Resource         : 40 Energy (3) (id=144)
+Spell Level      : 3
 Range            : 5 yards
 GCD              : 1 seconds
 Duration         : 4 seconds
@@ -404,6 +412,7 @@ Name             : Vanish (id=1856) [Spell Family (8)]
 Class            : Rogue
 School           : Physical
 Spell Type       : Melee
+Spell Level      : 23
 Cooldown         : 120 seconds
 Category         : 39
 Category Cooldown: 120 seconds
@@ -456,6 +465,7 @@ School           : Physical
 Spell Type       : Melee
 Resource         : 25 Energy (3) (id=145)
 Resource         : 1 - 5 Combo Points (4) (id=10589)
+Spell Level      : 17
 Range            : 5 yards
 GCD              : 1 seconds
 Duration         : 4 seconds
@@ -498,6 +508,7 @@ Class            : Rogue
 School           : Physical
 Spell Type       : Melee
 Resource         : 35 Energy (3) (id=148)
+Spell Level      : 34
 GCD              : 1 seconds
 Duration         : 5 seconds
 Cooldown         : 15 seconds
@@ -526,6 +537,7 @@ Name             : Blind (id=2094) [Spell Family (8)]
 Class            : Rogue
 School           : Physical
 Spell Type       : Ranged
+Spell Level      : 39
 Range            : 15 yards
 Max Targets      : 1
 GCD              : 1 seconds
@@ -560,6 +572,7 @@ School           : Physical
 Spell Type       : Melee
 Resource         : 35 Energy (3) (id=158)
 Resource         : 1 - 5 Combo Points (4) (id=10581)
+Spell Level      : 22
 Range            : 5 yards
 GCD              : 1 seconds
 Requires weapon  : One-handed Axe, One-handed Mace, One-handed Sword, Fist Weapon
@@ -695,6 +708,7 @@ Name             : Crippling Poison (id=3408) [Spell Family (8)]
 Class            : Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 33
 Cast Time        : 1.5 seconds
 Duration         : 3600 seconds
 Requires weapon  : One-handed Axe, One-handed Mace, One-handed Sword, Fist Weapon, Dagger
@@ -814,6 +828,7 @@ Name             : Evasion (id=5277) [Spell Family (8)]
 Class            : Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 21
 Duration         : 10 seconds
 Cooldown         : 120 seconds
 Category         : 66
@@ -923,6 +938,7 @@ Class            : Rogue
 School           : Physical
 Spell Type       : Melee
 Resource         : 20 Energy (3) (id=251)
+Spell Level      : 32
 Range            : 5 yards
 GCD              : 1 seconds
 Requires weapon  : One-handed Axe, One-handed Mace, One-handed Sword, Fist Weapon, Dagger
@@ -959,6 +975,7 @@ Class            : Rogue
 School           : Physical
 Spell Type       : Melee
 Resource         : 35 Energy (3) (id=277)
+Spell Level      : 11
 Range            : 10 yards
 GCD              : 1 seconds
 Duration         : 60 seconds
@@ -1021,6 +1038,7 @@ Name             : Wound Poison (id=8679) [Spell Family (8)]
 Class            : Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 38
 Cast Time        : 1.5 seconds
 Duration         : 3600 seconds
 Requires weapon  : One-handed Axe, One-handed Mace, One-handed Sword, Fist Weapon, Dagger
@@ -1119,6 +1137,7 @@ Name             : Adrenaline Rush (id=13750) [Spell Family (8)]
 Class            : Outlaw Rogue
 School           : Physical
 Spell Type       : Melee
+Spell Level      : 42
 Duration         : 20 seconds
 Cooldown         : 180 seconds
 Labels           : 690: Strive for Perfection (296320 effect#2), Strive for Perfection (299367 effect#2), Strive for Perfection (299369 effect#2)
@@ -1156,6 +1175,7 @@ Class            : Outlaw Rogue
 School           : Physical
 Spell Type       : None
 Resource         : 15 Energy (3) (id=12415)
+Spell Level      : 19
 GCD              : 1 seconds
 Duration         : 12 seconds
 Requires weapon  : One-handed Axe, One-handed Mace, One-handed Sword, Fist Weapon, Dagger
@@ -1220,6 +1240,7 @@ Name             : Improved Poisons (id=14117) [Spell Family (8), Passive]
 Class            : Assassination Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 43
 Attributes       : ....x.x. x....... ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -1247,6 +1268,7 @@ Name             : Ruthlessness (id=14161) [Spell Family (8), Passive]
 Class            : Outlaw Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 27
 Proc Chance      : 100%
 Proc Flags       : ....x... x.x.x.x. x....... ........ 
                  : Yellow Melee, Yellow Ranged, Generic Heal, Generic Hostile Spell, Magic Heal, Magic Hostile Spell
@@ -1287,6 +1309,7 @@ Name             : Seal Fate (id=14190) [Spell Family (8), Passive]
 Class            : Assassination Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 27
 Proc Chance      : 100%
 Proc Flags       : ....x.x. x.x.x.x. x....... ........ 
                  : Yellow Melee, White Ranged, Yellow Ranged, Generic Heal, Generic Hostile Spell, Magic Heal, Magic Hostile Spell
@@ -1482,6 +1505,7 @@ Name             : Fleet Footed (desc=Passive) (id=31209) [Spell Family (8), Pas
 Class            : Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 4
 Family Flags     : 106
 Attributes       : ......x. x....... ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -1520,6 +1544,7 @@ Name             : Cloak of Shadows (id=31224) [Spell Family (8)]
 Class            : Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 47
 Duration         : 5 seconds
 Cooldown         : 120 seconds
 Family Flags     : 48
@@ -1595,6 +1620,7 @@ School           : Nature
 Spell Type       : Melee
 Resource         : 35 Energy (3) (id=1350)
 Resource         : 1 - 5 Combo Points (4) (id=10585)
+Spell Level      : 22
 Range            : 5 yards
 GCD              : 1 seconds
 Duration         : 1 seconds
@@ -1647,6 +1673,7 @@ Name             : Combat Potency (id=35546) [Spell Family (8)]
 Class            : Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 1
 Mechanic         : Snare
 Triggered by     : Combat Potency (35551)
 Family Flags     : 114
@@ -1667,6 +1694,7 @@ Name             : Combat Potency (desc=Rank 2) (id=35551) [Spell Family (8), Pa
 Class            : Outlaw Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 43
 Proc Chance      : 100%
 Proc Flags       : ..x.x... ........ ........ ........ 
                  : White Melee, Yellow Melee
@@ -1821,6 +1849,7 @@ Class            : Assassination Rogue
 School           : Physical
 Spell Type       : Melee
 Resource         : 35 Energy (3) (id=2351)
+Spell Level      : 19
 GCD              : 1 seconds
 Velocity         : 35 yards/sec
 Affecting spells : Master of Subtlety (31665 effects: #1, #2), Vendetta (79140 effect#1), Nightstalker (130493 effect#1), Subtlety Rogue (137035 effects: #1, #2), Outlaw Rogue (137036 effects: #1, #2), Assassination Rogue (137037 effects: #1, #2), Shadow Dance (185313 effects: #4, #5), Ruthless Precision (193357 effect#1), Elaborate Planning (193641 effects: #1, #2), The Dreadlord's Deceit (208693 effect#1), Symbols of Death (212283 effects: #1, #2), Headshot (242277 effect#1), Master Assassin (256735 effect#1), Hidden Blades (270070 effect#1), Echoing Blades (287649 effect#2), Deathly Shadows (341202 effects: #1, #2), Poisoned Katar (341536 effect#1)
@@ -1939,6 +1968,7 @@ Name             : Tricks of the Trade (id=57934) [Spell Family (8)]
 Class            : Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 48
 Range            : 100 yards
 Duration         : 30 seconds
 Cooldown         : 30 seconds
@@ -1971,6 +2001,7 @@ Name             : Relentless Strikes (desc=Passive) (id=58423) [Spell Family (8
 Class            : Subtlety Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 26
 Proc Chance      : 100%
 Proc Flags       : ....x... x.x.x.x. x....... ........ 
                  : Yellow Melee, Yellow Ranged, Generic Heal, Generic Hostile Spell, Magic Heal, Magic Hostile Spell
@@ -2013,6 +2044,7 @@ Name             : Combat Potency (id=61329) [Spell Family (8), Passive]
 Class            : Outlaw Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 37
 Attributes       : ....x.x. x....... ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -2236,6 +2268,7 @@ Name             : Restless Blades (id=79096) [Spell Family (8), Passive]
 Class            : Outlaw Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 41
 Internal Cooldown: 0.1 seconds
 Proc Chance      : 100%
 Proc Flags       : ....x... x.x.x.x. x....... ........ 
@@ -2261,6 +2294,7 @@ Name             : Venomous Wounds (id=79134) [Spell Family (8), Passive]
 Class            : Assassination Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 37
 Proc Chance      : 100%
 Proc Flags       : ........ ........ ..x..x.. ........ 
                  : Periodic, Trap Triggered
@@ -2287,6 +2321,7 @@ Name             : Vendetta (id=79140) [Spell Family (8)]
 Class            : Assassination Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 42
 Range            : 30 yards
 Duration         : 20 seconds
 Cooldown         : 120 seconds
@@ -2659,6 +2694,7 @@ Class            : Subtlety Rogue
 School           : Physical
 Spell Type       : Melee
 Resource         : 40 Energy (3) (id=5625)
+Spell Level      : 16
 Range            : 30 yards
 GCD              : 1 seconds
 Velocity         : 35 yards/sec
@@ -2688,6 +2724,7 @@ Name             : Shroud of Concealment (id=114018) [Spell Family (8)]
 Class            : Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 49
 GCD              : 1 seconds
 Duration         : 15 seconds
 Cooldown         : 360 seconds
@@ -2913,6 +2950,7 @@ Name             : Shadow Blades (id=121471) [Spell Family (8)]
 Class            : Subtlety Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 42
 Duration         : 20 seconds
 Cooldown         : 180 seconds
 Labels           : 690: Strive for Perfection (296320 effect#2), Strive for Perfection (299367 effect#2), Strive for Perfection (299369 effect#2)
@@ -3214,6 +3252,7 @@ Name             : Marked for Death (id=140149) [Spell Family (8), Hidden]
 Class            : Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 1
 Duration         : Aura (infinite)
 Proc Chance      : 100%
 Proc Flags       : ....x... ........ ........ ........ 
@@ -3487,6 +3526,7 @@ Name             : Shadow Dance (id=185313) [Spell Family (8)]
 Class            : Subtlety Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 22
 Duration         : 8 seconds
 Cooldown         : 8 seconds
 Charges          : 1 (60 seconds cooldown)
@@ -3527,6 +3567,7 @@ Name             : Deepening Shadows (id=185314) [Spell Family (8), Passive]
 Class            : Subtlety Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 41
 Proc Chance      : 100%
 Proc Flags       : ....x... x.x.x.x. x....... ........ 
                  : Yellow Melee, Yellow Ranged, Generic Heal, Generic Hostile Spell, Magic Heal, Magic Hostile Spell
@@ -3552,6 +3593,7 @@ Class            : Subtlety Rogue
 School           : Physical
 Spell Type       : Melee
 Resource         : 40 Energy (3) (id=10144)
+Spell Level      : 12
 Range            : 5 yards
 GCD              : 1 seconds
 Requires weapon  : Dagger
@@ -3583,6 +3625,7 @@ Class            : Assassination Rogue
 School           : Physical
 Spell Type       : Melee
 Resource         : 40 Energy (3) (id=10147)
+Spell Level      : 29
 Range            : 30 yards
 GCD              : 1 seconds
 Velocity         : 40 yards/sec
@@ -3610,6 +3653,7 @@ Class            : Outlaw Rogue
 School           : Physical
 Spell Type       : Melee
 Resource         : 40 Energy (3) (id=10158)
+Spell Level      : 12
 Range            : 20 yards
 GCD              : 1 seconds
 Duration         : 6 seconds
@@ -4179,6 +4223,7 @@ Name             : Shadow Techniques (id=196911) [Spell Family (8)]
 Class            : Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 1
 Range            : 50000 yards
 Family Flags     : 107
 Attributes       : ....x... ........ ........ ........   ........ ..x..... ........ ........ 
@@ -4514,6 +4559,7 @@ Class            : Subtlety Rogue
 School           : Physical
 Spell Type       : Melee
 Resource         : 35 Energy (3) (id=10714)
+Spell Level      : 19
 Max Targets      : 8
 GCD              : 1 seconds
 Velocity         : 35 yards/sec
@@ -5128,6 +5174,7 @@ Name             : Sprint (desc=Rank 2) (id=231691) [Spell Family (8), Passive]
 Class            : Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 31
 Attributes       : ......x. ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -5167,6 +5214,7 @@ Name             : Shadowstrike (desc=Rank 2) (id=231718) [Spell Family (8), Pas
 Class            : Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 38
 Attributes       : ......x. ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -5185,6 +5233,7 @@ Name             : Garrote (desc=Rank 2) (id=231719) [Spell Family (8), Passive]
 Class            : Assassination Rogue
 School           : Holy
 Spell Type       : None
+Spell Level      : 46
 Attributes       : ......x. ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -5204,6 +5253,7 @@ Name             : Between the Eyes (desc=Rank 2) (id=235484) [Spell Family (8),
 Class            : Outlaw Rogue
 School           : Holy
 Spell Type       : None
+Spell Level      : 44
 Attributes       : ......x. ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -5370,6 +5420,7 @@ Name             : Sprint (desc=Rank 3) (id=245751) [Spell Family (8), Passive]
 Class            : Subtlety Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 43
 Proc Chance      : 101%
 Proc Flags       : ........ ..x..... ........ ........ 
                  : Generic Heal
@@ -7342,6 +7393,7 @@ Name             : Sinister Strike (desc=Rank 2) (id=279876) [Spell Family (8), 
 Class            : Outlaw Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 12
 Attributes       : ......x. ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -7360,6 +7412,7 @@ Name             : Sinister Strike (desc=Rank 2) (id=279877) [Spell Family (8), 
 Class            : Assassination Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 12
 Attributes       : ......x. ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -8718,6 +8771,7 @@ School           : Physical
 Spell Type       : Melee
 Resource         : 25 Energy (3) (id=192451)
 Resource         : 1 - 5 Combo Points (4) (id=192452)
+Spell Level      : 17
 Range            : 20 yards
 GCD              : 1 seconds
 Cooldown         : 45 seconds
@@ -8787,6 +8841,7 @@ Class            : Outlaw Rogue
 School           : Physical
 Spell Type       : None
 Resource         : 25 Energy (3) (id=192463)[Hotfixed: Cost (50 -> 25)]
+Spell Level      : 29
 GCD              : 1 seconds
 Duration         : 30 seconds
 Cooldown         : 45 seconds
@@ -8811,6 +8866,7 @@ Name             : Instant Poison (id=315584) [Spell Family (8)]
 Class            : Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 10
 Cast Time        : 1.5 seconds
 Duration         : 3600 seconds
 Requires weapon  : One-handed Axe, One-handed Mace, One-handed Sword, Fist Weapon, Dagger
@@ -8861,6 +8917,7 @@ Name             : Find Weakness (id=316219) [Spell Family (8), Passive]
 Class            : Subtlety Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 37
 Proc Chance      : 100%
 Proc Flags       : ....x... ....x... ........ ........ 
                  : Yellow Melee, Generic Hostile Spell
@@ -8968,6 +9025,7 @@ Name             : Wound Poison (desc=Rank 2) (id=319066) [Spell Family (8), Pas
 Class            : Assassination Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 44
 Attributes       : ......x. ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -9070,6 +9128,7 @@ Name             : Mastery: Potent Assassin (desc=Rank 2) (id=319473) [Spell Fam
 Class            : Assassination Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 41
 Attributes       : ......x. ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -9114,6 +9173,7 @@ Name             : Grappling Hook (desc=Rank 2) (id=319600) [Spell Family (8), P
 Class            : Outlaw Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 56
 Attributes       : ......x. ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -9135,6 +9195,7 @@ Class            : Rogue
 School           : Physical
 Spell Type       : Melee
 Resource         : 24 Energy (3) (id=192572)
+Spell Level      : 19
 GCD              : 1 seconds
 Duration         : 12 seconds
 Requires weapon  : One-handed Axe, One-handed Mace, One-handed Sword, Fist Weapon, Dagger
@@ -9171,6 +9232,7 @@ Name             : Backstab (desc=Rank 2) (id=319949) [Spell Family (8), Passive
 Class            : Subtlety Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 46
 Proc Chance      : 100%
 Proc Flags       : ..x.x... ........ ........ ........ 
                  : White Melee, Yellow Melee
@@ -11052,6 +11114,7 @@ Name             : Slice and Dice (desc=Rank 2) (id=344362) [Passive]
 Class            : Assassination Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 56
 Attributes       : ......x. ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -11070,6 +11133,7 @@ Name             : Evasion (desc=Rank 2) (id=344363) [Spell Family (8), Passive]
 Class            : Outlaw Rogue
 School           : Physical
 Spell Type       : None
+Spell Level      : 58
 Proc Chance      : 100%
 Proc Flags       : ...x.x.. ........ ........ ........ 
                  : White Melee Taken, Yellow Melee Taken

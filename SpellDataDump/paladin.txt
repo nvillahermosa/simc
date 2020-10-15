@@ -1,4 +1,4 @@
-SimulationCraft 901-01 for World of Warcraft 9.0.1.36230 shadowlands-BETA (hotfix 2020-10-15/36230, no-networking)
+SimulationCraft 901-01 for World of Warcraft 9.0.1.36247 shadowlands-BETA (hotfix 2020-10-15/36247, no-networking)
 
 Name             : Haste (id=65) [Scaling Spell (-1)] 
 Class            : Paladin
@@ -149,6 +149,7 @@ Name             : Divine Shield (id=642) [Spell Family (10)]
 Class            : Paladin
 School           : Holy
 Spell Type       : Magic
+Spell Level      : 10
 GCD              : 1.5 seconds
 Duration         : 8 seconds
 Cooldown         : 300 seconds
@@ -10441,6 +10442,7 @@ Name             : Bestow Faith (id=343618) [Spell Family (10)]
 Class            : Paladin
 School           : Physical
 Spell Type       : None
+Spell Level      : 1
 Attributes       : ........ ........ ........ x..x....   .....x.. ........ ........ ........ 
                  : .......x ......x. ........ ........   ........ .x...... xx...... ........ 
                  : .......x ........ ........ ........   ...x.... ........ .xx..... ........ 

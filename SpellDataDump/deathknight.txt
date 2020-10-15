@@ -1,4 +1,4 @@
-SimulationCraft 901-01 for World of Warcraft 9.0.1.36230 shadowlands-BETA (hotfix 2020-10-15/36230, no-networking)
+SimulationCraft 901-01 for World of Warcraft 9.0.1.36247 shadowlands-BETA (hotfix 2020-10-15/36247, no-networking)
 
 Name             : Dual Wield (desc=Passive) (id=674) [Passive] 
 Class            : Frost Warrior, Hunter, Rogue, Death Knight, Monk, Demon Hunter
@@ -1221,6 +1221,7 @@ Name             : Killing Machine (id=51124) [Spell Family (15)]
 Class            : Death Knight
 School           : Frost
 Spell Type       : None
+Spell Level      : 1
 Duration         : 10 seconds
 Stacks           : 1 maximum
 Proc Chance      : 101%
@@ -1354,6 +1355,7 @@ Name             : Razorice (id=51714) [Spell Family (15)]
 Class            : Death Knight
 School           : Frost
 Spell Type       : Magic
+Spell Level      : 1
 Range            : 50000 yards
 Duration         : 20 seconds
 Stacks           : 5 maximum
@@ -1447,6 +1449,7 @@ Name             : Rune of Razorice (id=53343) [Hidden]
 Class            : Death Knight
 School           : Physical
 Spell Type       : None
+Spell Level      : 8
 Cast Time        : 5 seconds
 Requires weapon  : One-handed Axe, Two-handed Axe, One-handed Mace, Two-handed Mace, Polearm, One-handed Sword, Two-handed Sword, Staff, Fist Weapon, Miscellaneous, Dagger, Spear
 Attributes       : .....x.x x....x.. x....... ........   ........ ..x..... ........ ........ 
@@ -1471,6 +1474,7 @@ Name             : Rune of the Fallen Crusader (id=53344) [Hidden]
 Class            : Death Knight
 School           : Physical
 Spell Type       : None
+Spell Level      : 8
 Cast Time        : 5 seconds
 Requires weapon  : One-handed Axe, Two-handed Axe, One-handed Mace, Two-handed Mace, Polearm, One-handed Sword, Two-handed Sword, Staff, Fist Weapon, Miscellaneous, Dagger, Spear
 Attributes       : .....x.x x....... x....... ........   ........ ..x..... ........ ........ 
@@ -1739,6 +1743,7 @@ Name             : Glyph of Foul Menagerie (id=58642) [Spell Family (15), Passiv
 Class            : Death Knight
 School           : Physical
 Spell Type       : None
+Spell Level      : 1
 Attributes       : ......xx x....... ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -1991,6 +1996,7 @@ Name             : Rune of the Stoneskin Gargoyle (id=62158) [Hidden]
 Class            : Death Knight
 School           : Physical
 Spell Type       : None
+Spell Level      : 8
 Cast Time        : 5 seconds
 Requires weapon  : Two-handed Axe, Two-handed Mace, Polearm, Two-handed Sword, Staff
 Attributes       : .....x.x x....... x....... ........   ........ ..x..... ........ ........ 
@@ -6954,6 +6960,7 @@ Name             : Will of the Necropolis (desc=Passive Talent) (id=206967) [Pas
 Class            : Death Knight
 School           : Physical
 Spell Type       : None
+Spell Level      : 1
 Attributes       : ....x.x. ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ .......x ........ ........   ........ ........ ........ ........ 
@@ -13083,6 +13090,7 @@ Name             : Stagger (desc=Rank 2) (id=322522) [Spell Family (53), Passive
 Class            : Brewmaster Death Knight, Monk
 School           : Physical
 Spell Type       : None
+Spell Level      : 26
 Attributes       : ......x. ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -13314,6 +13322,7 @@ Name             : Rune of Sanguination (id=326805) [Hidden]
 Class            : Death Knight
 School           : Physical
 Spell Type       : None
+Spell Level      : 32
 Cast Time        : 5 seconds
 Requires weapon  : One-handed Axe, Two-handed Axe, One-handed Mace, Two-handed Mace, Polearm, One-handed Sword, Two-handed Sword, Staff, Fist Weapon, Miscellaneous, Dagger, Spear
 Attributes       : .....x.x x....... x....... ........   ........ ..x..... ........ ........ 
@@ -13384,6 +13393,7 @@ Name             : Rune of Spellwarding (id=326855) [Hidden]
 Class            : Death Knight
 School           : Physical
 Spell Type       : None
+Spell Level      : 48
 Cast Time        : 5 seconds
 Requires weapon  : One-handed Axe, Two-handed Axe, One-handed Mace, Two-handed Mace, Polearm, One-handed Sword, Two-handed Sword, Staff, Fist Weapon, Miscellaneous, Dagger, Spear
 Attributes       : .....x.x x....... x....... ........   ........ ..x..... ........ ........ 
@@ -13484,6 +13494,7 @@ Name             : Rune of Hysteria (id=326911) [Hidden]
 Class            : Death Knight
 School           : Physical
 Spell Type       : None
+Spell Level      : 46
 Cast Time        : 5 seconds
 Requires weapon  : One-handed Axe, Two-handed Axe, One-handed Mace, Two-handed Mace, Polearm, One-handed Sword, Two-handed Sword, Staff, Fist Weapon, Miscellaneous, Dagger, Spear
 Attributes       : .....x.x x....... x....... ........   ........ ..x..... ........ ........ 
@@ -13560,6 +13571,7 @@ Name             : Rune of Unending Thirst (id=326977) [Hidden]
 Class            : Death Knight
 School           : Physical
 Spell Type       : None
+Spell Level      : 20
 Cast Time        : 5 seconds
 Requires weapon  : One-handed Axe, Two-handed Axe, One-handed Mace, Two-handed Mace, Polearm, One-handed Sword, Two-handed Sword, Staff, Fist Weapon, Miscellaneous, Dagger, Spear
 Attributes       : .....x.x x....... x....... ........   ........ ..x..... ........ ........ 
@@ -13635,6 +13647,7 @@ Name             : Rune of the Apocalypse (id=327082) [Hidden]
 Class            : Death Knight
 School           : Physical
 Spell Type       : None
+Spell Level      : 44
 Cast Time        : 5 seconds
 Requires weapon  : One-handed Axe, Two-handed Axe, One-handed Mace, Two-handed Mace, Polearm, One-handed Sword, Two-handed Sword, Staff, Fist Weapon, Miscellaneous, Dagger, Spear
 Attributes       : .....x.x x....... x....... ........   ........ ..x..... ........ ........ 

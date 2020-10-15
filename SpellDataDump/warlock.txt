@@ -1,4 +1,4 @@
-SimulationCraft 901-01 for World of Warcraft 9.0.1.36230 shadowlands-BETA (hotfix 2020-10-15/36230, no-networking)
+SimulationCraft 901-01 for World of Warcraft 9.0.1.36247 shadowlands-BETA (hotfix 2020-10-15/36247, no-networking)
 
 Name             : Eye of Kilrogg (id=126) [Spell Family (5)] 
 Class            : Warlock
@@ -200,6 +200,7 @@ Class            : Warlock
 School           : Shadow
 Spell Type       : Magic
 Resource         : 1 Soul Shard (7) (id=81)
+Spell Level      : 10
 Cast Time        : 6 seconds
 GCD              : 1.5 seconds
 Duration         : Aura (infinite)
@@ -705,6 +706,7 @@ Name             : Healthstone (id=6262) [Scaling Spell (-2), Spell Family (5)]
 Class            : Warlock
 School           : Physical
 Spell Type       : Magic
+Spell Level      : 7
 Cooldown         : 60 seconds
 Category         : 1711
 Category Cooldown: 60 seconds
@@ -1943,6 +1945,7 @@ Class            : Warlock
 School           : Shadow
 Spell Type       : Magic
 Resource         : 1% Base Mana (0) (id=192753)
+Spell Level      : 1
 Range            : 40 yards
 GCD              : 1.5 seconds
 Duration         : 15 seconds
@@ -4252,6 +4255,7 @@ Name             : Unstable Affliction (id=196364) [Spell Family (5)]
 Class            : Warlock
 School           : Shadow
 Spell Type       : Magic
+Spell Level      : 1
 Range            : 50000 yards
 Duration         : 4 seconds
 Family Flags     : 43

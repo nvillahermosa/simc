@@ -1,4 +1,4 @@
-SimulationCraft 901-01 for World of Warcraft 9.0.1.36230 shadowlands-BETA (hotfix 2020-10-15/36230, no-networking)
+SimulationCraft 901-01 for World of Warcraft 9.0.1.36247 shadowlands-BETA (hotfix 2020-10-15/36247, no-networking)
 
 Name             : Power Word: Shield (id=17) [Spell Family (6)] 
 Hotfixed         : Variables
@@ -667,6 +667,7 @@ Name             : Silence (id=15487) [Spell Family (6)]
 Class            : Shadow Priest
 School           : Shadow
 Spell Type       : Magic
+Spell Level      : 29
 Range            : 30 yards
 Duration         : 4 seconds
 Cooldown         : 45 seconds
@@ -743,6 +744,7 @@ Name             : Spirit of Redemption (id=20711) [Spell Family (6), Passive]
 Class            : Holy Priest
 School           : Physical
 Spell Type       : None
+Spell Level      : 29
 Affecting spells : Surrender to Madness (193223 effect#2), Afterlife (196707 effects: #1, #2), Surrender to Madness (319952 effect#7)
 Family Flags     : 73
 Attributes       : ....x.x. x....... ........ ........   ........ ........ ........ ........ 
@@ -2103,6 +2105,7 @@ Name             : Shadowy Apparitions (id=78203) [Spell Family (6), Passive]
 Class            : Priest
 School           : Physical
 Spell Type       : None
+Spell Level      : 38
 Proc Chance      : 100%
 Proc Flags       : ........ ........ ..x..... ........ 
                  : Periodic
@@ -2124,6 +2127,7 @@ Name             : Atonement (id=81749) [Spell Family (6), Passive]
 Class            : Discipline Priest
 School           : Physical
 Spell Type       : None
+Spell Level      : 12
 Proc Chance      : 100%
 Proc Flags       : ........ ........ x.x..... ........ 
                  : Magic Hostile Spell, Periodic
@@ -2946,6 +2950,7 @@ Class            : Discipline Holy Priest
 School           : Holy
 Spell Type       : Magic
 Resource         : 1.6% Base Mana (0) (id=7897)
+Spell Level      : 31
 GCD              : 1.5 seconds
 Affecting spells : Twist of Fate (123254 effects: #1, #2), Holy Priest (137031 effects: #3, #4), Shadow Priest (137033 effects: #1, #2), Surrender to Madness (193223 effect#2), Voidform (194249 effects: #1, #2), Schism (214621 effect#2), Shadowform (232698 effects: #1, #4), Twist of Fate (265258 effects: #1, #2), Sins of the Many (280398 effects: #1, #2), Sudden Revelation (287360 effect#1), Surrender to Madness (319952 effect#7)
 Family Flags     : 49, 72
@@ -3406,7 +3411,7 @@ Effects          :
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Target: Self (1)
 
 Name             : Voidform (id=185916) [Spell Family (6), Passive, Hidden] 
-Hotfixed         : Spell Level (14 -> 10)
+Hotfixed         : Learn Level (14 -> 10), Required Level (14 -> 10)
 Class            : Shadow Priest
 School           : Physical
 Spell Type       : None
@@ -3854,6 +3859,7 @@ Class            : Discipline Priest
 School           : Holy
 Spell Type       : Magic
 Resource         : 6.5% Base Mana (0) (id=10498)
+Spell Level      : 23
 Range            : 40 yards
 Cast Time        : 2 seconds
 GCD              : 1.5 seconds
@@ -8941,7 +8947,7 @@ Effects          :
 Description      : Vampiric Embrace heals for an additional $s1% of your single-target Shadow spell damage.
 
 Name             : Holy Nova (desc=Rank 2) (id=322112) [Spell Family (6), Passive] 
-Hotfixed         : Spell Level (47 -> 56)
+Hotfixed         : Learn Level (47 -> 56), Required Level (47 -> 56)
 Class            : Discipline Holy Priest
 School           : Holy
 Spell Type       : None
@@ -9505,7 +9511,7 @@ Effects          :
 Description      : Fade now reduces the range at which enemies will attack you.
 
 Name             : Mass Dispel (desc=Rank 2) (id=327830) [Spell Family (6), Passive] 
-Hotfixed         : Spell Level (54 -> 50)
+Hotfixed         : Learn Level (54 -> 50), Required Level (54 -> 50)
 Class            : Priest
 School           : Holy
 Spell Type       : None
@@ -10448,6 +10454,7 @@ Name             : Dark Thoughts (desc=Passive) (id=341205) [Spell Family (6), P
 Class            : Shadow Priest
 School           : Shadow
 Spell Type       : None
+Spell Level      : 41
 Proc Chance      : 100%
 Proc Flags       : ........ ........ ..x..... ........ 
                  : Periodic

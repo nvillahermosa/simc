@@ -1,4 +1,4 @@
-SimulationCraft 901-01 for World of Warcraft 9.0.1.36230 shadowlands-BETA (hotfix 2020-10-15/36230, no-networking)
+SimulationCraft 901-01 for World of Warcraft 9.0.1.36247 shadowlands-BETA (hotfix 2020-10-15/36247, no-networking)
 
 Name             : Vanguard (id=71) [Spell Family (4), Passive] 
 Class            : Protection Warrior
@@ -1158,6 +1158,7 @@ Name             : Second Wind (id=29838) [Spell Family (4), Passive]
 Class            : Warrior
 School           : Physical
 Spell Type       : None
+Spell Level      : 1
 Proc Chance      : 100%
 Proc Flags       : ...x.x.x .x...x.. .x.x.... ........ 
                  : White Melee Taken, Yellow Melee Taken, White Ranged Taken , Yellow Ranged Taken, Generic Hostile Spell Taken, Magic Hostile Spell Taken, Periodic Taken
@@ -1886,6 +1887,7 @@ Name             : Whirlwind (id=85739) [Spell Family (4)]
 Class            : Warrior
 School           : Physical
 Spell Type       : None
+Spell Level      : 1
 Duration         : 20 seconds
 Internal Cooldown: 0.5 seconds
 Stacks           : 2 maximum
@@ -2108,6 +2110,7 @@ Name             : Rallying Cry (id=97463) [Spell Family (4)]
 Class            : Warrior
 School           : Physical
 Spell Type       : None
+Spell Level      : 1
 Range            : 100 yards
 Duration         : 10 seconds
 Affecting spells : Bladestorm (46924 effect#3), Bladestorm (227847 effect#3), Moment of Glory (280209 effect#2), Inspiring Presence (335034 effect#1)
@@ -3276,6 +3279,7 @@ Class            : Warrior
 School           : Physical
 Spell Type       : Melee
 Resource         : 20 - 40 Rage (1) (id=9491)
+Spell Level      : 10
 Range            : 5 yards
 GCD              : 1.5 seconds
 Requires weapon  : One-handed Axe, Two-handed Axe, One-handed Mace, Two-handed Mace, Polearm, One-handed Sword, Two-handed Sword, Staff, Fist Weapon, Dagger, Spear
@@ -4010,6 +4014,7 @@ Name             : Second Wind (id=202147) [Spell Family (4), Passive]
 Class            : Warrior
 School           : Physical
 Spell Type       : None
+Spell Level      : 1
 Attributes       : ....x.x. ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ .....x..   ........ ........ x....... ........ 
                  : ........ .......x .......x ........   ........ ........ ........ ........ 
@@ -4028,6 +4033,7 @@ Name             : Second Wind (id=202149) [Spell Family (4)]
 Class            : Warrior
 School           : Physical
 Spell Type       : None
+Spell Level      : 1
 Duration         : 5 seconds
 Attributes       : ........ x....... ........ x..x....   .....x.. ..x..... ........ ....x... 
                  : ........ ......x. ...x.... ....x...   ........ ........ ........ ........ 
@@ -4771,6 +4777,7 @@ Name             : Rebound (desc=PvP Talent) (id=213915) [Spell Family (4), Pass
 Class            : Warrior
 School           : Physical
 Spell Type       : None
+Spell Level      : 1
 Family Flags     : 79
 Attributes       : ......x. ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
