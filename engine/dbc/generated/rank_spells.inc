@@ -1,4 +1,4 @@
-// Rank class spells, wow build 9.0.2.36165
+// Rank class spells, wow build 9.0.1.36230
 static const std::array<rank_class_spell_t, 335> __rank_spells_data { {
   { 10, 269, 322719,      0, "Afterlife"                         , "Rank 2" },
   {  9, 265, 231792,      0, "Agony"                             , "Rank 2" },
@@ -114,7 +114,6 @@ static const std::array<rank_class_spell_t, 335> __rank_spells_data { {
   { 10, 270, 322104,      0, "Expel Harm"                        , "Rank 2" },
   { 10, 270, 325214,      0, "Expel Harm"                        , "Rank 3" },
   { 12, 577, 320415,      0, "Eye Beam"                          , "Rank 2" },
-  { 12, 577, 343311,      0, "Eye Beam"                          , "Rank 3" },
   {  5,   0, 327821,      0, "Fade"                              , "Rank 2" },
   {  9,   0, 342914,      0, "Fear"                              , "Rank 2" },
   { 12, 581, 320639,      0, "Fel Devastation"                   , "Rank 2" },
@@ -125,6 +124,7 @@ static const std::array<rank_class_spell_t, 335> __rank_spells_data { {
   { 12, 581, 320962,      0, "Fiery Brand"                       , "Rank 2" },
   { 12, 581, 343010,      0, "Fiery Brand"                       , "Rank 3" },
   {  8,  63, 231568,      0, "Fire Blast"                        , "Rank 2" },
+  {  8,  63, 108853, 319836, "Fire Blast"                        , "Rank 3" },
   {  8,  63, 231567,      0, "Fire Blast"                        , "Rank 4" },
   {  7, 262, 343226,      0, "Fire Elemental Totem"              , "Rank 2" },
   {  8,  63, 157642,      0, "Fireball"                          , "Rank 2" },

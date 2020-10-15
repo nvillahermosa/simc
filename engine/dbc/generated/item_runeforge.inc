@@ -1,4 +1,4 @@
-// Runeforge legendary bonuses, wow build 9.0.2.36165
+// Runeforge legendary bonuses, wow build 9.0.1.36230
 static const std::array<runeforge_legendary_entry_t, 576> __runeforge_legendary_data { {
   { 6823, 64, 327508, 0x000000c0, "Slick Ice" },
   { 6828, 64, 327284, 0x00110020, "Cold Front" },
@@ -242,7 +242,7 @@ static const std::array<runeforge_legendary_entry_t, 576> __runeforge_legendary_
   { 7091, 103, 339139, 0x00000048, "Apex Predator's Craving" },
   { 7092, 104, 339060, 0x00110020, "Luffa-Infused Embrace" },
   { 7093, 104, 339063, 0x00000402, "The Natural Order's Will" },
-  { 7094, 104, 339056, 0x00010080, "Ursoc's Fury Remembered" },
+  { 7094, 104, 339056, 0x00010080, "Ursoc's Lingering Spirit" },
   { 7095, 104, 339062, 0x00000140, "Legacy of the Sleeper" },
   { 7096, 105, 339064, 0x00000280, "Memory of the Mother Tree" },
   { 7097, 105, 338831, 0x00010004, "The Dark Titan's Lesson" },
@@ -522,7 +522,7 @@ static const std::array<runeforge_legendary_entry_t, 576> __runeforge_legendary_
   { 7115, 259, 340081, 0x00010100, "Dashing Scoundrel" },
   { 7116, 259, 340082, 0x00000408, "Doomblade" },
   { 7117, 259, 340083, 0x00000180, "Zoldyck Insignia" },
-  { 7118, 259, 340084, 0x00000820, "Duskwalker's Patch" },
+  { 7118, 259, 340084, 0x00000820, "Dustwalker's Patch" },
   { 7119, 260, 340085, 0x00000042, "Greenskin's Wickers" },
   { 7120, 260, 340086, 0x00000204, "Guile Charm" },
   { 7121, 260, 340087, 0x00000808, "Celerity" },
