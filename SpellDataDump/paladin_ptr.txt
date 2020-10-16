@@ -1,4 +1,4 @@
-SimulationCraft 901-01 for World of Warcraft 9.0.2.36165 shadowlands-BETA (hotfix 2020-10-07/36165, no-networking)
+SimulationCraft 901-01 for World of Warcraft 9.0.1.36247 shadowlands-BETA (hotfix 2020-10-15/36247, no-networking)
 
 Name             : Haste (id=65) [Scaling Spell (-1)] 
 Class            : Paladin
@@ -149,6 +149,7 @@ Name             : Divine Shield (id=642) [Spell Family (10)]
 Class            : Paladin
 School           : Holy
 Spell Type       : Magic
+Spell Level      : 10
 GCD              : 1.5 seconds
 Duration         : 8 seconds
 Cooldown         : 300 seconds
@@ -1717,7 +1718,7 @@ Resource         : 3 Holy Power (9) (id=4098)
 Spell Level      : 7
 Range            : 40 yards
 GCD              : 1.5 seconds
-Affecting spells : Avenging Wrath (31884 effects: #1, #2, #3), Sanctuary (105805 effect#5), Retribution Paladin (137027 effect#15), Holy Paladin (137029 effects: #1, #2), Bastion of Power (144569 effect#1), Sacred Shield Overridde (Holy) (148040 effect#2), Beacon of Faith (156910 effect#3), Fires of Justice (209785 effect#1), Rule of Law (214202 effect#1), Divine Purpose (223819 effects: #1, #2), Sacred Judgment (253806 effect#1), Shining Light (327510 effect#1), The Magistrate's Judgment (337682 effect#1), Blessing of Dawn (337747 effects: #1, #2), Shadowbreaker, Dawn of the Sun (337815 effect#1)
+Affecting spells : Avenging Wrath (31884 effects: #1, #2, #3), Sanctuary (105805 effect#5), Retribution Paladin (137027 effect#15), Holy Paladin (137029 effects: #1, #2), Bastion of Power (144569 effect#1), Sacred Shield Overridde (Holy) (148040 effect#2), Beacon of Faith (156910 effect#3), Fires of Justice (209785 effect#1), Rule of Law (214202 effect#1), Divine Purpose (223819 effects: #1, #2), Sacred Judgment (253806 effect#1), Righteous Conviction (287126 effect#1), Shining Light (327510 effect#1), The Magistrate's Judgment (337682 effect#1), Blessing of Dawn (337747 effects: #1, #2), Shadowbreaker, Dawn of the Sun (337815 effect#1)
 Family Flags     : 46, 78
 Attributes       : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -5956,9 +5957,11 @@ Attributes       : ......x. ........ ........ ........   ........ ........ .....
                  : Passive (6), Scales with item level (354)
 Effects          :
 #1 (id=716157)   : Apply Aura (6) | Unknown(277)
-                   Base Value: 0 | Scaled Value: 5.29283 (coefficient=0.055714) | PvP Coefficient: 0.20000 | Trigger Spell: 270653 | Target: Self (1)
+                   Base Value: 0 | Scaled Value: 35.8719 (coefficient=0.377599) | PvP Coefficient: 0.20000 | Trigger Spell: 270653 | Target: Self (1)
+Hotfixed         : Coefficient (0.055714 -> 0.377599)
 #2 (id=716158)   : Apply Aura (6) | Dummy (4)
-                   Base Value: 0 | Scaled Value: 1.58783 (coefficient=0.016714) | PvP Coefficient: 0.20000 | Target: Self (1)
+                   Base Value: 0 | Scaled Value: 10.7616 (coefficient=0.11328) | PvP Coefficient: 0.20000 | Target: Self (1)
+Hotfixed         : Coefficient (0.016714 -> 0.11328)
 Description      : Increases your movement speed by $s1% of your highest secondary rating, up to $s2%.
 Tooltip          : Increases your movement speed by $s1% of your highest secondary rating, up to $s2%.
 
@@ -7826,6 +7829,7 @@ Effects          :
 Description      : Your attacks have a chance to make your next Divine Storm free and deal $s1 additional damage.
 
 Name             : Righteous Conviction (id=287126) [Scaling Spell (-8), Spell Family (10), Passive] 
+Hotfixed         : Description
 Class            : Paladin
 School           : Physical
 Spell Type       : None
@@ -7842,8 +7846,10 @@ Attributes       : ......x. ........ ........ ........   ........ ........ .....
 Effects          :
 #1 (id=749914)   : Apply Aura (6) | Add Flat Modifier (107): Spell Direct Amount (0)
                    Base Value: 0 | Scaled Value: 445.3021 (coefficient=18.42331) | PvP Coefficient: 0.50000 | Target: Self (1)
-                   Family Flags: 125
-Description      : Your $?s213652[Hand of the Protector][Light of the Protector] heals for $s1 additional healing, and is always increased by 200% during Avenging Wrath.
+                   Affected Spells: Word of Glory (85673)
+                   Family Flags: 78
+Hotfixed         : Affects Spells
+Description      : Word of Glory heals for $s1 additional healing. During Avenging Wrath, it receives the maximum value of any health-based bonuses.
 
 Name             : Glimmer of Light (id=287268) [Scaling Spell (-8), Spell Family (10), Passive] 
 Class            : Paladin
@@ -10436,6 +10442,7 @@ Name             : Bestow Faith (id=343618) [Spell Family (10)]
 Class            : Paladin
 School           : Physical
 Spell Type       : None
+Spell Level      : 1
 Attributes       : ........ ........ ........ x..x....   .....x.. ........ ........ ........ 
                  : .......x ......x. ........ ........   ........ .x...... xx...... ........ 
                  : .......x ........ ........ ........   ...x.... ........ .xx..... ........ 

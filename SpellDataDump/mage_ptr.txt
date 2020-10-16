@@ -1,4 +1,4 @@
-SimulationCraft 901-01 for World of Warcraft 9.0.2.36165 shadowlands-BETA (hotfix 2020-10-07/36165, no-networking)
+SimulationCraft 901-01 for World of Warcraft 9.0.1.36247 shadowlands-BETA (hotfix 2020-10-15/36247, no-networking)
 
 Name             : Invisibility (id=66) [Spell Family (3)] 
 Class            : Paladin, Mage
@@ -163,11 +163,12 @@ Description      : Throws a fiery ball that causes $s1 Fire damage.$?a157642[
 Each time your Fireball fails to critically strike a target, it gains a stacking $157644s1% increased critical strike chance. Effect ends when Fireball critically strikes.][]
 
 Name             : Remove Curse (id=475) [Spell Family (3)] 
-Hotfixed         : Spell Level (21 -> 0)
+Hotfixed         : Learn Level (21 -> 0), Required Level (21 -> 28)
 Class            : Mage
 School           : Arcane
 Spell Type       : Magic
 Resource         : 1.3% Base Mana (0) (id=52)
+Spell Level      : 28
 Range            : 40 yards
 GCD              : 1.5 seconds
 Cooldown         : 8 seconds
@@ -441,7 +442,7 @@ Attributes       : ........ ........ x....... .....x..   ..x....x ..x...x. .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ........ ........ 
                  : ........ ........ ........ ........   
-                 : Channeled (34), Periodic effect affected by haste (173)
+                 : Channeled (34), Periodic effect affected by haste (173), Duration affected by haste (273)
 Effects          :
 #1 (id=1818)     : Apply Aura (6) | Periodic Dummy (226): every 0.625 seconds
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Target: Enemy (6)
@@ -532,11 +533,12 @@ Hotfixed         : SP Coefficient (1.239 -> 1.363)
 Description      : Hurls an immense fiery boulder that causes $s1 Fire damage$?a321711[ and an additional $321712o2 Fire damage over $321712d][].
 
 Name             : Ice Barrier (id=11426) [Spell Family (3)] 
-Hotfixed         : Spell Level (28 -> 0)
+Hotfixed         : Learn Level (28 -> 0), Required Level (28 -> 21)
 Class            : Frost Mage
 School           : Frost
 Spell Type       : Magic
 Resource         : 3% Base Mana (0) (id=414)
+Spell Level      : 21
 GCD              : 1.5 seconds
 Duration         : 60 seconds
 Cooldown         : 25 seconds
@@ -622,7 +624,7 @@ Attributes       : ........ ........ x....... ........   ......x. ..x..... .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : x....... ........ ........ ........   x....... ........ ....x... ........ 
                  : ........ ........ ........ ........   
-                 : Channeled (38), Disable player procs (112), Tick on application (169), Periodic effect affected by haste (173)
+                 : Channeled (38), Disable player procs (112), Tick on application (169), Periodic effect affected by haste (173), Duration affected by haste (273)
 Effects          :
 #1 (id=5141)     : Apply Aura (6) | Modify Power Regen (110)
                    Base Value: 750 | Scaled Value: 750 | PvP Coefficient: 1.00000 | Target: Self (1)
@@ -1281,7 +1283,7 @@ Attributes       : ........ ........ x....... ..x.....   ........ ........ .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x......x ........ ....x... ........ 
                  : ........ ........ ........ ........   
-                 : Periodic effect affected by haste (173), Periodic effect can crit (265)
+                 : Periodic effect affected by haste (173), Periodic effect can crit (265), Duration affected by haste (273)
 Effects          :
 #1 (id=36371)    : Dummy (3)
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Target: Enemy (6)
@@ -1318,6 +1320,7 @@ Name             : Fingers of Frost (id=44544) [Spell Family (3)]
 Class            : Mage
 School           : Frost
 Spell Type       : None
+Spell Level      : 1
 Range            : 100 yards
 Duration         : 15 seconds
 Stacks           : 2 maximum
@@ -1431,6 +1434,7 @@ Attributes       : ........ ........ ........ ........   ........ ..x..... .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ........ ........ 
                  : ........ ........ ........ ........   
+                 : Duration affected by haste (273)
 Effects          :
 #1 (id=40278)    : Apply Aura (6) | Dummy (4)
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Target: Self (1)
@@ -2583,6 +2587,7 @@ Name             : Incanter's Flow (id=116267) [Spell Family (3)]
 Class            : Mage
 School           : Arcane
 Spell Type       : None
+Spell Level      : 1
 Range            : 50000 yards
 Duration         : 25 seconds
 Stacks           : 5 maximum
@@ -2865,10 +2870,11 @@ Effects          :
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Target: Self (1)
 
 Name             : Arcane Mage (id=137021) [Spell Family (3), Passive, Hidden] 
+Hotfixed         : Max Spell Level (49 -> 30)
 Class            : Arcane Death Knight, Mage
 School           : Physical
 Spell Type       : None
-Spell Level      : 10 (max 49)
+Spell Level      : 10 (max 30)
 Attributes       : ....x.xx x....... ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -2890,7 +2896,8 @@ Effects          :
 #3 (id=191117)   : Apply Aura (6) | Modify Pet Damage Done% (429)
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Target: Self (1)
 #4 (id=191118)   : Apply Aura (6) | Modify Power Regen (110)
-                   Base Value: 60 | Scaled Value: -18 | Points Per Level: -2 | PvP Coefficient: 1.00000 | Target: Self (1)
+                   Base Value: 60 | Scaled Value: 0 | Points Per Level: -3 | PvP Coefficient: 1.00000 | Target: Self (1)
+Hotfixed         : Points per Level (-2.0 -> -3.0)
 #5 (id=191119)   : Apply Aura (6) | Add Percent Modifier (108): Spell Resource Cost (14)
                    Base Value: -67 | Scaled Value: -67 | PvP Coefficient: 1.00000 | Misc Value: 14 | Target: Self (1)
                    Family Flags: 36
@@ -3077,7 +3084,7 @@ Attributes       : ........ ........ ........ ........   ........ ........ .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ........ ........ 
                  : ........ ........ ........ ........   
-                 : Periodic effect affected by haste (173), Requires line of sight (186), Fixed travel time (292)
+                 : Periodic effect affected by haste (173), Requires line of sight (186), Duration affected by haste (273), Fixed travel time (292)
 Effects          :
 #1 (id=212829)   : School Damage (2): fire
                    Base Value: 0 | Scaled Value: 0 (coefficient=0, delta coefficient=0.05) | SP Coefficient: 2.60000 | PvP Coefficient: 0.80000 | Radius: 0 - 8 yards | Target: Unknown(87) -> AOE enemy (instant) (16)
@@ -3103,7 +3110,7 @@ Attributes       : ........ ........ ........ ........   ........ ..x..... .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ........ ........ 
                  : ........ ........ ........ ........   
-                 : Periodic effect affected by haste (173)
+                 : Periodic effect affected by haste (173), Duration affected by haste (273)
 Effects          :
 #1 (id=212871)   : Dummy (3)
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Target: At Enemy (53) -> Enemy (6)
@@ -3688,7 +3695,7 @@ Attributes       : ........ ........ ........ ........   ........ ..x..... .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ........ ........ 
                  : ........ ........ ........ ........   
-                 : Periodic effect affected by haste (173)
+                 : Periodic effect affected by haste (173), Duration affected by haste (273)
 Effects          :
 #1 (id=278845)   : Dummy (3)
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Radius: 8 yards | Target: Unknown(87) -> AOE enemy (instant) (16)
@@ -4166,7 +4173,7 @@ Attributes       : ........ ........ ........ ........   ..x..... ......x. .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ........ ........ 
                  : ........ ........ ........ ........   
-                 : Channeled (34), Periodic effect affected by haste (173), Periodic effect can crit (265)
+                 : Channeled (34), Periodic effect affected by haste (173), Periodic effect can crit (265), Duration affected by haste (273)
 Effects          :
 #1 (id=302648)   : Apply Aura (6) | Decrease Movement Speed% (33)
                    Base Value: -60 | Scaled Value: -60 | PvP Coefficient: 1.00000 | Mechanic: Snare | Target: Enemy (6)
@@ -4911,7 +4918,7 @@ Attributes       : ........ ........ x....... ..x.....   ........ ........ .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x......x ........ ....x... ........ 
                  : ........ ........ ........ ........   
-                 : Periodic effect affected by haste (173), Periodic effect can crit (265)
+                 : Periodic effect affected by haste (173), Periodic effect can crit (265), Duration affected by haste (273)
 Effects          :
 #1 (id=324014)   : Apply Aura (6) | Periodic Damage (3): fire every 1 seconds
                    Base Value: 0 | Scaled Value: 0 | SP Coefficient: 0.06000 | PvP Coefficient: 1.00000 | Target: Enemy (6)
@@ -5488,11 +5495,12 @@ Effects          :
 Description      : Ice Barrier increases your armor by $s1% while active, and Ice Block applies Ice Barrier to you when it fades.
 
 Name             : Blazing Barrier (id=235313) [Spell Family (3)] 
-Hotfixed         : Spell Level (28 -> 0)
+Hotfixed         : Learn Level (28 -> 0), Required Level (28 -> 21)
 Class            : Fire Mage
 School           : Fire
 Spell Type       : Magic
 Resource         : 3% Base Mana (0) (id=11752)
+Spell Level      : 21
 GCD              : 1.5 seconds
 Duration         : 60 seconds
 Cooldown         : 25 seconds
@@ -5570,11 +5578,12 @@ Effects          :
 Description      : Casting Blink ignites a Blazing Barrier around you.
 
 Name             : Prismatic Barrier (id=235450) [Spell Family (3)] 
-Hotfixed         : Spell Level (28 -> 0)
+Hotfixed         : Learn Level (28 -> 0), Required Level (28 -> 21)
 Class            : Arcane Mage
 School           : Arcane
 Spell Type       : Magic
 Resource         : 3% Base Mana (0) (id=11754)
+Spell Level      : 21
 GCD              : 1.5 seconds
 Duration         : 60 seconds
 Cooldown         : 25 seconds
@@ -5937,7 +5946,7 @@ Attributes       : ........ ........ x....... ..x.....   ........ ........ .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x......x ........ ....x... ........ 
                  : ........ ........ ........ ........   
-                 : Periodic effect affected by haste (173), Periodic effect can crit (265)
+                 : Periodic effect affected by haste (173), Periodic effect can crit (265), Duration affected by haste (273)
 Effects          :
 #1 (id=372237)   : Apply Aura (6) | Periodic Damage (3): fire every 1 seconds
                    Base Value: 0 | Scaled Value: 0 | SP Coefficient: 0.06000 | PvP Coefficient: 1.00000 | Target: Enemy (6)
@@ -7003,9 +7012,11 @@ Attributes       : ......x. ........ ........ ........   ........ ........ .....
                  : Passive (6), Scales with item level (354)
 Effects          :
 #1 (id=716157)   : Apply Aura (6) | Unknown(277)
-                   Base Value: 0 | Scaled Value: 5.29283 (coefficient=0.055714) | PvP Coefficient: 0.20000 | Trigger Spell: 270653 | Target: Self (1)
+                   Base Value: 0 | Scaled Value: 35.8719 (coefficient=0.377599) | PvP Coefficient: 0.20000 | Trigger Spell: 270653 | Target: Self (1)
+Hotfixed         : Coefficient (0.055714 -> 0.377599)
 #2 (id=716158)   : Apply Aura (6) | Dummy (4)
-                   Base Value: 0 | Scaled Value: 1.58783 (coefficient=0.016714) | PvP Coefficient: 0.20000 | Target: Self (1)
+                   Base Value: 0 | Scaled Value: 10.7616 (coefficient=0.11328) | PvP Coefficient: 0.20000 | Target: Self (1)
+Hotfixed         : Coefficient (0.016714 -> 0.11328)
 Description      : Increases your movement speed by $s1% of your highest secondary rating, up to $s2%.
 Tooltip          : Increases your movement speed by $s1% of your highest secondary rating, up to $s2%.
 
@@ -9191,7 +9202,7 @@ Attributes       : ........ ........ x....... ........   ......x. ........ .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   
-                 : Channeled (38), Periodic effect affected by haste (173)
+                 : Channeled (38), Periodic effect affected by haste (173), Duration affected by haste (273)
 Effects          :
 #1 (id=798083)   : Apply Aura (6) | Periodic Trigger Spell (23): Shifting Power every 1.5 seconds
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Trigger Spell: 325130 | Target: Self (1)

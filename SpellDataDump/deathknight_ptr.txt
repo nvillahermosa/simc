@@ -1,4 +1,4 @@
-SimulationCraft 901-01 for World of Warcraft 9.0.2.36165 shadowlands-BETA (hotfix 2020-10-07/36165, no-networking)
+SimulationCraft 901-01 for World of Warcraft 9.0.1.36247 shadowlands-BETA (hotfix 2020-10-15/36247, no-networking)
 
 Name             : Dual Wield (desc=Passive) (id=674) [Passive] 
 Class            : Frost Warrior, Hunter, Rogue, Death Knight, Monk, Demon Hunter
@@ -1221,6 +1221,7 @@ Name             : Killing Machine (id=51124) [Spell Family (15)]
 Class            : Death Knight
 School           : Frost
 Spell Type       : None
+Spell Level      : 1
 Duration         : 10 seconds
 Stacks           : 1 maximum
 Proc Chance      : 101%
@@ -1354,6 +1355,7 @@ Name             : Razorice (id=51714) [Spell Family (15)]
 Class            : Death Knight
 School           : Frost
 Spell Type       : Magic
+Spell Level      : 1
 Range            : 50000 yards
 Duration         : 20 seconds
 Stacks           : 5 maximum
@@ -1447,6 +1449,7 @@ Name             : Rune of Razorice (id=53343) [Hidden]
 Class            : Death Knight
 School           : Physical
 Spell Type       : None
+Spell Level      : 8
 Cast Time        : 5 seconds
 Requires weapon  : One-handed Axe, Two-handed Axe, One-handed Mace, Two-handed Mace, Polearm, One-handed Sword, Two-handed Sword, Staff, Fist Weapon, Miscellaneous, Dagger, Spear
 Attributes       : .....x.x x....x.. x....... ........   ........ ..x..... ........ ........ 
@@ -1471,6 +1474,7 @@ Name             : Rune of the Fallen Crusader (id=53344) [Hidden]
 Class            : Death Knight
 School           : Physical
 Spell Type       : None
+Spell Level      : 8
 Cast Time        : 5 seconds
 Requires weapon  : One-handed Axe, Two-handed Axe, One-handed Mace, Two-handed Mace, Polearm, One-handed Sword, Two-handed Sword, Staff, Fist Weapon, Miscellaneous, Dagger, Spear
 Attributes       : .....x.x x....... x....... ........   ........ ..x..... ........ ........ 
@@ -1739,6 +1743,7 @@ Name             : Glyph of Foul Menagerie (id=58642) [Spell Family (15), Passiv
 Class            : Death Knight
 School           : Physical
 Spell Type       : None
+Spell Level      : 1
 Attributes       : ......xx x....... ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -1991,6 +1996,7 @@ Name             : Rune of the Stoneskin Gargoyle (id=62158) [Hidden]
 Class            : Death Knight
 School           : Physical
 Spell Type       : None
+Spell Level      : 8
 Cast Time        : 5 seconds
 Requires weapon  : Two-handed Axe, Two-handed Mace, Polearm, Two-handed Sword, Staff
 Attributes       : .....x.x x....... x....... ........   ........ ..x..... ........ ........ 
@@ -2286,11 +2292,11 @@ Attributes       : ......x. x....... ........ ........   ........ ........ .....
 Effects          :
 #1 (id=68129)    : Apply Aura (6) | Add Percent Modifier (108): Spell Direct Amount (0)
                    Base Value: 0 | Scaled Value: 0 | SP Coefficient: 2.25000 | PvP Coefficient: 1.00000 | Target: Self (1)
-                   Affected Spells: Death Coil (47632), Death and Decay (52212), Scourge Strike (70890), Outbreak (77575), Unholy Blight (115989), Unholy Blight (115994), Defile (156000), Virulent Plague (191587), Virulent Eruption (191685), Festering Wound (194311), Bursting Sores (207267), Clawing Shadows (207311), Epidemic (212739), Epidemic (215969), Necrotic Strike (223829), Horrid Experimentation (273096), Apocalypse (275699), Harrowing Decay (275931), Last Surprise (279606), Shadow Bolt (288546), Swarming Mist (311730), Unholy Pact (319236), Death's Due (341340), Soul Reaper (343294), Dark Transformation (344955)
+                   Affected Spells: Death Coil (47632), Death and Decay (52212), Scourge Strike (70890), Outbreak (77575), Unholy Blight (115989), Unholy Blight (115994), Defile (156000), Virulent Plague (191587), Virulent Eruption (191685), Festering Wound (194311), Bursting Sores (207267), Clawing Shadows (207311), Epidemic (212739), Epidemic (215969), Necrotic Strike (223829), Horrid Experimentation (273096), Apocalypse (275699), Harrowing Decay (275931), Last Surprise (279606), Swarming Mist (311730), Unholy Pact (319236), Death's Due (341340), Soul Reaper (343294), Dark Transformation (344955)
                    Family Flags: 78
 #2 (id=90623)    : Apply Aura (6) | Add Percent Modifier (108): Spell Periodic Amount (22)
                    Base Value: 0 | Scaled Value: 0 | SP Coefficient: 2.25000 | PvP Coefficient: 1.00000 | Misc Value: 22 | Target: Self (1)
-                   Affected Spells: Death Coil (47632), Death and Decay (52212), Scourge Strike (70890), Outbreak (77575), Unholy Blight (115989), Unholy Blight (115994), Defile (156000), Virulent Plague (191587), Virulent Eruption (191685), Festering Wound (194311), Bursting Sores (207267), Clawing Shadows (207311), Epidemic (212739), Epidemic (215969), Necrotic Strike (223829), Horrid Experimentation (273096), Apocalypse (275699), Harrowing Decay (275931), Last Surprise (279606), Shadow Bolt (288546), Swarming Mist (311730), Unholy Pact (319236), Death's Due (341340), Soul Reaper (343294), Dark Transformation (344955)
+                   Affected Spells: Death Coil (47632), Death and Decay (52212), Scourge Strike (70890), Outbreak (77575), Unholy Blight (115989), Unholy Blight (115994), Defile (156000), Virulent Plague (191587), Virulent Eruption (191685), Festering Wound (194311), Bursting Sores (207267), Clawing Shadows (207311), Epidemic (212739), Epidemic (215969), Necrotic Strike (223829), Horrid Experimentation (273096), Apocalypse (275699), Harrowing Decay (275931), Last Surprise (279606), Swarming Mist (311730), Unholy Pact (319236), Death's Due (341340), Soul Reaper (343294), Dark Transformation (344955)
                    Family Flags: 78
 #3 (id=800836)   : Apply Aura (6) | Modify Pet Damage Done% (429)
                    Base Value: 0 | Scaled Value: 0 | SP Coefficient: 2.25000 | PvP Coefficient: 1.00000 | Target: Self (1)
@@ -4027,10 +4033,11 @@ Effects          :
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Target: Self (1)
 
 Name             : Arcane Mage (id=137021) [Spell Family (3), Passive, Hidden] 
+Hotfixed         : Max Spell Level (49 -> 30)
 Class            : Arcane Death Knight, Mage
 School           : Physical
 Spell Type       : None
-Spell Level      : 10 (max 49)
+Spell Level      : 10 (max 30)
 Attributes       : ....x.xx x....... ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -4052,7 +4059,8 @@ Effects          :
 #3 (id=191117)   : Apply Aura (6) | Modify Pet Damage Done% (429)
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Target: Self (1)
 #4 (id=191118)   : Apply Aura (6) | Modify Power Regen (110)
-                   Base Value: 60 | Scaled Value: -18 | Points Per Level: -2 | PvP Coefficient: 1.00000 | Target: Self (1)
+                   Base Value: 60 | Scaled Value: 0 | Points Per Level: -3 | PvP Coefficient: 1.00000 | Target: Self (1)
+Hotfixed         : Points per Level (-2.0 -> -3.0)
 #5 (id=191119)   : Apply Aura (6) | Add Percent Modifier (108): Spell Resource Cost (14)
                    Base Value: -67 | Scaled Value: -67 | PvP Coefficient: 1.00000 | Misc Value: 14 | Target: Self (1)
                    Family Flags: 36
@@ -5370,7 +5378,7 @@ Attributes       : ....x... ........ ........ .......x   ........ ........ .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ........ ........ 
                  : ........ ........ ........ ........   
-                 : Cannot cancel aura (31), Periodic effect affected by haste (173)
+                 : Cannot cancel aura (31), Periodic effect affected by haste (173), Duration affected by haste (273)
 Effects          :
 #1 (id=210835)   : Apply Aura (6) | Dummy (4)
                    Base Value: 30 | Scaled Value: 30 | PvP Coefficient: 1.00000 | Target: Self (1)
@@ -6913,7 +6921,7 @@ Attributes       : ........ ........ x....... ........   ..x..... ......x. .....
                  : ........ ........ ..x..... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ........ ........ 
                  : ........ ........ ........ ........   
-                 : Channeled (34), Tick on application (169), Periodic effect affected by haste (173), Periodic effect can crit (265)
+                 : Channeled (34), Tick on application (169), Periodic effect affected by haste (173), Periodic effect can crit (265), Duration affected by haste (273)
 Effects          :
 #1 (id=306042)   : Apply Aura (6) | Periodic Health Leech (53): every 1 seconds
                    Base Value: 0 | Scaled Value: 0 | Value Multiplier: 1 | AP Coefficient: 0.44226 | PvP Coefficient: 1.00000 | Target: Enemy (6)
@@ -6952,6 +6960,7 @@ Name             : Will of the Necropolis (desc=Passive Talent) (id=206967) [Pas
 Class            : Death Knight
 School           : Physical
 Spell Type       : None
+Spell Level      : 1
 Attributes       : ....x.x. ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ .......x ........ ........   ........ ........ ........ ........ 
@@ -9152,9 +9161,11 @@ Attributes       : ......x. ........ ........ ........   ........ ........ .....
                  : Passive (6), Scales with item level (354)
 Effects          :
 #1 (id=716157)   : Apply Aura (6) | Unknown(277)
-                   Base Value: 0 | Scaled Value: 5.29283 (coefficient=0.055714) | PvP Coefficient: 0.20000 | Trigger Spell: 270653 | Target: Self (1)
+                   Base Value: 0 | Scaled Value: 35.8719 (coefficient=0.377599) | PvP Coefficient: 0.20000 | Trigger Spell: 270653 | Target: Self (1)
+Hotfixed         : Coefficient (0.055714 -> 0.377599)
 #2 (id=716158)   : Apply Aura (6) | Dummy (4)
-                   Base Value: 0 | Scaled Value: 1.58783 (coefficient=0.016714) | PvP Coefficient: 0.20000 | Target: Self (1)
+                   Base Value: 0 | Scaled Value: 10.7616 (coefficient=0.11328) | PvP Coefficient: 0.20000 | Target: Self (1)
+Hotfixed         : Coefficient (0.016714 -> 0.11328)
 Description      : Increases your movement speed by $s1% of your highest secondary rating, up to $s2%.
 Tooltip          : Increases your movement speed by $s1% of your highest secondary rating, up to $s2%.
 
@@ -11614,6 +11625,7 @@ Effects          :
 Description      : Icebound Fortitude heals for $s1 every sec and its cooldown is reduced by $s2 seconds.
 
 Name             : Shadow Bolt (id=288546) [Spell Family (15)] 
+Hotfixed         : Affecting Spells
 Class            : Death Knight
 School           : Shadow
 Spell Type       : Magic
@@ -11623,8 +11635,6 @@ Range            : 40 yards
 Cast Time        : 2 seconds
 Velocity         : 35 yards/sec
 Stance Mask      : 0x00000040
-Affecting spells : Mastery: Dreadblade (77515 effects: #1, #2)
-Family Flags     : 78
 Attributes       : ........ ........ ..x..... ........   ........ .x...... ........ ...x.... 
                  : ........ ........ ...x.... ........   ........ ........ ........ ........ 
                  : ........ .......x ........ ........   ........ ........ ........ ........ 
@@ -13071,7 +13081,8 @@ Attributes       : ....x... ........ ..x..... ........   ........ ........ .....
                  : ........ ........ ........ ........   
 Effects          :
 #1 (id=810066)   : Apply Aura (6) | Modify Power Cost% (72)
-                   Base Value: -35 | Scaled Value: -35 | PvP Coefficient: 1.00000 | Misc Value: 127 | Misc Value 2: 0x40 | Target: Self (1)
+                   Base Value: -35 | Scaled Value: -35 | PvP Coefficient: 1.00000 | Misc Value: 16 | Misc Value 2: 0x40 | Target: Self (1)
+Hotfixed         : Misc Value (127 -> 16)
 Description      : Embrace the ice in your veins, reducing the Runic Power cost of your abilities by $s1% for $d. Does not trigger the global cooldown.
 Tooltip          : The Runic Power cost of your abilities is reduced by $s1%.
 
@@ -13079,6 +13090,7 @@ Name             : Stagger (desc=Rank 2) (id=322522) [Spell Family (53), Passive
 Class            : Brewmaster Death Knight, Monk
 School           : Physical
 Spell Type       : None
+Spell Level      : 26
 Attributes       : ......x. ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -13310,6 +13322,7 @@ Name             : Rune of Sanguination (id=326805) [Hidden]
 Class            : Death Knight
 School           : Physical
 Spell Type       : None
+Spell Level      : 32
 Cast Time        : 5 seconds
 Requires weapon  : One-handed Axe, Two-handed Axe, One-handed Mace, Two-handed Mace, Polearm, One-handed Sword, Two-handed Sword, Staff, Fist Weapon, Miscellaneous, Dagger, Spear
 Attributes       : .....x.x x....... x....... ........   ........ ..x..... ........ ........ 
@@ -13380,6 +13393,7 @@ Name             : Rune of Spellwarding (id=326855) [Hidden]
 Class            : Death Knight
 School           : Physical
 Spell Type       : None
+Spell Level      : 48
 Cast Time        : 5 seconds
 Requires weapon  : One-handed Axe, Two-handed Axe, One-handed Mace, Two-handed Mace, Polearm, One-handed Sword, Two-handed Sword, Staff, Fist Weapon, Miscellaneous, Dagger, Spear
 Attributes       : .....x.x x....... x....... ........   ........ ..x..... ........ ........ 
@@ -13480,6 +13494,7 @@ Name             : Rune of Hysteria (id=326911) [Hidden]
 Class            : Death Knight
 School           : Physical
 Spell Type       : None
+Spell Level      : 46
 Cast Time        : 5 seconds
 Requires weapon  : One-handed Axe, Two-handed Axe, One-handed Mace, Two-handed Mace, Polearm, One-handed Sword, Two-handed Sword, Staff, Fist Weapon, Miscellaneous, Dagger, Spear
 Attributes       : .....x.x x....... x....... ........   ........ ..x..... ........ ........ 
@@ -13556,6 +13571,7 @@ Name             : Rune of Unending Thirst (id=326977) [Hidden]
 Class            : Death Knight
 School           : Physical
 Spell Type       : None
+Spell Level      : 20
 Cast Time        : 5 seconds
 Requires weapon  : One-handed Axe, Two-handed Axe, One-handed Mace, Two-handed Mace, Polearm, One-handed Sword, Two-handed Sword, Staff, Fist Weapon, Miscellaneous, Dagger, Spear
 Attributes       : .....x.x x....... x....... ........   ........ ..x..... ........ ........ 
@@ -13631,6 +13647,7 @@ Name             : Rune of the Apocalypse (id=327082) [Hidden]
 Class            : Death Knight
 School           : Physical
 Spell Type       : None
+Spell Level      : 44
 Cast Time        : 5 seconds
 Requires weapon  : One-handed Axe, Two-handed Axe, One-handed Mace, Two-handed Mace, Polearm, One-handed Sword, Two-handed Sword, Staff, Fist Weapon, Miscellaneous, Dagger, Spear
 Attributes       : .....x.x x....... x....... ........   ........ ..x..... ........ ........ 
@@ -14687,7 +14704,7 @@ School           : Physical
 Spell Type       : None
 Stance Mask      : 0x00000001
 Affecting spells : Starfall (191034 effect#2), Astral Influence (197524 effect#3), Stellar Drift (202461 effect#1), Berserk (343223 effect#1)
-Triggered by     : Incarnation: King of the Jungle (102543), Berserk (106951)
+Triggered by     : Incarnation: King of the Jungle (102543), Berserk (106951), Berserk (279526)
 Family Flags     : 72
 Attributes       : ....x... ........ ........ x.......   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ xx...... ........ 

@@ -1,4 +1,4 @@
-SimulationCraft 901-01 for World of Warcraft 9.0.2.36165 shadowlands-BETA (hotfix 2020-10-07/36165, no-networking)
+SimulationCraft 901-01 for World of Warcraft 9.0.1.36247 shadowlands-BETA (hotfix 2020-10-15/36247, no-networking)
 
 Name             : Vanguard (id=71) [Spell Family (4), Passive] 
 Class            : Protection Warrior
@@ -1158,6 +1158,7 @@ Name             : Second Wind (id=29838) [Spell Family (4), Passive]
 Class            : Warrior
 School           : Physical
 Spell Type       : None
+Spell Level      : 1
 Proc Chance      : 100%
 Proc Flags       : ...x.x.x .x...x.. .x.x.... ........ 
                  : White Melee Taken, Yellow Melee Taken, White Ranged Taken , Yellow Ranged Taken, Generic Hostile Spell Taken, Magic Hostile Spell Taken, Periodic Taken
@@ -1326,7 +1327,7 @@ Attributes       : ....x... ........ x.x..... .....x..   ....x... .xx....x .....
                  : ........ ........ ..x..... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ....x... ........ 
                  : ........ ........ ........ ........   
-                 : Requires main-hand weapon (106), Tick on application (169), Periodic effect affected by haste (173)
+                 : Requires main-hand weapon (106), Tick on application (169), Periodic effect affected by haste (173), Duration affected by haste (273)
 Effects          :
 #1 (id=39082)    : Apply Aura (6) | Periodic Trigger Spell (23): Bladestorm every 1 seconds
                    Base Value: 8 | Scaled Value: 8 | PvP Coefficient: 1.00000 | Trigger Spell: 50622 | Target: Self (1)
@@ -1886,6 +1887,7 @@ Name             : Whirlwind (id=85739) [Spell Family (4)]
 Class            : Warrior
 School           : Physical
 Spell Type       : None
+Spell Level      : 1
 Duration         : 20 seconds
 Internal Cooldown: 0.5 seconds
 Stacks           : 2 maximum
@@ -2108,6 +2110,7 @@ Name             : Rallying Cry (id=97463) [Spell Family (4)]
 Class            : Warrior
 School           : Physical
 Spell Type       : None
+Spell Level      : 1
 Range            : 100 yards
 Duration         : 10 seconds
 Affecting spells : Bladestorm (46924 effect#3), Bladestorm (227847 effect#3), Moment of Glory (280209 effect#2), Inspiring Presence (335034 effect#1)
@@ -3128,7 +3131,7 @@ Attributes       : ....x... ........ ........ .......x   ........ ........ .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ........ ........ 
                  : ........ ........ ........ ........   
-                 : Cannot cancel aura (31), Periodic effect affected by haste (173)
+                 : Cannot cancel aura (31), Periodic effect affected by haste (173), Duration affected by haste (273)
 Effects          :
 #1 (id=210835)   : Apply Aura (6) | Dummy (4)
                    Base Value: 30 | Scaled Value: 30 | PvP Coefficient: 1.00000 | Target: Self (1)
@@ -3276,6 +3279,7 @@ Class            : Warrior
 School           : Physical
 Spell Type       : Melee
 Resource         : 20 - 40 Rage (1) (id=9491)
+Spell Level      : 10
 Range            : 5 yards
 GCD              : 1.5 seconds
 Requires weapon  : One-handed Axe, Two-handed Axe, One-handed Mace, Two-handed Mace, Polearm, One-handed Sword, Two-handed Sword, Staff, Fist Weapon, Dagger, Spear
@@ -4010,6 +4014,7 @@ Name             : Second Wind (id=202147) [Spell Family (4), Passive]
 Class            : Warrior
 School           : Physical
 Spell Type       : None
+Spell Level      : 1
 Attributes       : ....x.x. ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ .....x..   ........ ........ x....... ........ 
                  : ........ .......x .......x ........   ........ ........ ........ ........ 
@@ -4028,6 +4033,7 @@ Name             : Second Wind (id=202149) [Spell Family (4)]
 Class            : Warrior
 School           : Physical
 Spell Type       : None
+Spell Level      : 1
 Duration         : 5 seconds
 Attributes       : ........ x....... ........ x..x....   .....x.. ..x..... ........ ....x... 
                  : ........ ......x. ...x.... ....x...   ........ ........ ........ ........ 
@@ -4771,6 +4777,7 @@ Name             : Rebound (desc=PvP Talent) (id=213915) [Spell Family (4), Pass
 Class            : Warrior
 School           : Physical
 Spell Type       : None
+Spell Level      : 1
 Family Flags     : 79
 Attributes       : ......x. ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -5088,7 +5095,7 @@ Attributes       : ....x... ........ x.x..... .....x..   ....x... .xx....x .....
                  : ........ ........ ..x..... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ....x... ........ 
                  : ........ ........ ........ ........   
-                 : Requires main-hand weapon (106), Tick on application (169), Periodic effect affected by haste (173)
+                 : Requires main-hand weapon (106), Tick on application (169), Periodic effect affected by haste (173), Duration affected by haste (273)
 Effects          :
 #1 (id=342669)   : Apply Aura (6) | Periodic Trigger Spell (23): Bladestorm every 1 seconds
                    Base Value: 8 | Scaled Value: 8 | PvP Coefficient: 1.00000 | Trigger Spell: 50622 | Target: Self (1)
@@ -5124,7 +5131,7 @@ Attributes       : ....x... ........ ........ .......x   ........ ........ .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ....x... ........ 
                  : ........ ........ ........ ........   
-                 : Cannot cancel aura (31), Periodic effect affected by haste (173)
+                 : Cannot cancel aura (31), Periodic effect affected by haste (173), Duration affected by haste (273)
 Effects          :
 #1 (id=345047)   : Apply Aura (6) | Dummy (4)
                    Base Value: 30 | Scaled Value: 30 | PvP Coefficient: 1.00000 | Target: Self (1)
@@ -6409,9 +6416,11 @@ Attributes       : ......x. ........ ........ ........   ........ ........ .....
                  : Passive (6), Scales with item level (354)
 Effects          :
 #1 (id=716157)   : Apply Aura (6) | Unknown(277)
-                   Base Value: 0 | Scaled Value: 5.29283 (coefficient=0.055714) | PvP Coefficient: 0.20000 | Trigger Spell: 270653 | Target: Self (1)
+                   Base Value: 0 | Scaled Value: 35.8719 (coefficient=0.377599) | PvP Coefficient: 0.20000 | Trigger Spell: 270653 | Target: Self (1)
+Hotfixed         : Coefficient (0.055714 -> 0.377599)
 #2 (id=716158)   : Apply Aura (6) | Dummy (4)
-                   Base Value: 0 | Scaled Value: 1.58783 (coefficient=0.016714) | PvP Coefficient: 0.20000 | Target: Self (1)
+                   Base Value: 0 | Scaled Value: 10.7616 (coefficient=0.11328) | PvP Coefficient: 0.20000 | Target: Self (1)
+Hotfixed         : Coefficient (0.016714 -> 0.11328)
 Description      : Increases your movement speed by $s1% of your highest secondary rating, up to $s2%.
 Tooltip          : Increases your movement speed by $s1% of your highest secondary rating, up to $s2%.
 
@@ -6791,6 +6800,7 @@ Effects          :
 Description      : Shield Slam deals $s1% increased damage, and reduces enemies' damage against you by $275335s1% for $275335d. Multiple punishments may overlap.
 
 Name             : Punish (id=275335) [Spell Family (4)] 
+Hotfixed         : Attributes
 Class            : Warrior
 School           : Physical
 Spell Type       : None
@@ -6800,7 +6810,7 @@ Stacks           : 5 maximum
 Proc Chance      : 101%
 Triggered by     : Punish (275334)
 Attributes       : ........ ........ ..x..... ..x.....   ........ ........ ........ ........ 
-                 : ........ ........ ........ ........   ........ ........ ........ ......x. 
+                 : ........ ........ ........ ........   .......x ........ ........ ......x. 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ....x... ........ ........   ........ ........ ........ ........ 

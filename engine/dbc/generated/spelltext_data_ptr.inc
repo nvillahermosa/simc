@@ -1,5 +1,5 @@
-// Spell text, wow build 9.0.1.36200
-static const std::array<spelltext_data_t, 15579> __ptr_spelltext_data { {
+// Spell text, wow build 9.0.1.36272
+static const std::array<spelltext_data_t, 15581> __ptr_spelltext_data { {
   {     17, "Shields an ally for $d, absorbing $<shield> damage.  You cannot shield the target again for $6788d.", "Absorbs $w1 damage.", 0 },
   {     53, "Stab the target, causing ${$s2*$<mult>} Physical damage. Damage increased by $s4% when you are behind your target$?s319949[, and critical strikes apply Find Weakness for $319949s1 sec][].\r\n\r\n|cFFFFFFFFAwards $s3 combo $lpoint:points;.|r", 0, 0 },
   {     56, "Stuns target for $d.", "Stunned.", 0 },
@@ -10824,13 +10824,13 @@ static const std::array<spelltext_data_t, 15579> __ptr_spelltext_data { {
   { 273344, "Increases your Mastery by $s1 and Armor by $s2 for $273349d after Survival Instincts expires.", 0, 0 },
   { 273348, "$@spelldesc273334", "Heal for $w1 when you take damage.", 0 },
   { 273349, "$@spelldesc273344", "Mastery increased by $w1. Armor increased by $w2.", 0 },
-  { 273367, "Moonfire deals $s2 additional periodic damage, and has a chance to grant Lunar Empowerment.", 0, 0 },
+  { 273367, "Moonfire deals $s2 additional periodic damage.", 0, 0 },
   { 273389, "$@spelldesc273367", 0, 0 },
   { 273409, "While $?s152277[Ravager is active][Bladestorming], every $?c2[$288131t1][$273414t1] sec you gain $s2% movement speed and $s1 Strength, stacking. Lasts $273415d.", 0, 0 },
   { 273412, "$@spelldesc273409", 0, 0 },
   { 273414, "$@spelldesc273409", 0, 0 },
   { 273415, "$@spelldesc273409", "Strength increased by $w1. Movement speed increased by $w2%.", 0 },
-  { 273418, "Nightblade increases the damage of your next Eviscerate within 8 sec by $s1 per combo point.", 0, 0 },
+  { 273418, "Rupture increases the damage of your next Eviscerate within 8 sec by $s1 per combo point.", 0, 0 },
   { 273419, "$@spelldesc273418", 0, 0 },
   { 273424, "$@spelldesc273418", "Your next Eviscerate deals an additional $w1 damage.", 0 },
   { 273448, "Flame Shock damage increases the damage of your next Earth Shock by $s1, stacking up to $273453u times.", 0, 0 },
@@ -10838,7 +10838,7 @@ static const std::array<spelltext_data_t, 15579> __ptr_spelltext_data { {
   { 273453, "$@spelldesc273448", "Your next Earth Shock will deal an additional $w1 damage.", 0 },
   { 273461, "Flame Shock causes your next melee ability to deal an additional $s1 Nature damage.", 0, 0 },
   { 273463, "$@spelldesc273461", 0, 0 },
-  { 273464, "When you Blackout Strike, your Stagger is reduced by $s1.", 0, 0 },
+  { 273464, "When you Blackout Kick, your Stagger is reduced by $s1.", 0, 0 },
   { 273465, "$@spelldesc273461", "Your next melee ability will deal additional Nature damage.", 0 },
   { 273466, "$@spelldesc273461", 0, 0 },
   { 273468, "$@spelldesc273464", 0, 0 },
@@ -11045,7 +11045,7 @@ static const std::array<spelltext_data_t, 15579> __ptr_spelltext_data { {
   { 275726, "$@spelldesc275725", 0, 0 },
   { 275773, "Judges the target, dealing $s1 Holy damage$?s231644[, and causing the target to take $214222s2% increased damage from your next Crusader Strike or Holy Shock][].", 0, 0 },
   { 275779, "Judges the target, dealing $s1 Holy damage$?s231663[, and causing them to take $197277s1% increased damage from your next Holy Power ability][].$?a315867[\r\n\r\n|cFFFFFFFFGenerates $220637s1 Holy Power.][]\r\n", 0, 0 },
-  { 275846, "When you spend Combo Points on $?s5171[Slice and Dice][Roll the Bones], your next $275863n Sinister Strikes will deal $s1 additional damage for each Combo Point spent.", 0, 0 },
+  { 275846, "When you spend Combo Points on Slice and Dice, your next $275863n Sinister Strikes will deal $s1 additional damage for each Combo Point spent.", 0, 0 },
   { 275858, "$@spelldesc275846", 0, 0 },
   { 275863, "$@spelldesc275846", "Your next Sinister Strike deals $w1 additional damage.", 0 },
   { 275892, "Drinking Purifying Brew while at Heavy Stagger causes your next $275893u melee abilities to heal you for $s1.", 0, 0 },
@@ -11286,7 +11286,7 @@ static const std::array<spelltext_data_t, 15579> __ptr_spelltext_data { {
   { 278643, "Power Word: Radiance restores $s2 additional health, and applies Atonement for $s1% of its normal duration.", 0, 0 },
   { 278645, "Prayer of Mending heals for an additional $s1 and reduces Holy Word: Sanctify's cooldown by ${$s2/1000} sec.", 0, 0 },
   { 278659, "Shadow Word: Pain deals an additional ${$s1*($589d/$589t2)} damage over its duration. When an enemy dies while afflicted by your Shadow Word: Pain, you gain ${$s2/100} Insanity.", 0, 0 },
-  { 278661, "When Voidform ends, gain $s1 Critical Strike for each stack of Voidform. This effect decays every $279572t3 sec.", 0, 0 },
+  { 278661, "When Voidform ends, gain $s1 Critical Strike, stacking 20 times. This effect decays every $279572t3 sec.", 0, 0 },
   { 278666, "Garrote cast from Stealth generates $s2 additional Combo Points and deals ${$s1*$<assassinationMastery>} additional damage every $703t1 sec for $703d. ", 0, 0 },
   { 278675, "Take control of the dice of fate, granting yourself $s1 Agility if Roll the Bones only provides you with one combat enhancement.", 0, 0 },
   { 278676, "Each combo point spent on Between the Eyes increases damage by an additional $s1 and grants a $s2% chance to gain $m3 $LCombo Point:Combo Points;.", 0, 0 },
@@ -11428,7 +11428,7 @@ static const std::array<spelltext_data_t, 15579> __ptr_spelltext_data { {
   { 279523, "$@spelldesc278709", "Auto attack damage increased by $w1.", 0 },
   { 279524, "Rake deals ${$s2*5} additional damage over its duration, and has a chance to grant you Berserk for $279526d. Cannot occur while $?s102543[Incarnation: King of the Jungle][Berserk] is active.", 0, 0 },
   { 279525, "$@spelldesc279524", 0, 0 },
-  { 279526, "Reduces the energy cost of all Cat Form abilities by $s1% and increases maximum Energy by $s3 for $d.", "Reduces the energy cost of all Cat Form abilities by $s1% and increases maximum Energy by $s3.", 0 },
+  { 279526, "Reduces the energy cost of all Cat Form abilities by $s1% and increases maximum Energy by $s3 for $d.", "$@spellaura106951", 0 },
   { 279527, "Shred deals $s1 additional damage, and $?s202028[Brutal Slash][Swipe] deals $s2 additional damage, to enemies suffering from your Thrash.", 0, 0 },
   { 279536, "$@spelldesc278510", 0, 0 },
   { 279540, "$@spelldesc278511", 0, 0 },
@@ -11815,11 +11815,11 @@ static const std::array<spelltext_data_t, 15579> __ptr_spelltext_data { {
   { 285719, "$@spelldesc274813", "Intellect increased by $w1.", 0 },
   { 285902, "Attune yourself to the energies of the targeted Crucible of Storms raid boss, increasing your Versatility by $269268s1 when fighting that boss. This effect lasts for an entire week.\r\n\r\nYou can only use one Vantus Rune per week.", 0, 0 },
   { 285933, "Protects the caster, increasing maximum health by $m1% and increases armor by $m2%.", "Increases maximum health by $w1%.\r\nArmor increased by $w2%.", 0 },
-  { 285958, "Ironskin Brew increases your Armor by $s1, and has a $s2% chance to not consume a charge.", 0, 0 },
+  { 285958, "Shuffle increases your Armor by $s1.", 0, 0 },
   { 285959, "$@spelldesc285958", "Armor increased by $w1.", 0 },
   { 286027, "While you are above $264351s1% mana, Arcane Blast deals $s1 additional damage.\r\n\r\nWhile you are below $264351s1% mana, Arcane Blast's cost is reduced by $264353s1.", 0, 0 },
   { 286050, "Set out a Sanguinated Feast to feed up to 35 people in your raid or party!\r\n\r\nRestores $257427o1 health and $257427o2 mana over $257427d.  Must remain seated while eating.  If you spend at least 10 seconds eating you will become well fed and gain $259456s1 in a stat for $259456d.", 0, 0 },
-  { 286121, "Each combo point spent has a $s2% chance to cause your Nightblade to deal $s1 Shadow damage and replicate to a nearby enemy.", 0, 0 },
+  { 286121, "Each combo point spent has a $s2% chance to cause your Rupture to deal $s1 Shadow damage and replicate to a nearby enemy.", 0, 0 },
   { 286124, "Restores $257427o1 health and $257427o2 mana over $257427d.  Must remain seated while eating.  If you spend at least 10 seconds eating you will become well fed for $286171d and slow melee attackers' movement speed by $286351s1% for $286351d.", 0, 0 },
   { 286130, "$@spelldesc286121", 0, 0 },
   { 286131, "$@spelldesc286121", "Deals $s1 Shadow damage.", 0 },
@@ -11868,7 +11868,7 @@ static const std::array<spelltext_data_t, 15579> __ptr_spelltext_data { {
   { 287080, "Summons a member of the Citizens Brigade.", "You have called forth a member of the Citizens Brigade.", 0 },
   { 287093, "Kill Command deals $<damage> additional damage, and has a chance to summon a Dire Beast.", 0, 0 },
   { 287097, "$@spelldesc287093", 0, 0 },
-  { 287126, "Your $?s213652[Hand of the Protector][Light of the Protector] heals for $s1 additional healing, and is always increased by 200% during Avenging Wrath.", 0, 0 },
+  { 287126, "Word of Glory heals for $s1 additional healing. During Avenging Wrath, it receives the maximum value of any health-based bonuses.", 0, 0 },
   { 287185, "$@spelldesc262303", "Your next spell cast will be enhanced.", 0 },
   { 287247, "$@spelldesc274432", 0, 0 },
   { 287251, "When Wild Growth expires, it heals the target for $s1 if they are injured, or it reduces the cooldown of Innervate by $<reduction> sec if they are not.", 0, 0 },
@@ -14220,6 +14220,7 @@ static const std::array<spelltext_data_t, 15579> __ptr_spelltext_data { {
   { 327161, "$@spelldesc326059", 0, "Necrolord" },
   { 327162, "$@spelldesc326059", 0, "Necrolord" },
   { 327163, "$@spelldesc326059", 0, "Necrolord" },
+  { 327164, "$@spelldesc326059", "Your next $?a137040[Lava Burst]?a137041[Lightning Bolt][Healing Wave] will also hit all targets affected by your $?a137040|a137041[Flame Shock][Riptide].", "Necrolord" },
   { 327193, "Reset the cooldown of Avenger's Shield. Your next $n Avenger's Shields have no cooldown and deal $s2% additional damage.", "Your next $n Avenger's Shields have no cooldown and deal $w2% additional damage.", 0 },
   { 327225, "$@spelldesc203776", "Absorbing $w1 damage.", 0 },
   { 327257, "$@spelldesc327104", 0, "Night Fae" },
@@ -14717,6 +14718,7 @@ static const std::array<spelltext_data_t, 15579> __ptr_spelltext_data { {
   { 336159, "When Looted: Killing an enemy increases your speed by $336160s1 for $336160d. Lasts $d. Only usable outdoors in the Shadowlands.", "Killing an enemy increases your speed by $336160s1 for $336160d. Cannot occur more than once every $proccooldown sec. Only usable outdoors in the Shadowlands.", 0 },
   { 336160, "$@spelldesc336159", "Speed increased by $w1. Only usable outdoors in the Shadowlands.", 0 },
   { 336165, "Shadow Word: Death consumes $s1 sec of Shadow Word: Pain and Vampiric Touch, instantly dealing that damage to the target and generating 10 Insanity.", 0, 0 },
+  { 336167, "$@spelldesc336165", 0, 0 },
   { 336182, "Cause the target to take up to ${$s1*31.17188} Shadow damage over $d. The damage of Growing Despair increases over the duration. ", "Taking up to ${$s1*31.17188} Shadow damage.", 0 },
   { 336184, "You have a chance to obtain an assortment of flavorful herbs and beverages when you kill an enemy that yields experience or honor.", 0, 0 },
   { 336191, "$?s202168[Impending Victory][Victory Rush] heals you for |cFFFFFFFF$s1%|r of the damage it dealt over $336642d.", 0, 0 },
@@ -15581,12 +15583,21 @@ static const std::array<spelltext_data_t, 15579> __ptr_spelltext_data { {
   { 346104, 0, 0, "Passive" },
 } };
 
-// spelltext hotfix entries, wow build 9.0.1.36200
-static constexpr std::array<hotfix::client_hotfix_entry_t, 9> __ptr_spelltext_hotfix_data { {
+// spelltext hotfix entries, wow build 9.0.1.36272
+static constexpr std::array<hotfix::client_hotfix_entry_t, 18> __ptr_spelltext_hotfix_data { {
   {  227563,  0, "Calms the mind, allowing you to adjust talents while not in combat for $d. Cannot be used above level $ctrmax2067.", "Calms the mind, allowing you to adjust talents while not in combat for $d. Cannot be used above level $maxcast." },
   {  257284,  0, "Apply Hunter's Mark to the target, increasing all damage you deal to the marked target by $s1%. The target can always be seen and tracked by the Hunter.\r\n\r\nOnly one Hunter's Mark can be applied at a time.\r\n\r\nThe cooldown of Hunter's Mark is reset if the target dies.", "Apply Hunter's Mark to the target, causing the target to always be seen and tracked by the Hunter.\r\n\r\nOnly one Hunter's Mark can be applied at a time." },
   {  257284,  1, "Damage taken from $@auracaster increased by $s1%$?a339264[ and damage dealt to $@auracaster is reduced by $339264s1%][].\r\n\r\nCan always be seen and tracked by the Hunter.", "Can always be seen and tracked by the Hunter.$?a339264[\r\n\r\nDamage dealt to $@auracaster is reduced by $339264s1%.][]" },
+  {  273367,  0, "Moonfire deals $s2 additional periodic damage, and has a chance to grant Lunar Empowerment.", "Moonfire deals $s2 additional periodic damage." },
+  {  273418,  0, "Nightblade increases the damage of your next Eviscerate within 8 sec by $s1 per combo point.", "Rupture increases the damage of your next Eviscerate within 8 sec by $s1 per combo point." },
+  {  273464,  0, "When you Blackout Strike, your Stagger is reduced by $s1.", "When you Blackout Kick, your Stagger is reduced by $s1." },
+  {  275846,  0, "When you spend Combo Points on $?s5171[Slice and Dice][Roll the Bones], your next $275863n Sinister Strikes will deal $s1 additional damage for each Combo Point spent.", "When you spend Combo Points on Slice and Dice, your next $275863n Sinister Strikes will deal $s1 additional damage for each Combo Point spent." },
   {  276029,  0, "$?S34090|S34091|S90265[Your][After training Master Riding, your] Travel Form allows you to fly and increases your movement speed by $33948s2%.", "$?S34090|S34091|S90265[Your][After training Expert Riding, your] Travel Form allows you to fly and increases your movement speed by $33948s2%." },
+  {  278661,  0, "When Voidform ends, gain $s1 Critical Strike for each stack of Voidform. This effect decays every $279572t3 sec.", "When Voidform ends, gain $s1 Critical Strike, stacking 20 times. This effect decays every $279572t3 sec." },
+  {  279526,  1, "Reduces the energy cost of all Cat Form abilities by $s1% and increases maximum Energy by $s3.", "$@spellaura106951" },
+  {  285958,  0, "Ironskin Brew increases your Armor by $s1, and has a $s2% chance to not consume a charge.", "Shuffle increases your Armor by $s1." },
+  {  286121,  0, "Each combo point spent has a $s2% chance to cause your Nightblade to deal $s1 Shadow damage and replicate to a nearby enemy.", "Each combo point spent has a $s2% chance to cause your Rupture to deal $s1 Shadow damage and replicate to a nearby enemy." },
+  {  287126,  0, "Your $?s213652[Hand of the Protector][Light of the Protector] heals for $s1 additional healing, and is always increased by 200% during Avenging Wrath.", "Word of Glory heals for $s1 additional healing. During Avenging Wrath, it receives the maximum value of any health-based bonuses." },
   {  319175,  0, "Finishing move that leaps you into the air, sprays shuriken at up to $s4 nearby targets dealing Physical damage.$?s319178[ Targets with your Find Weakness suffer an additional $319178s1% damage as Shadow.][]\r\n\r\n   1 point  : ${$m1*1} damage\r\n   2 points: ${$m1*2} damage\r\n   3 points: ${$m1*3} damage\r\n   4 points: ${$m1*4} damage\r\n   5 points: ${$m1*5} damage$?s193531[\r\n   6 points: ${$m1*6} damage][]\r\n", "Finishing move that launches explosive Black Powder at up to $s4 nearby targets dealing Physical damage.$?s319178[ Targets with your Find Weakness suffer an additional $319178s1% damage as Shadow.][]\r\n\r\n   1 point  : ${$m1*1} damage\r\n   2 points: ${$m1*2} damage\r\n   3 points: ${$m1*3} damage\r\n   4 points: ${$m1*4} damage\r\n   5 points: ${$m1*5} damage$?s193531[\r\n   6 points: ${$m1*6} damage][]\r\n" },
   {  322101,  0, "Expel negative chi from your body, healing for $s1 and dealing $s2% of the amount healed as Nature damage to an enemy within $115129A1 yards.$?s322102[\r\n\r\nDraws in the positive chi of all your Healing Spheres to increase the healing of Expel Harm.][]$?s322104[\r\n\r\nMay be cast during Soothing Mist, and will additionally heal the Soothing Mist target.][]$?s322106[\r\n\r\n|cFFFFFFFFGenerates $s3 Chi.]?s342928[\r\n\r\n|cFFFFFFFFGenerates $s3 Chi.][]", "Expel negative chi from your body, healing for $s1 and dealing $s2% of the amount healed as Nature damage to an enemy within $115129A1 yards.$?s322102[\r\n\r\nDraws in the positive chi of all your Healing Spheres to increase the healing of Expel Harm.][]$?s322104[\r\n\r\nMay be cast during Soothing Mist, and will additionally heal the Soothing Mist target.][]$?s322106[\r\n\r\n|cFFFFFFFFGenerates $s3 Chi.]?s342928[\r\n\r\n|cFFFFFFFFGenerates ${$s3+$342928s2} Chi.][]" },
   {  342049,  0, "A two-headed shot that hits your primary target and another nearby target, dealing $344120sw1 Nature damage to one and $344121sw1 Frost damage to the other.", "A two-headed shot that hits your primary target for $344120sw1 Nature damage and another nearby target for  ${$344121sw1*($s1/100)} Frost damage." },
@@ -15594,7 +15605,7 @@ static constexpr std::array<hotfix::client_hotfix_entry_t, 9> __ptr_spelltext_ho
   {  345218,  0, "Your second Void Bolt cast on the same target will deal $m1% more damage, cause the target to receive $m2% more damage from you for $d, and extend the duration of your Void Form by $m3 sec. If your Void Bolt critically hits, your Void Form is extended by $m4 sec.", "Void Bolt causes the target to become vulnerable to the void, causing them to take an increased $345219m2% damage from you for $345219d. This effect can only be active on one target at any one time.\r\n\r\nVoid Bolt cast on vulnerable targets will also extend the duration of your Void Form by $m3 sec. If your Void Bolt critically hits, your Void Form is extended by $m4 sec." },
 } };
 
-// Spell description variables, wow build 9.0.1.36200
+// Spell description variables, wow build 9.0.1.36272
 static const std::array<spelldesc_vars_data_t, 274> __ptr_spelldesc_vars_data { {
   {      17, "$rapture=$?a47536[${(1+$47536s1/100)}][${1}]\r\n$shadow=$?a137033[${1.00}][${1}]\r\n$shield=${$SP*1.8*(1+$@versadmg)*$<rapture>*$<shadow>}" },
   {      53, "$mult=${($max(0,$min($pl-10,10))*11+260)/370}" },
@@ -15872,7 +15883,7 @@ static const std::array<spelldesc_vars_data_t, 274> __ptr_spelldesc_vars_data { 
   {  343527, "$Mastery=$?a267316[${1+$267316s1/100}][${1}]\r\n$DP=$?a223819[${1+$223819s2/100}][${1}]\r\n$mult=${$<Mastery>*$<DP>}" },
 } };
 
-// spelldesc_vars hotfix entries, wow build 9.0.1.36200
+// spelldesc_vars hotfix entries, wow build 9.0.1.36272
 static constexpr std::array<hotfix::client_hotfix_entry_t, 4> __ptr_spelldesc_vars_hotfix_data { {
   {      17,  0, "$rapture=$?a47536[${(1+$47536s1/100)}][${1}]\r\n$shadow=$?a137033[${1.36}][${1}]\r\n$shield=${$SP*2*(1+$@versadmg)*$<rapture>*$<shadow>}", "$rapture=$?a47536[${(1+$47536s1/100)}][${1}]\r\n$shadow=$?a137033[${1.00}][${1}]\r\n$shield=${$SP*1.8*(1+$@versadmg)*$<rapture>*$<shadow>}" },
   {  296320,  0, "$cooldownValue=${($m1+2896)/-100}.1\r\n$cooldown=${$clamp($<cooldownValue>,10,25)}.1", "$cooldownValue=${($m1+3320)/-100}.1\r\n$cooldown=${$clamp($<cooldownValue>,10,25)}.1" },

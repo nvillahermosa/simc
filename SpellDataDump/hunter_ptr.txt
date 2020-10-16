@@ -1,4 +1,4 @@
-SimulationCraft 901-01 for World of Warcraft 9.0.2.36165 shadowlands-BETA (hotfix 2020-10-07/36165, no-networking)
+SimulationCraft 901-01 for World of Warcraft 9.0.1.36247 shadowlands-BETA (hotfix 2020-10-15/36247, no-networking)
 
 Name             : Auto Shot (id=75) [Spell Family (9)] 
 Class            : Hunter
@@ -29,6 +29,7 @@ Name             : Mend Pet (id=136) [Spell Family (9)]
 Class            : Hunter
 School           : Nature
 Spell Type       : Magic
+Spell Level      : 5
 Range            : 45 yards
 GCD              : 1.5 seconds
 Duration         : 10 seconds
@@ -98,6 +99,7 @@ Name             : Call Pet 1 (id=883) [Spell Family (9)]
 Class            : Hunter
 School           : Physical
 Spell Type       : None
+Spell Level      : 5
 GCD              : 1.5 seconds
 Duration         : Aura (infinite)
 Affecting spells : Hunter (137014 effect#3), Aspect of the Wild (193530 effect#3)
@@ -120,6 +122,7 @@ Class            : Hunter
 School           : Nature
 Spell Type       : Magic
 Resource         : 35 Focus (2) (id=106)
+Spell Level      : 5
 Cast Time        : 4 seconds
 GCD              : 1.5 seconds
 Duration         : 3 seconds
@@ -143,6 +146,7 @@ Name             : Beast Lore (id=1462) [Spell Family (9)]
 Class            : Hunter
 School           : Nature
 Spell Type       : None
+Spell Level      : 5
 Range            : 40 yards
 GCD              : 1.5 seconds
 Duration         : 30 seconds
@@ -219,6 +223,7 @@ Name             : Tame Beast (id=1515) [Spell Family (9)]
 Class            : Hunter
 School           : Nature
 Spell Type       : None
+Spell Level      : 5
 Range            : 30 yards
 GCD              : 1.5 seconds
 Duration         : 6 seconds
@@ -231,7 +236,7 @@ Attributes       : ........ ........ x....... ........   ..x..... ......x. .x...
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ....x... ........ 
                  : ........ ........ ........ ........   
-                 : Channeled (34), Disable player procs (112), Periodic effect affected by haste (173)
+                 : Channeled (34), Disable player procs (112), Periodic effect affected by haste (173), Duration affected by haste (273)
 Effects          :
 #1 (id=480)      : Apply Aura (6) | Dummy (4)
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Target: Enemy (6)
@@ -292,6 +297,7 @@ Name             : Dismiss Pet (id=2641) [Spell Family (9)]
 Class            : Hunter
 School           : Physical
 Spell Type       : Magic
+Spell Level      : 5
 Range            : 50000 yards
 Cast Time        : 3 seconds
 GCD              : 1.5 seconds
@@ -460,6 +466,7 @@ Name             : Feed Pet (id=6991)
 Class            : Hunter
 School           : Physical
 Spell Type       : None
+Spell Level      : 5
 Range            : 10 yards
 Cooldown         : 10 seconds
 Attributes       : ....x... ........ x....... ...xx...   ........ ........ .x...... ........ 
@@ -1360,7 +1367,8 @@ Effects          :
 Description      : Your pet removes all root and movement impairing effects from itself and a friendly target, and grants immunity to all such effects for $54216d.
 
 Name             : Kill Shot (id=53351) [Spell Family (9)] 
-Class            : Beast Mastery Marksmanship Hunter
+Hotfixed         : Attributes
+Class            : Hunter
 School           : Physical
 Spell Type       : Ranged
 Resource         : 10 Focus (2) (id=192720)
@@ -1380,7 +1388,7 @@ Attributes       : .x..x... ........ x....... ........   ........ .x...... .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ........ ........ 
-                 : ........ ........ ........ ........   
+                 : x....... ........ ........ ........   
                  : Ranged Ability (1)
 Effects          :
 #1 (id=45989)    : School Damage (2): physical
@@ -1973,7 +1981,7 @@ Attributes       : ........ ........ x....... ........   ..x...xx ..x..... .x...
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ....x... ........ 
                  : ........ ........ ........ ........   
-                 : Channeled (34), Channeled (38)
+                 : Channeled (34), Channeled (38), Duration affected by haste (273)
 Effects          :
 #1 (id=96379)    : Apply Aura (6) | Periodic Trigger Spell (23): Froststorm Breath every 2 seconds
                    Base Value: 1 | Scaled Value: 1 | PvP Coefficient: 1.00000 | Trigger Spell: 95725 | Target: Self (1)
@@ -2003,6 +2011,7 @@ Name             : Control Pet (desc=Passive) (id=93321) [Passive]
 Class            : Hunter
 School           : Physical
 Spell Type       : None
+Spell Level      : 10
 Proc Chance      : 101%
 Attributes       : ......x. ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -2019,9 +2028,11 @@ Effects          :
 Description      : Allows you to give commands to control your pet.
 
 Name             : Control Pet (desc=Passive) (id=93322) [Hidden] 
+Hotfixed         : Learn Level (0 -> 1), Required Level (10 -> 1)
 Class            : Hunter
 School           : Physical
 Spell Type       : None
+Spell Level      : 1
 Proc Chance      : 101%
 Attributes       : .......x x....... ........ ........   ........ ........ ........ .......x 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -2438,7 +2449,7 @@ Attributes       : .x..x... ........ x....... ........   ..x...x. .x....x. .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ....x... ........ 
                  : ........ ........ ........ ........   
-                 : Ranged Ability (1), Channeled (34), Channeled (38), Tick on application (169), Periodic effect affected by haste (173)
+                 : Ranged Ability (1), Channeled (34), Channeled (38), Tick on application (169), Periodic effect affected by haste (173), Duration affected by haste (273)
 Effects          :
 #1 (id=139839)   : Apply Aura (6) | Periodic Trigger Spell (23): Barrage every 0.2 seconds
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Trigger Spell: 120361 | Target: Self (1)
@@ -3904,6 +3915,7 @@ Name             : Freezing Trap (id=187650) [Spell Family (9)]
 Class            : Hunter
 School           : Physical
 Spell Type       : None
+Spell Level      : 10
 Range            : 40 yards
 GCD              : 1.5 seconds
 Velocity         : 20 yards/sec
@@ -4686,7 +4698,7 @@ Attributes       : ........ ........ ........ ........   ..x...x. .xx..... .....
                  : ........ ........ ..x..... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ....x... ........ 
                  : ........ ........ ........ ........   
-                 : Channeled (34), Channeled (38), Tick on application (169)
+                 : Channeled (34), Channeled (38), Tick on application (169), Duration affected by haste (273)
 Effects          :
 #1 (id=299989)   : Apply Aura (6) | Periodic Trigger Spell (23): Fury of the Eagle every 0.5 seconds
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Trigger Spell: 203413 | Target: Self (1)
@@ -5478,7 +5490,7 @@ Attributes       : .x...... ........ ........ ........   ..x...x. .x...... .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ........ ........ 
                  : ........ ........ ........ ........   
-                 : Ranged Ability (1), Channeled (34), Channeled (38), Tick on application (169), Periodic effect affected by haste (173)
+                 : Ranged Ability (1), Channeled (34), Channeled (38), Tick on application (169), Periodic effect affected by haste (173), Duration affected by haste (273)
 Effects          :
 #1 (id=479997)   : Dummy (3)
                    Base Value: 7 | Scaled Value: 7 | PvP Coefficient: 1.00000 | Target: Enemy (6)
@@ -8141,9 +8153,11 @@ Attributes       : ......x. ........ ........ ........   ........ ........ .....
                  : Passive (6), Scales with item level (354)
 Effects          :
 #1 (id=716157)   : Apply Aura (6) | Unknown(277)
-                   Base Value: 0 | Scaled Value: 5.29283 (coefficient=0.055714) | PvP Coefficient: 0.20000 | Trigger Spell: 270653 | Target: Self (1)
+                   Base Value: 0 | Scaled Value: 35.8719 (coefficient=0.377599) | PvP Coefficient: 0.20000 | Trigger Spell: 270653 | Target: Self (1)
+Hotfixed         : Coefficient (0.055714 -> 0.377599)
 #2 (id=716158)   : Apply Aura (6) | Dummy (4)
-                   Base Value: 0 | Scaled Value: 1.58783 (coefficient=0.016714) | PvP Coefficient: 0.20000 | Target: Self (1)
+                   Base Value: 0 | Scaled Value: 10.7616 (coefficient=0.11328) | PvP Coefficient: 0.20000 | Target: Self (1)
+Hotfixed         : Coefficient (0.016714 -> 0.11328)
 Description      : Increases your movement speed by $s1% of your highest secondary rating, up to $s2%.
 Tooltip          : Increases your movement speed by $s1% of your highest secondary rating, up to $s2%.
 
@@ -11042,6 +11056,8 @@ Effects          :
 Description      : Your secondary stats are all increased by $s1.
 
 Name             : Kill Shot (id=320976) [Spell Family (9)] 
+Hotfixed         : Attributes
+Replaces         : Kill Shot (id=53351)
 Class            : Survival Hunter
 School           : Physical
 Spell Type       : Ranged
@@ -11062,7 +11078,7 @@ Attributes       : ....x... ........ x....... ........   ........ .x...... .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ........ ........ 
-                 : ........ ........ ........ ........   
+                 : x....... ........ ........ ........   
                  : Requires main-hand weapon (106)
 Effects          :
 #1 (id=808381)   : School Damage (2): physical

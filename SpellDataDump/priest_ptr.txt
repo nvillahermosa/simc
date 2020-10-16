@@ -1,4 +1,4 @@
-SimulationCraft 901-01 for World of Warcraft 9.0.2.36165 shadowlands-BETA (hotfix 2020-10-07/36165, no-networking)
+SimulationCraft 901-01 for World of Warcraft 9.0.1.36247 shadowlands-BETA (hotfix 2020-10-15/36247, no-networking)
 
 Name             : Power Word: Shield (id=17) [Spell Family (6)] 
 Hotfixed         : Variables
@@ -442,7 +442,7 @@ Attributes       : ........ ........ ........ x.xx.x..   ...x.x.x ..x..... xx...
                  : ........ ........ ......x. ........   ........ ........ ........ ..x..... 
                  : ........ ........ ........ ........   xx...... ........ ........ ........ 
                  : ........ ........ ........ ........   
-                 : Does not break stealth (37)
+                 : Does not break stealth (37), Duration affected by haste (273)
 Effects          :
 #1 (id=2448)     : Apply Aura (6) | Dummy (4)
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Misc Value: 19 | Target: Unknown(25)
@@ -648,7 +648,7 @@ Attributes       : ........ ........ x....... ........   ..x..... ......x. .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ....x... ........ 
                  : ........ ........ ........ ........   
-                 : Channeled (34), Periodic effect affected by haste (173), Periodic effect can crit (265)
+                 : Channeled (34), Periodic effect affected by haste (173), Periodic effect can crit (265), Duration affected by haste (273)
 Effects          :
 #1 (id=7301)     : Apply Aura (6) | Periodic Damage (3): shadow every 0.75 seconds
                    Base Value: 0 | Scaled Value: 0 | SP Coefficient: 0.25240 | PvP Coefficient: 1.00000 | Target: Enemy (6)
@@ -667,6 +667,7 @@ Name             : Silence (id=15487) [Spell Family (6)]
 Class            : Shadow Priest
 School           : Shadow
 Spell Type       : Magic
+Spell Level      : 29
 Range            : 30 yards
 Duration         : 4 seconds
 Cooldown         : 45 seconds
@@ -743,6 +744,7 @@ Name             : Spirit of Redemption (id=20711) [Spell Family (6), Passive]
 Class            : Holy Priest
 School           : Physical
 Spell Type       : None
+Spell Level      : 29
 Affecting spells : Surrender to Madness (193223 effect#2), Afterlife (196707 effects: #1, #2), Surrender to Madness (319952 effect#7)
 Family Flags     : 73
 Attributes       : ....x.x. x....... ........ ........   ........ ........ ........ ........ 
@@ -1354,7 +1356,7 @@ Attributes       : ........ ........ x....... .....x..   ..x....x ..x...x. .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ......x. ........ ........ 
                  : ........ ........ ........ ........   
-                 : Channeled (34), Tick on application (169), Periodic effect affected by haste (173)
+                 : Channeled (34), Tick on application (169), Periodic effect affected by haste (173), Duration affected by haste (273)
 Effects          :
 #1 (id=39751)    : Dummy (3)
                    Base Value: 120 | Scaled Value: 120 | PvP Coefficient: 1.00000 | Target: Unknown(25)
@@ -1489,7 +1491,7 @@ Attributes       : ........ x....... x....... .....x..   ..x....x ..x...x. .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ....x... ........ 
                  : ........ ........ ........ ........   
-                 : Channeled (34), Tick on application (169), Periodic effect affected by haste (173)
+                 : Channeled (34), Tick on application (169), Periodic effect affected by haste (173), Duration affected by haste (273)
 Effects          :
 #1 (id=40005)    : Apply Aura (6) | Dummy (4)
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Target: Enemy (6)
@@ -1547,7 +1549,7 @@ Attributes       : ........ ........ x.....x. ........   ..x....x ........ .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ....x... ........ 
                  : ........ ........ ........ ........   
-                 : Channeled (34), Periodic effect affected by haste (173)
+                 : Channeled (34), Periodic effect affected by haste (173), Duration affected by haste (273)
 Effects          :
 #1 (id=40226)    : Apply Aura (6) | Periodic Trigger Spell (23): Mind Sear every 0.75 seconds
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Trigger Spell: 49821 | Target: Unknown(25)
@@ -1813,7 +1815,7 @@ Attributes       : ........ ........ x....... ........   ..x...x. ........ .....
                  : ........ .....x.. ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ....x... ........ 
                  : ........ ........ ........ ........   
-                 : Channeled (34), Channeled (38), Tick on application (169), Periodic effect affected by haste (173)
+                 : Channeled (34), Channeled (38), Tick on application (169), Periodic effect affected by haste (173), Duration affected by haste (273)
 Effects          :
 #1 (id=59162)    : Apply Aura (6) | Periodic Trigger Spell (23): Divine Hymn every 2 seconds
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Trigger Spell: 64844 | Target: Self (1)
@@ -1874,7 +1876,7 @@ Attributes       : ........ ........ x....... ........   ..x...x. ........ .....
                  : ........ .....x.. ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   
-                 : Channeled (34), Channeled (38), Tick on application (169), Periodic effect affected by haste (173)
+                 : Channeled (34), Channeled (38), Tick on application (169), Periodic effect affected by haste (173), Duration affected by haste (273)
 Effects          :
 #1 (id=59238)    : Apply Aura (6) | Periodic Trigger Spell (23): Symbol of Hope every 1 seconds
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Trigger Spell: 265144 | Target: Self (1)
@@ -2103,6 +2105,7 @@ Name             : Shadowy Apparitions (id=78203) [Spell Family (6), Passive]
 Class            : Priest
 School           : Physical
 Spell Type       : None
+Spell Level      : 38
 Proc Chance      : 100%
 Proc Flags       : ........ ........ ..x..... ........ 
                  : Periodic
@@ -2124,6 +2127,7 @@ Name             : Atonement (id=81749) [Spell Family (6), Passive]
 Class            : Discipline Priest
 School           : Physical
 Spell Type       : None
+Spell Level      : 12
 Proc Chance      : 100%
 Proc Flags       : ........ ........ x.x..... ........ 
                  : Magic Hostile Spell, Periodic
@@ -2946,6 +2950,7 @@ Class            : Discipline Holy Priest
 School           : Holy
 Spell Type       : Magic
 Resource         : 1.6% Base Mana (0) (id=7897)
+Spell Level      : 31
 GCD              : 1.5 seconds
 Affecting spells : Twist of Fate (123254 effects: #1, #2), Holy Priest (137031 effects: #3, #4), Shadow Priest (137033 effects: #1, #2), Surrender to Madness (193223 effect#2), Voidform (194249 effects: #1, #2), Schism (214621 effect#2), Shadowform (232698 effects: #1, #4), Twist of Fate (265258 effects: #1, #2), Sins of the Many (280398 effects: #1, #2), Sudden Revelation (287360 effect#1), Surrender to Madness (319952 effect#7)
 Family Flags     : 49, 72
@@ -3406,7 +3411,7 @@ Effects          :
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Target: Self (1)
 
 Name             : Voidform (id=185916) [Spell Family (6), Passive, Hidden] 
-Hotfixed         : Spell Level (14 -> 10)
+Hotfixed         : Learn Level (14 -> 10), Required Level (14 -> 10)
 Class            : Shadow Priest
 School           : Physical
 Spell Type       : None
@@ -3854,6 +3859,7 @@ Class            : Discipline Priest
 School           : Holy
 Spell Type       : Magic
 Resource         : 6.5% Base Mana (0) (id=10498)
+Spell Level      : 23
 Range            : 40 yards
 Cast Time        : 2 seconds
 GCD              : 1.5 seconds
@@ -6438,9 +6444,11 @@ Attributes       : ......x. ........ ........ ........   ........ ........ .....
                  : Passive (6), Scales with item level (354)
 Effects          :
 #1 (id=716157)   : Apply Aura (6) | Unknown(277)
-                   Base Value: 0 | Scaled Value: 5.29283 (coefficient=0.055714) | PvP Coefficient: 0.20000 | Trigger Spell: 270653 | Target: Self (1)
+                   Base Value: 0 | Scaled Value: 35.8719 (coefficient=0.377599) | PvP Coefficient: 0.20000 | Trigger Spell: 270653 | Target: Self (1)
+Hotfixed         : Coefficient (0.055714 -> 0.377599)
 #2 (id=716158)   : Apply Aura (6) | Dummy (4)
-                   Base Value: 0 | Scaled Value: 1.58783 (coefficient=0.016714) | PvP Coefficient: 0.20000 | Target: Self (1)
+                   Base Value: 0 | Scaled Value: 10.7616 (coefficient=0.11328) | PvP Coefficient: 0.20000 | Target: Self (1)
+Hotfixed         : Coefficient (0.016714 -> 0.11328)
 Description      : Increases your movement speed by $s1% of your highest secondary rating, up to $s2%.
 Tooltip          : Increases your movement speed by $s1% of your highest secondary rating, up to $s2%.
 
@@ -7172,6 +7180,7 @@ Effects          :
 Description      : Shadow Word: Pain deals an additional ${$s1*($589d/$589t2)} damage over its duration. When an enemy dies while afflicted by your Shadow Word: Pain, you gain ${$s2/100} Insanity.
 
 Name             : Chorus of Insanity (id=278661) [Scaling Spell (-7), Spell Family (6), Passive] 
+Hotfixed         : Description
 Class            : Priest
 School           : Shadow
 Spell Type       : None
@@ -7189,7 +7198,7 @@ Attributes       : ......x. ........ ........ ........   ........ ........ .....
 Effects          :
 #1 (id=734503)   : Apply Aura (6) | Dummy (4)
                    Base Value: 0 | Scaled Value: 5.9565 (coefficient=0.0627) | PvP Coefficient: 0.50000 | Target: Self (1)
-Description      : When Voidform ends, gain $s1 Critical Strike for each stack of Voidform. This effect decays every $279572t3 sec.
+Description      : When Voidform ends, gain $s1 Critical Strike, stacking 20 times. This effect decays every $279572t3 sec.
 
 Name             : Unstable Flames (id=279899) [Scaling Spell (-7), Passive] 
 Class            : Warrior, Paladin, Hunter, Rogue, Priest, Death Knight, Shaman, Mage, Warlock, Monk, Druid, Demon Hunter
@@ -8938,7 +8947,7 @@ Effects          :
 Description      : Vampiric Embrace heals for an additional $s1% of your single-target Shadow spell damage.
 
 Name             : Holy Nova (desc=Rank 2) (id=322112) [Spell Family (6), Passive] 
-Hotfixed         : Spell Level (47 -> 56)
+Hotfixed         : Learn Level (47 -> 56), Required Level (47 -> 56)
 Class            : Discipline Holy Priest
 School           : Holy
 Spell Type       : None
@@ -9502,7 +9511,7 @@ Effects          :
 Description      : Fade now reduces the range at which enemies will attack you.
 
 Name             : Mass Dispel (desc=Rank 2) (id=327830) [Spell Family (6), Passive] 
-Hotfixed         : Spell Level (54 -> 50)
+Hotfixed         : Learn Level (54 -> 50), Required Level (54 -> 50)
 Class            : Priest
 School           : Holy
 Spell Type       : None
@@ -9713,6 +9722,7 @@ Effects          :
 Description      : $@spelldesc336143
 
 Name             : Painbreaker Psalm (id=336165) [Spell Family (6), Passive] 
+Class            : Priest
 School           : Physical
 Spell Type       : None
 Attributes       : ......x. ........ ........ ........   ........ ........ ........ ........ 
@@ -9728,6 +9738,27 @@ Effects          :
 #1 (id=833243)   : Apply Aura (6) | Dummy (4)
                    Base Value: 6 | Scaled Value: 6 | PvP Coefficient: 1.00000 | Misc Value: 11 | Target: Self (1)
 Description      : Shadow Word: Death consumes $s1 sec of Shadow Word: Pain and Vampiric Touch, instantly dealing that damage to the target and generating 10 Insanity.
+
+Name             : Painbreaker Psalm (id=336167) 
+Class            : Priest
+School           : Shadow
+Spell Type       : None
+Range            : 50000 yards
+Attributes       : ........ ........ .......x ........   ...x...x ........ ........ ........ 
+                 : ..x..... ........ ........ .....x..   ........ ........ ..x..... ....x.x. 
+                 : .......x x......x ....x... ........   ........ ........ .......x ........ 
+                 : ........ ........ ........ .....x..   ........ ........ ........ ........ 
+                 : ........ ........ ........ ........   ........ ........ ........ ........ 
+                 : ........ ........ ........ ........   ........ ........ ........ ........ 
+                 : ........ ........ ........ ........   ........ ........ ........ ........ 
+                 : ........ ........ ........ ........   
+                 : Cannot crit (93), Always hits (114), Disable player multipliers (221)
+Effects          :
+#1 (id=833246)   : School Damage (2): shadow
+                   Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Target: Enemy (6)
+#2 (id=833247)   : Energize Power (30)
+                   Base Value: 50 | Scaled Value: 50 | PvP Coefficient: 1.00000 | Misc Value: insanity | Target: Self (1)
+Description      : $@spelldesc336165
 
 Name             : Eternal Call to the Void (id=336214) [Spell Family (6), Passive] 
 School           : Physical
@@ -10445,6 +10476,7 @@ Name             : Dark Thoughts (desc=Passive) (id=341205) [Spell Family (6), P
 Class            : Shadow Priest
 School           : Shadow
 Spell Type       : None
+Spell Level      : 41
 Proc Chance      : 100%
 Proc Flags       : ........ ........ ..x..... ........ 
                  : Periodic
