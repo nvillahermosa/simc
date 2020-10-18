@@ -1,4 +1,4 @@
-// Curve points data, wow build 9.0.1.36272
+// Curve points data, wow build 9.0.1.36286
 static const std::array<curve_point_t, 48802> __ptr_curve_point_data { {
   {    8,  0,    0.00000,    1.00000,    0.00000,    1.00000 },
   {    9,  0,    0.00000,    1.00000,    0.00000,    1.00000 },

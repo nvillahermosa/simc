@@ -1,5 +1,5 @@
-// Spell text, wow build 9.0.1.36272
-static const std::array<spelltext_data_t, 15581> __ptr_spelltext_data { {
+// Spell text, wow build 9.0.1.36286
+static const std::array<spelltext_data_t, 15582> __ptr_spelltext_data { {
   {     17, "Shields an ally for $d, absorbing $<shield> damage.  You cannot shield the target again for $6788d.", "Absorbs $w1 damage.", 0 },
   {     53, "Stab the target, causing ${$s2*$<mult>} Physical damage. Damage increased by $s4% when you are behind your target$?s319949[, and critical strikes apply Find Weakness for $319949s1 sec][].\r\n\r\n|cFFFFFFFFAwards $s3 combo $lpoint:points;.|r", 0, 0 },
   {     56, "Stuns target for $d.", "Stunned.", 0 },
@@ -5961,6 +5961,7 @@ static const std::array<spelltext_data_t, 15581> __ptr_spelltext_data { {
   { 185397, "You can Lifebloom two targets at once.", 0, 0 },
   { 185398, "Increases the chance to for your Gift of the Ox to summon a Healing Sphere by $s1%.", 0, 0 },
   { 185399, "Every time you gather a Healing Sphere, the remaining cooldowns of your Ironskin Brew and Purifying Brew are reduced by $s1 sec.", 0, 0 },
+  { 185422, "$@spelldesc185313", "Access to Stealth abilities.$?$w3!=0[\r\nMovement speed increased by $w3%.][]$?$w4!=0[\r\nDamage increased by $w4%.][]", 0 },
   { 185438, "Strike the target, dealing $s1 Physical damage.\r\n\r\nWhile Stealthed, you strike through the shadows and appear behind your target up to ${5+$245623s1} yds away, dealing $245623s2% additional damage.\r\n\r\n|cFFFFFFFFAwards $s2 combo $lpoint:points;.|r", 0, 0 },
   { 185542, "Your Rising Sun Kick grants 2 charges of Masterful Strikes. Masterful Strikes increases mastery by ${$216172s1*1.25}% on your next damaging abilitiy.", 0, 0 },
   { 185543, "Your Fists of Fury grants 3 charges of Masterful Strikes, and increases your maximum Energy by $m2.", 0, 0 },
@@ -15583,7 +15584,7 @@ static const std::array<spelltext_data_t, 15581> __ptr_spelltext_data { {
   { 346104, 0, 0, "Passive" },
 } };
 
-// spelltext hotfix entries, wow build 9.0.1.36272
+// spelltext hotfix entries, wow build 9.0.1.36286
 static constexpr std::array<hotfix::client_hotfix_entry_t, 18> __ptr_spelltext_hotfix_data { {
   {  227563,  0, "Calms the mind, allowing you to adjust talents while not in combat for $d. Cannot be used above level $ctrmax2067.", "Calms the mind, allowing you to adjust talents while not in combat for $d. Cannot be used above level $maxcast." },
   {  257284,  0, "Apply Hunter's Mark to the target, increasing all damage you deal to the marked target by $s1%. The target can always be seen and tracked by the Hunter.\r\n\r\nOnly one Hunter's Mark can be applied at a time.\r\n\r\nThe cooldown of Hunter's Mark is reset if the target dies.", "Apply Hunter's Mark to the target, causing the target to always be seen and tracked by the Hunter.\r\n\r\nOnly one Hunter's Mark can be applied at a time." },
@@ -15605,7 +15606,7 @@ static constexpr std::array<hotfix::client_hotfix_entry_t, 18> __ptr_spelltext_h
   {  345218,  0, "Your second Void Bolt cast on the same target will deal $m1% more damage, cause the target to receive $m2% more damage from you for $d, and extend the duration of your Void Form by $m3 sec. If your Void Bolt critically hits, your Void Form is extended by $m4 sec.", "Void Bolt causes the target to become vulnerable to the void, causing them to take an increased $345219m2% damage from you for $345219d. This effect can only be active on one target at any one time.\r\n\r\nVoid Bolt cast on vulnerable targets will also extend the duration of your Void Form by $m3 sec. If your Void Bolt critically hits, your Void Form is extended by $m4 sec." },
 } };
 
-// Spell description variables, wow build 9.0.1.36272
+// Spell description variables, wow build 9.0.1.36286
 static const std::array<spelldesc_vars_data_t, 274> __ptr_spelldesc_vars_data { {
   {      17, "$rapture=$?a47536[${(1+$47536s1/100)}][${1}]\r\n$shadow=$?a137033[${1.00}][${1}]\r\n$shield=${$SP*1.8*(1+$@versadmg)*$<rapture>*$<shadow>}" },
   {      53, "$mult=${($max(0,$min($pl-10,10))*11+260)/370}" },
@@ -15883,7 +15884,7 @@ static const std::array<spelldesc_vars_data_t, 274> __ptr_spelldesc_vars_data { 
   {  343527, "$Mastery=$?a267316[${1+$267316s1/100}][${1}]\r\n$DP=$?a223819[${1+$223819s2/100}][${1}]\r\n$mult=${$<Mastery>*$<DP>}" },
 } };
 
-// spelldesc_vars hotfix entries, wow build 9.0.1.36272
+// spelldesc_vars hotfix entries, wow build 9.0.1.36286
 static constexpr std::array<hotfix::client_hotfix_entry_t, 4> __ptr_spelldesc_vars_hotfix_data { {
   {      17,  0, "$rapture=$?a47536[${(1+$47536s1/100)}][${1}]\r\n$shadow=$?a137033[${1.36}][${1}]\r\n$shield=${$SP*2*(1+$@versadmg)*$<rapture>*$<shadow>}", "$rapture=$?a47536[${(1+$47536s1/100)}][${1}]\r\n$shadow=$?a137033[${1.00}][${1}]\r\n$shield=${$SP*1.8*(1+$@versadmg)*$<rapture>*$<shadow>}" },
   {  296320,  0, "$cooldownValue=${($m1+2896)/-100}.1\r\n$cooldown=${$clamp($<cooldownValue>,10,25)}.1", "$cooldownValue=${($m1+3320)/-100}.1\r\n$cooldown=${$clamp($<cooldownValue>,10,25)}.1" },

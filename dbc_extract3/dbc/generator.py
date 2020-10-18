@@ -1374,6 +1374,7 @@ class SpellDataGenerator(DataGenerator):
             ( 343173, 0 ),          # Premeditation buff
             ( 319190, 0 ),          # Shadow Vault shadow damage spell
             ( 345316, 0 ), ( 345390, 0 ), # Flagellation damage spells
+            ( 185422, 0 ),          # Shadow Dance buff spell
         ),
 
         # Priest:
@@ -1675,6 +1676,7 @@ class SpellDataGenerator(DataGenerator):
           ( 344008, 0 ), # Venthyr Fallen Monk Enveloping Mist Heal
           ( 344239, 0 ), # Venthyr Fallen Monk Soothing Mist
           ( 344240, 0 ), # Venthyr Fallen Monk Enveloping Mist
+          ( 346602, 0 ), # Venthyr Fallen Monk Tiger Palm
           ( 345714, 0 ), # Venthyr Fallen Monk Fists of Fury damage
 
           # Conduits
