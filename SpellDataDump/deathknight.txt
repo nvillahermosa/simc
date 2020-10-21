@@ -1,4 +1,4 @@
-SimulationCraft 901-01 for World of Warcraft 9.0.1.36247 shadowlands-BETA (hotfix 2020-10-15/36247, no-networking)
+SimulationCraft 901-01 for World of Warcraft 9.0.1.36322 shadowlands-BETA (hotfix 2020-10-21/36322, no-networking)
 
 Name             : Dual Wield (desc=Passive) (id=674) [Passive] 
 Class            : Frost Warrior, Hunter, Rogue, Death Knight, Monk, Demon Hunter
@@ -2292,11 +2292,11 @@ Attributes       : ......x. x....... ........ ........   ........ ........ .....
 Effects          :
 #1 (id=68129)    : Apply Aura (6) | Add Percent Modifier (108): Spell Direct Amount (0)
                    Base Value: 0 | Scaled Value: 0 | SP Coefficient: 2.25000 | PvP Coefficient: 1.00000 | Target: Self (1)
-                   Affected Spells: Death Coil (47632), Death and Decay (52212), Scourge Strike (70890), Outbreak (77575), Unholy Blight (115989), Unholy Blight (115994), Defile (156000), Virulent Plague (191587), Virulent Eruption (191685), Festering Wound (194311), Bursting Sores (207267), Clawing Shadows (207311), Epidemic (212739), Epidemic (215969), Necrotic Strike (223829), Horrid Experimentation (273096), Apocalypse (275699), Harrowing Decay (275931), Last Surprise (279606), Swarming Mist (311730), Unholy Pact (319236), Death's Due (341340), Soul Reaper (343294), Dark Transformation (344955)
+                   Affected Spells: Death Coil (47632), Death and Decay (52212), Scourge Strike (70890), Outbreak (77575), Unholy Blight (115989), Unholy Blight (115994), Defile (156000), Virulent Plague (191587), Virulent Eruption (191685), Festering Wound (194311), Bursting Sores (207267), Clawing Shadows (207311), Epidemic (212739), Epidemic (215969), Necrotic Strike (223829), Horrid Experimentation (273096), Apocalypse (275699), Harrowing Decay (275931), Last Surprise (279606), Swarming Mist (311730), Unholy Pact (319236), Death's Due (341340), Soul Reaper (343294), Soul Reaper (343295), Dark Transformation (344955)
                    Family Flags: 78
 #2 (id=90623)    : Apply Aura (6) | Add Percent Modifier (108): Spell Periodic Amount (22)
                    Base Value: 0 | Scaled Value: 0 | SP Coefficient: 2.25000 | PvP Coefficient: 1.00000 | Misc Value: 22 | Target: Self (1)
-                   Affected Spells: Death Coil (47632), Death and Decay (52212), Scourge Strike (70890), Outbreak (77575), Unholy Blight (115989), Unholy Blight (115994), Defile (156000), Virulent Plague (191587), Virulent Eruption (191685), Festering Wound (194311), Bursting Sores (207267), Clawing Shadows (207311), Epidemic (212739), Epidemic (215969), Necrotic Strike (223829), Horrid Experimentation (273096), Apocalypse (275699), Harrowing Decay (275931), Last Surprise (279606), Swarming Mist (311730), Unholy Pact (319236), Death's Due (341340), Soul Reaper (343294), Dark Transformation (344955)
+                   Affected Spells: Death Coil (47632), Death and Decay (52212), Scourge Strike (70890), Outbreak (77575), Unholy Blight (115989), Unholy Blight (115994), Defile (156000), Virulent Plague (191587), Virulent Eruption (191685), Festering Wound (194311), Bursting Sores (207267), Clawing Shadows (207311), Epidemic (212739), Epidemic (215969), Necrotic Strike (223829), Horrid Experimentation (273096), Apocalypse (275699), Harrowing Decay (275931), Last Surprise (279606), Swarming Mist (311730), Unholy Pact (319236), Death's Due (341340), Soul Reaper (343294), Soul Reaper (343295), Dark Transformation (344955)
                    Family Flags: 78
 #3 (id=800836)   : Apply Aura (6) | Modify Pet Damage Done% (429)
                    Base Value: 0 | Scaled Value: 0 | SP Coefficient: 2.25000 | PvP Coefficient: 1.00000 | Target: Self (1)
@@ -5378,7 +5378,7 @@ Attributes       : ....x... ........ ........ .......x   ........ ........ .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ........ ........ 
                  : ........ ........ ........ ........   
-                 : Cannot cancel aura (31), Periodic effect affected by haste (173)
+                 : Cannot cancel aura (31), Periodic effect affected by haste (173), Duration affected by haste (273)
 Effects          :
 #1 (id=210835)   : Apply Aura (6) | Dummy (4)
                    Base Value: 30 | Scaled Value: 30 | PvP Coefficient: 1.00000 | Target: Self (1)
@@ -6921,7 +6921,7 @@ Attributes       : ........ ........ x....... ........   ..x..... ......x. .....
                  : ........ ........ ..x..... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ........ ........ 
                  : ........ ........ ........ ........   
-                 : Channeled (34), Tick on application (169), Periodic effect affected by haste (173), Periodic effect can crit (265)
+                 : Channeled (34), Tick on application (169), Periodic effect affected by haste (173), Periodic effect can crit (265), Duration affected by haste (273)
 Effects          :
 #1 (id=306042)   : Apply Aura (6) | Periodic Health Leech (53): every 1 seconds
                    Base Value: 0 | Scaled Value: 0 | Value Multiplier: 1 | AP Coefficient: 0.44226 | PvP Coefficient: 1.00000 | Target: Enemy (6)
@@ -14800,12 +14800,13 @@ Tooltip          : Afflicted by Soul Reaper, if the target is below $s3% health 
 Variables        : $dmg=${$o1}
 
 Name             : Soul Reaper (id=343295) [Spell Family (15)] 
+Hotfixed         : Affecting Spells
 Class            : Death Knight
 School           : Shadow
 Spell Type       : Magic
 Range            : 100 yards
-Affecting spells : Biting Cold (166057 effect#1)
-Family Flags     : 92
+Affecting spells : Mastery: Dreadblade (77515 effects: #1, #2), Biting Cold (166057 effect#1)
+Family Flags     : 78, 92
 Attributes       : ........ ........ .....x.. x..x....   ...x.x.x ........ ........ ........ 
                  : ..x..... ......x. ........ ........   ........ .x...... ........ ......x. 
                  : ........ ........ ........ ........   ...x.... ........ .xx..... ........ 

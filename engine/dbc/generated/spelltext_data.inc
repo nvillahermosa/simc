@@ -1,5 +1,5 @@
-// Spell text, wow build 9.0.1.36247
-static const std::array<spelltext_data_t, 15580> __spelltext_data { {
+// Spell text, wow build 9.0.1.36322
+static const std::array<spelltext_data_t, 15586> __spelltext_data { {
   {     17, "Shields an ally for $d, absorbing $<shield> damage.  You cannot shield the target again for $6788d.", "Absorbs $w1 damage.", 0 },
   {     53, "Stab the target, causing ${$s2*$<mult>} Physical damage. Damage increased by $s4% when you are behind your target$?s319949[, and critical strikes apply Find Weakness for $319949s1 sec][].\r\n\r\n|cFFFFFFFFAwards $s3 combo $lpoint:points;.|r", 0, 0 },
   {     56, "Stuns target for $d.", "Stunned.", 0 },
@@ -5961,6 +5961,7 @@ static const std::array<spelltext_data_t, 15580> __spelltext_data { {
   { 185397, "You can Lifebloom two targets at once.", 0, 0 },
   { 185398, "Increases the chance to for your Gift of the Ox to summon a Healing Sphere by $s1%.", 0, 0 },
   { 185399, "Every time you gather a Healing Sphere, the remaining cooldowns of your Ironskin Brew and Purifying Brew are reduced by $s1 sec.", 0, 0 },
+  { 185422, "$@spelldesc185313", "Access to Stealth abilities.$?$w3!=0[\r\nMovement speed increased by $w3%.][]$?$w4!=0[\r\nDamage increased by $w4%.][]", 0 },
   { 185438, "Strike the target, dealing $s1 Physical damage.\r\n\r\nWhile Stealthed, you strike through the shadows and appear behind your target up to ${5+$245623s1} yds away, dealing $245623s2% additional damage.\r\n\r\n|cFFFFFFFFAwards $s2 combo $lpoint:points;.|r", 0, 0 },
   { 185542, "Your Rising Sun Kick grants 2 charges of Masterful Strikes. Masterful Strikes increases mastery by ${$216172s1*1.25}% on your next damaging abilitiy.", 0, 0 },
   { 185543, "Your Fists of Fury grants 3 charges of Masterful Strikes, and increases your maximum Energy by $m2.", 0, 0 },
@@ -10824,7 +10825,7 @@ static const std::array<spelltext_data_t, 15580> __spelltext_data { {
   { 273344, "Increases your Mastery by $s1 and Armor by $s2 for $273349d after Survival Instincts expires.", 0, 0 },
   { 273348, "$@spelldesc273334", "Heal for $w1 when you take damage.", 0 },
   { 273349, "$@spelldesc273344", "Mastery increased by $w1. Armor increased by $w2.", 0 },
-  { 273367, "Moonfire deals $s2 additional periodic damage, and has a chance to grant Lunar Empowerment.", 0, 0 },
+  { 273367, "Moonfire deals $s2 additional periodic damage.", 0, 0 },
   { 273389, "$@spelldesc273367", 0, 0 },
   { 273409, "While $?s152277[Ravager is active][Bladestorming], every $?c2[$288131t1][$273414t1] sec you gain $s2% movement speed and $s1 Strength, stacking. Lasts $273415d.", 0, 0 },
   { 273412, "$@spelldesc273409", 0, 0 },
@@ -10838,7 +10839,7 @@ static const std::array<spelltext_data_t, 15580> __spelltext_data { {
   { 273453, "$@spelldesc273448", "Your next Earth Shock will deal an additional $w1 damage.", 0 },
   { 273461, "Flame Shock causes your next melee ability to deal an additional $s1 Nature damage.", 0, 0 },
   { 273463, "$@spelldesc273461", 0, 0 },
-  { 273464, "When you Blackout Strike, your Stagger is reduced by $s1.", 0, 0 },
+  { 273464, "When you Blackout Kick, your Stagger is reduced by $s1.", 0, 0 },
   { 273465, "$@spelldesc273461", "Your next melee ability will deal additional Nature damage.", 0 },
   { 273466, "$@spelldesc273461", 0, 0 },
   { 273468, "$@spelldesc273464", 0, 0 },
@@ -13953,7 +13954,7 @@ static const std::array<spelltext_data_t, 15580> __spelltext_data { {
   { 321995, "Embrace the ice in your veins, reducing the Runic Power cost of your abilities by $s1% for $d. Does not trigger the global cooldown.", "The Runic Power cost of your abilities is reduced by $s1%.", 0 },
   { 322015, "Deal up to $s1 Shadow damage to all enemies within $a1 yards of the target.", 0, 0 },
   { 322098, "$@spelldesc321291", "If the target dies within $d, the Priest gains $321291m2 Insanity and the cooldown of their Shadow Word: Death is reset.", 0 },
-  { 322101, "Expel negative chi from your body, healing for $s1 and dealing $s2% of the amount healed as Nature damage to an enemy within $115129A1 yards.$?s322102[\r\n\r\nDraws in the positive chi of all your Healing Spheres to increase the healing of Expel Harm.][]$?s322104[\r\n\r\nMay be cast during Soothing Mist, and will additionally heal the Soothing Mist target.][]$?s322106[\r\n\r\n|cFFFFFFFFGenerates $s3 Chi.]?s342928[\r\n\r\n|cFFFFFFFFGenerates ${$s3+$342928s2} Chi.][]", 0, 0 },
+  { 322101, "Expel negative chi from your body, healing for $s1 and dealing $s2% of the amount healed as Nature damage to an enemy within $115129A1 yards.$?s322102[\r\n\r\nDraws in the positive chi of all your Healing Spheres to increase the healing of Expel Harm.][]$?s325214[\r\n\r\nMay be cast during Soothing Mist, and will additionally heal the Soothing Mist target.][]$?s322106[\r\n\r\n|cFFFFFFFFGenerates $s3 Chi.]?s342928[\r\n\r\n|cFFFFFFFFGenerates ${$s3+$342928s2} Chi.][]", 0, 0 },
   { 322102, "Cooldown is reduced by  ${$s2/-1000} sec. and draws in the positive chi of all your Healing Spheres to increase the healing done by Expel Harm.", 0, "Rank 2" },
   { 322104, "Expel Harm benefits from Mastery: Gust of Mists.", 0, "Rank 2" },
   { 322105, "$@spelldesc314867", "Shadow spells deal $w2% increased damage and healing, but cannot cast Holy spells.", 0 },
@@ -14718,6 +14719,7 @@ static const std::array<spelltext_data_t, 15580> __spelltext_data { {
   { 336159, "When Looted: Killing an enemy increases your speed by $336160s1 for $336160d. Lasts $d. Only usable outdoors in the Shadowlands.", "Killing an enemy increases your speed by $336160s1 for $336160d. Cannot occur more than once every $proccooldown sec. Only usable outdoors in the Shadowlands.", 0 },
   { 336160, "$@spelldesc336159", "Speed increased by $w1. Only usable outdoors in the Shadowlands.", 0 },
   { 336165, "Shadow Word: Death consumes $s1 sec of Shadow Word: Pain and Vampiric Touch, instantly dealing that damage to the target and generating 10 Insanity.", 0, 0 },
+  { 336167, "$@spelldesc336165", 0, 0 },
   { 336182, "Cause the target to take up to ${$s1*31.17188} Shadow damage over $d. The damage of Growing Despair increases over the duration. ", "Taking up to ${$s1*31.17188} Shadow damage.", 0 },
   { 336184, "You have a chance to obtain an assortment of flavorful herbs and beverages when you kill an enemy that yields experience or honor.", 0, 0 },
   { 336191, "$?s202168[Impending Victory][Victory Rush] heals you for |cFFFFFFFF$s1%|r of the damage it dealt over $336642d.", 0, 0 },
@@ -15078,6 +15080,7 @@ static const std::array<spelltext_data_t, 15580> __spelltext_data { {
   { 339064, "Wild Growth has a $h% chance to cause your next Rejuvenation or Regrowth to apply to $s1 additional allies within $189877s1 yards of the target.", 0, 0 },
   { 339109, "Wild Spirits duration is increased by ${$s2/1000} sec and the damage dealt is increased by |cFFFFFFFF ${$s1}.1%|r.", 0, 0 },
   { 339114, "Consecration heals you for |cFFFFFFFF${$s1/100*$81297s1}|r every sec while standing within it.", 0, 0 },
+  { 339119, "$@spelldesc339114", "Absorbs $w damage.", 0 },
   { 339124, "Crusader Aura reduces all allies' Fear duration by |cFFFFFFFF${$s1}.1|r%.", 0, 0 },
   { 339129, "Death Chakram generates an additional $s2 Focus and the damage is increased by |cFFFFFFFF${$s1}.1%|r.", 0, 0 },
   { 339130, "Reduces the cooldown of Fel Domination by |cFFFFFFFF${$s1/-1000}|r sec.", 0, 0 },
@@ -15200,6 +15203,7 @@ static const std::array<spelltext_data_t, 15580> __spelltext_data { {
   { 339973, "Trick Shots secondary damage is increased by|cFFFFFFFF ${$s1}.1%|r.", 0, 0 },
   { 339979, "Your spells and abilities have a chance to remind you of lessons learned from reading books, granting you $340020s1 Mastery for $340020d.", 0, 0 },
   { 339984, "Holy Shock's critical effect chance is increased by |cFFFFFFFF$s1|r%.", 0, 0 },
+  { 339986, 0, "Damage taken from the Warlock's Immolate increased by $s1%.", 0 },
   { 339987, "Light of the Martyr's damage and healing is increased by |cFFFFFFFF$s1|r% each time it is cast. This effect can stack up to $339990u times and lasts for $339990d.", 0, 0 },
   { 339990, "$@spelldesc339987", "Light of the Martyr damage and healing increased by $w%.", 0 },
   { 340006, "Avenger's Shield causes your target to take |cFFFFFFFF${$s1}.1|r% more Holy damage for 5 sec.", 0, 0 },
@@ -15239,12 +15243,14 @@ static const std::array<spelltext_data_t, 15580> __spelltext_data { {
   { 340094, "$@spelldesc340076", "Critical Strike chance increased by $s1%.", 0 },
   { 340109, "Restores ${$m1/5*$d} health and ${$m3/5*$d} mana over $d.  Must remain seated while eating.", "Restores ${$w1/5} health and ${$w2/5} mana per second.", 0 },
   { 340111, "$@spelldesc308433 If you spend at least 10 seconds eating you will become Well Fed and while out of combat heal for $327851s1 every $327851t1 sec for $327851d. Can be used in combat.", 0, 0 },
+  { 340147, "$@spelldesc340030", "Word of Glory costs 0 Holy Power.", 0 },
   { 340153, "Launches you a short distance into the air and deploys magical wings. Can only be used outside in the Shadowlands. ", 0, 0 },
   { 340156, "Launches you high into the air and deploys magical wings. ", "Gliding.", 0 },
   { 340159, "Damage taken below $<health>% health is reduced by $<reduction>%. Upon death you leave a stone husk behind which shatters after $340454d, inflicting $s2% of your maximum health in damage split among nearby enemies, and healing for $s3% of your maximum health split among nearby allies.", 0, 0 },
   { 340185, "Blessing of Summer lasts |cFFFFFFFF${$s1}.1|r% longer.", 0, 0 },
   { 340188, "Stroke the spine of the dragon and it will lay you a golden egg. ", 0, 0 },
   { 340192, "Vanquisher's Hammer deals |cFFFFFFFF${$s1}.1|r% more damage and heals you for the damage done.", 0, 0 },
+  { 340193, "$@spelldesc340192", 0, 0 },
   { 340197, "Killing an enemy has a high chance to summon an Explosive Mawrat at the corpses location. After $340201d the mawrat will explode, dealing $341617s1 Nature damage to all nearby enemies, poisoning them and decreasing their damage done by $341617s2% for $341617d.", 0, 0 },
   { 340201, "$@spelldesc340197", 0, 0 },
   { 340202, "When Looted: The Curse of Renagal's Pact leaves the chalice and you begin to attract the attention of foes from further away than before. ", "Attracting enemies to you from further away than normal. Seek out an ally or Cursebreaker Arnon at the Absolution Crypt to dispell the curse.", 0 },
@@ -15582,12 +15588,14 @@ static const std::array<spelltext_data_t, 15580> __spelltext_data { {
   { 346104, 0, 0, "Passive" },
 } };
 
-// spelltext hotfix entries, wow build 9.0.1.36247
-static constexpr std::array<hotfix::client_hotfix_entry_t, 16> __spelltext_hotfix_data { {
+// spelltext hotfix entries, wow build 9.0.1.36322
+static constexpr std::array<hotfix::client_hotfix_entry_t, 18> __spelltext_hotfix_data { {
   {  227563,  0, "Calms the mind, allowing you to adjust talents while not in combat for $d. Cannot be used above level $ctrmax2067.", "Calms the mind, allowing you to adjust talents while not in combat for $d. Cannot be used above level $maxcast." },
   {  257284,  0, "Apply Hunter's Mark to the target, increasing all damage you deal to the marked target by $s1%. The target can always be seen and tracked by the Hunter.\r\n\r\nOnly one Hunter's Mark can be applied at a time.\r\n\r\nThe cooldown of Hunter's Mark is reset if the target dies.", "Apply Hunter's Mark to the target, causing the target to always be seen and tracked by the Hunter.\r\n\r\nOnly one Hunter's Mark can be applied at a time." },
   {  257284,  1, "Damage taken from $@auracaster increased by $s1%$?a339264[ and damage dealt to $@auracaster is reduced by $339264s1%][].\r\n\r\nCan always be seen and tracked by the Hunter.", "Can always be seen and tracked by the Hunter.$?a339264[\r\n\r\nDamage dealt to $@auracaster is reduced by $339264s1%.][]" },
+  {  273367,  0, "Moonfire deals $s2 additional periodic damage, and has a chance to grant Lunar Empowerment.", "Moonfire deals $s2 additional periodic damage." },
   {  273418,  0, "Nightblade increases the damage of your next Eviscerate within 8 sec by $s1 per combo point.", "Rupture increases the damage of your next Eviscerate within 8 sec by $s1 per combo point." },
+  {  273464,  0, "When you Blackout Strike, your Stagger is reduced by $s1.", "When you Blackout Kick, your Stagger is reduced by $s1." },
   {  275846,  0, "When you spend Combo Points on $?s5171[Slice and Dice][Roll the Bones], your next $275863n Sinister Strikes will deal $s1 additional damage for each Combo Point spent.", "When you spend Combo Points on Slice and Dice, your next $275863n Sinister Strikes will deal $s1 additional damage for each Combo Point spent." },
   {  276029,  0, "$?S34090|S34091|S90265[Your][After training Master Riding, your] Travel Form allows you to fly and increases your movement speed by $33948s2%.", "$?S34090|S34091|S90265[Your][After training Expert Riding, your] Travel Form allows you to fly and increases your movement speed by $33948s2%." },
   {  278661,  0, "When Voidform ends, gain $s1 Critical Strike for each stack of Voidform. This effect decays every $279572t3 sec.", "When Voidform ends, gain $s1 Critical Strike, stacking 20 times. This effect decays every $279572t3 sec." },
@@ -15596,13 +15604,13 @@ static constexpr std::array<hotfix::client_hotfix_entry_t, 16> __spelltext_hotfi
   {  286121,  0, "Each combo point spent has a $s2% chance to cause your Nightblade to deal $s1 Shadow damage and replicate to a nearby enemy.", "Each combo point spent has a $s2% chance to cause your Rupture to deal $s1 Shadow damage and replicate to a nearby enemy." },
   {  287126,  0, "Your $?s213652[Hand of the Protector][Light of the Protector] heals for $s1 additional healing, and is always increased by 200% during Avenging Wrath.", "Word of Glory heals for $s1 additional healing. During Avenging Wrath, it receives the maximum value of any health-based bonuses." },
   {  319175,  0, "Finishing move that leaps you into the air, sprays shuriken at up to $s4 nearby targets dealing Physical damage.$?s319178[ Targets with your Find Weakness suffer an additional $319178s1% damage as Shadow.][]\r\n\r\n   1 point  : ${$m1*1} damage\r\n   2 points: ${$m1*2} damage\r\n   3 points: ${$m1*3} damage\r\n   4 points: ${$m1*4} damage\r\n   5 points: ${$m1*5} damage$?s193531[\r\n   6 points: ${$m1*6} damage][]\r\n", "Finishing move that launches explosive Black Powder at up to $s4 nearby targets dealing Physical damage.$?s319178[ Targets with your Find Weakness suffer an additional $319178s1% damage as Shadow.][]\r\n\r\n   1 point  : ${$m1*1} damage\r\n   2 points: ${$m1*2} damage\r\n   3 points: ${$m1*3} damage\r\n   4 points: ${$m1*4} damage\r\n   5 points: ${$m1*5} damage$?s193531[\r\n   6 points: ${$m1*6} damage][]\r\n" },
-  {  322101,  0, "Expel negative chi from your body, healing for $s1 and dealing $s2% of the amount healed as Nature damage to an enemy within $115129A1 yards.$?s322102[\r\n\r\nDraws in the positive chi of all your Healing Spheres to increase the healing of Expel Harm.][]$?s322104[\r\n\r\nMay be cast during Soothing Mist, and will additionally heal the Soothing Mist target.][]$?s322106[\r\n\r\n|cFFFFFFFFGenerates $s3 Chi.]?s342928[\r\n\r\n|cFFFFFFFFGenerates $s3 Chi.][]", "Expel negative chi from your body, healing for $s1 and dealing $s2% of the amount healed as Nature damage to an enemy within $115129A1 yards.$?s322102[\r\n\r\nDraws in the positive chi of all your Healing Spheres to increase the healing of Expel Harm.][]$?s322104[\r\n\r\nMay be cast during Soothing Mist, and will additionally heal the Soothing Mist target.][]$?s322106[\r\n\r\n|cFFFFFFFFGenerates $s3 Chi.]?s342928[\r\n\r\n|cFFFFFFFFGenerates ${$s3+$342928s2} Chi.][]" },
+  {  322101,  0, "Expel negative chi from your body, healing for $s1 and dealing $s2% of the amount healed as Nature damage to an enemy within $115129A1 yards.$?s322102[\r\n\r\nDraws in the positive chi of all your Healing Spheres to increase the healing of Expel Harm.][]$?s322104[\r\n\r\nMay be cast during Soothing Mist, and will additionally heal the Soothing Mist target.][]$?s322106[\r\n\r\n|cFFFFFFFFGenerates $s3 Chi.]?s342928[\r\n\r\n|cFFFFFFFFGenerates $s3 Chi.][]", "Expel negative chi from your body, healing for $s1 and dealing $s2% of the amount healed as Nature damage to an enemy within $115129A1 yards.$?s322102[\r\n\r\nDraws in the positive chi of all your Healing Spheres to increase the healing of Expel Harm.][]$?s325214[\r\n\r\nMay be cast during Soothing Mist, and will additionally heal the Soothing Mist target.][]$?s322106[\r\n\r\n|cFFFFFFFFGenerates $s3 Chi.]?s342928[\r\n\r\n|cFFFFFFFFGenerates ${$s3+$342928s2} Chi.][]" },
   {  342049,  0, "A two-headed shot that hits your primary target and another nearby target, dealing $344120sw1 Nature damage to one and $344121sw1 Frost damage to the other.", "A two-headed shot that hits your primary target for $344120sw1 Nature damage and another nearby target for  ${$344121sw1*($s1/100)} Frost damage." },
   {  342928,  0, "Increases the healing done by Expel Harm by $m1%, and your Expel Harm now generates $m2 Chi.", "Increases the healing done by Expel Harm by $m1%, and your Expel Harm now generates $m2 additional Chi." },
   {  345218,  0, "Your second Void Bolt cast on the same target will deal $m1% more damage, cause the target to receive $m2% more damage from you for $d, and extend the duration of your Void Form by $m3 sec. If your Void Bolt critically hits, your Void Form is extended by $m4 sec.", "Void Bolt causes the target to become vulnerable to the void, causing them to take an increased $345219m2% damage from you for $345219d. This effect can only be active on one target at any one time.\r\n\r\nVoid Bolt cast on vulnerable targets will also extend the duration of your Void Form by $m3 sec. If your Void Bolt critically hits, your Void Form is extended by $m4 sec." },
 } };
 
-// Spell description variables, wow build 9.0.1.36247
+// Spell description variables, wow build 9.0.1.36322
 static const std::array<spelldesc_vars_data_t, 274> __spelldesc_vars_data { {
   {      17, "$rapture=$?a47536[${(1+$47536s1/100)}][${1}]\r\n$shadow=$?a137033[${1.00}][${1}]\r\n$shield=${$SP*1.8*(1+$@versadmg)*$<rapture>*$<shadow>}" },
   {      53, "$mult=${($max(0,$min($pl-10,10))*11+260)/370}" },
@@ -15880,7 +15888,7 @@ static const std::array<spelldesc_vars_data_t, 274> __spelldesc_vars_data { {
   {  343527, "$Mastery=$?a267316[${1+$267316s1/100}][${1}]\r\n$DP=$?a223819[${1+$223819s2/100}][${1}]\r\n$mult=${$<Mastery>*$<DP>}" },
 } };
 
-// spelldesc_vars hotfix entries, wow build 9.0.1.36247
+// spelldesc_vars hotfix entries, wow build 9.0.1.36322
 static constexpr std::array<hotfix::client_hotfix_entry_t, 4> __spelldesc_vars_hotfix_data { {
   {      17,  0, "$rapture=$?a47536[${(1+$47536s1/100)}][${1}]\r\n$shadow=$?a137033[${1.36}][${1}]\r\n$shield=${$SP*2*(1+$@versadmg)*$<rapture>*$<shadow>}", "$rapture=$?a47536[${(1+$47536s1/100)}][${1}]\r\n$shadow=$?a137033[${1.00}][${1}]\r\n$shield=${$SP*1.8*(1+$@versadmg)*$<rapture>*$<shadow>}" },
   {  296320,  0, "$cooldownValue=${($m1+2896)/-100}.1\r\n$cooldown=${$clamp($<cooldownValue>,10,25)}.1", "$cooldownValue=${($m1+3320)/-100}.1\r\n$cooldown=${$clamp($<cooldownValue>,10,25)}.1" },
