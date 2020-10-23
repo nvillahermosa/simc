@@ -1,4 +1,4 @@
-SimulationCraft 901-01 for World of Warcraft 9.0.1.36322 shadowlands-BETA (hotfix 2020-10-21/36322, no-networking)
+SimulationCraft 901-01 for World of Warcraft 8.0.2.36294 shadowlands-BETA (hotfix 2020-10-23/36322, no-networking)
 
 Name             : Eye of Kilrogg (id=126) [Spell Family (5)] 
 Class            : Warlock
@@ -40,7 +40,7 @@ Cast Time        : 2 seconds
 GCD              : 1.5 seconds
 Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Epidemic (184922 effects: #1, #2), Absolute Corruption (196103 effect#2), Sacrolash's Dark Strike (207952 effect#1), Tormented Agony (252938 effect#1), Creeping Death (264000 effects: #1, #2), Corruption (317031 effect#1), Sacrolash's Dark Strike (337111 effect#1)
 Family Flags     : 1
-Attributes       : ........ ........ ........ ........   ........ ........ ........ ........ 
+Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ....x... ........   ........ .....x.. ........ ........ 
                  : ........ ........ .......x ........   ........ ........ ........ ........ 
@@ -67,7 +67,7 @@ Spell Level      : 11
 Range            : 40 yards
 Cast Time        : 1.5 seconds
 GCD              : 1.5 seconds
-Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Item - Warlock T17 Destruction 2P Bonus (165455 effect#2), Flamelicked (185229 effect#1), Odr, Shawl of the Ymirjar (212173 effect#1), Conflagrate (265931 effect#1), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1), Odr, Shawl of the Ymirjar (337164 effect#1)
+Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Item - Warlock T17 Destruction 2P Bonus (165455 effect#2), Flamelicked (185229 effect#1), Odr, Shawl of the Ymirjar (212173 effect#1), Conflagrate (265931 effect#1), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1), Odr, Shawl of the Ymirjar (337164 effect#1)
 Family Flags     : 2, 49, 118
 Attributes       : ........ ........ x....... .......x   ........ ........ ........ ....x... 
                  : ........ ........ ........ ........   ........ ........ ....x... ........ 
@@ -97,9 +97,9 @@ Spell Level      : 15
 Range            : 40 yards
 GCD              : 1.5 seconds
 Duration         : 20 seconds
-Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Grimoire of Supremacy (152107 effect#6), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1)
+Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Grimoire of Supremacy (152107 effect#6), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Family Flags     : 33, 49, 122
-Attributes       : ........ ........ ........ ........   ........ ........ ........ ........ 
+Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ....x... ........   ........ .....x.. ........ ........ 
                  : ........ ........ .......x ........   ........ ........ ........ ........ 
@@ -126,7 +126,7 @@ Range            : 40 yards
 Cast Time        : 2 seconds
 GCD              : 1.5 seconds
 Velocity         : 20 yards/sec
-Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Shadowy Inspiration (196606 effect#1), Nightfall (264571 effect#1), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Decimating Bolt (325299 effect#1), Malefic Wrath (337125 effects: #1, #2), Wrath of Consumption (337130 effect#1)
+Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Shadowy Inspiration (196606 effect#1), Nightfall (264571 effect#1), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Decimating Bolt (325299 effect#1), Relic of Demonic Synergy (337060 effects: #2, #3), Malefic Wrath (337125 effects: #1, #2), Wrath of Consumption (337130 effect#1)
 Family Flags     : 0, 49
 Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -157,7 +157,7 @@ Duration         : Aura (infinite)
 Category         : 1363
 Affecting spells : Fel Domination (333889 effects: #1, #2)
 Family Flags     : 26
-Attributes       : ........ ........ ........ ........   x....... ........ .x...... ........ 
+Attributes       : ........ ........ x....... ........   x....... ........ .x...... ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ......x. ........ ........ 
@@ -182,7 +182,7 @@ Duration         : Aura (infinite)
 Category         : 1363
 Affecting spells : Glyph of the Observer (219450 effect#1), Fel Domination (333889 effects: #1, #2)
 Family Flags     : 29
-Attributes       : ........ ........ ........ ........   x....... ........ .x...... ........ 
+Attributes       : ........ ........ x....... ........   x....... ........ .x...... ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   .x...... ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ......x. ........ ........ 
@@ -207,7 +207,7 @@ Duration         : Aura (infinite)
 Category         : 1363
 Affecting spells : Fel Domination (333889 effects: #1, #2)
 Family Flags     : 27
-Attributes       : ........ ........ ........ ........   x....... ........ .x...... ........ 
+Attributes       : ........ ........ x....... ........   x....... ........ .x...... ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   .x...... ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ......x. ........ ........ 
@@ -319,7 +319,7 @@ Duration         : Aura (infinite)
 Category         : 1363
 Affecting spells : Orb of the Fel Temptress (240264 effect#1), Fel Domination (333889 effects: #1, #2)
 Family Flags     : 28
-Attributes       : ........ ........ ........ ........   x....... ........ .x...... ........ 
+Attributes       : ........ ........ x....... ........   x....... ........ .x...... ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   .x...... ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ......x. ........ ........ 
@@ -367,7 +367,7 @@ GCD              : 1.5 seconds
 Duration         : 18 seconds
 Stacks           : 6 maximum
 Proc Chance      : 101%
-Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Epidemic (184922 effects: #1, #2), Writhe in Agony (196102 effect#1), Hood of Eternal Disdain (205797 effects: #1, #2), Agony (231792 effect#1), Tormented Agony (252938 effect#1), Creeping Death (264000 effects: #1, #2), Sudden Onset (278721 effect#1), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1), Rolling Agony (339481 effect#1)
+Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Epidemic (184922 effects: #1, #2), Writhe in Agony (196102 effect#1), Hood of Eternal Disdain (205797 effects: #1, #2), Agony (231792 effect#1), Tormented Agony (252938 effect#1), Creeping Death (264000 effects: #1, #2), Sudden Onset (278721 effect#1), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1), Rolling Agony (339481 effect#1)
 Family Flags     : 10, 49
 Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   .......x ........ ........ ........ 
@@ -433,7 +433,7 @@ Labels           : 690: Strive for Perfection (296320 effect#2), Strive for Perf
 Category Cooldown: 180 seconds
 Affecting spells : Crashing Chaos (277705 effect#2), Summon Infernal (335175 effect#1)
 Family Flags     : 50, 105
-Attributes       : ........ ........ ........ ........   ........ ........ .x...... ....x... 
+Attributes       : ........ ........ x....... ........   ........ ........ .x...... ....x... 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -734,7 +734,7 @@ GCD              : 1.5 seconds
 Duration         : 10 seconds
 Cooldown         : 6 seconds
 Proc Chance      : 101%
-Affecting spells : Rend (772 effect#3), Demoralizing Shout (1160 effect#3), Recklessness (1719 effects: #1, #8), Mastery: Unshackled Fury (76856 effects: #1, #2), Single-Minded Fury (81099 effects: #1, #2), Avatar (107574 effects: #1, #3, #4, #8), Warrior (137047 effects: #1, #2), Protection Warrior (137048 effects: #1, #2), Arms Warrior (137049 effects: #2, #3), Fury Warrior (137050 effects: #1, #2), Crackling Thunder (203201 effects: #1, #2), Kakushan's Stormscale Gauntlets (207844 effects: #1, #2), Colossus Smash (208086 effect#1), Deep Wounds (262115 effect#2), Deafening Crash (272824 effect#2), Siegebreaker (280773 effect#1), Glory (325787 effect#1), Unnerving Focus (337155 effect#5), Show of Force (339825 effect#1)
+Affecting spells : Rend (772 effect#3), Demoralizing Shout (1160 effect#3), Recklessness (1719 effects: #1, #8), Mastery: Unshackled Fury (76856 effects: #1, #2), Single-Minded Fury (81099 effects: #1, #2), Avatar (107574 effects: #1, #3, #4, #8), Warrior (137047 effects: #1, #2), Protection Warrior (137048 effects: #1, #2), Arms Warrior (137049 effects: #2, #3), Fury Warrior (137050 effects: #1, #2), Crackling Thunder (203201 effects: #1, #2), Kakushan's Stormscale Gauntlets (207844 effects: #1, #2), Colossus Smash (208086 effect#1), Deep Wounds (262115 effect#2), Deafening Crash (272824 effect#2), Siegebreaker (280773 effect#1), Glory (325787 effect#1), Will of the Berserker (335597 effect#1), Unnerving Focus (337155 effect#5), Show of Force (339825 effect#1)
 Family Flags     : 7, 8, 9, 18
 Attributes       : ....x... ........ x.x..x.. ........   ...x...x .x...... ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -772,7 +772,7 @@ GCD              : 1.5 seconds
 Velocity         : 24 yards/sec
 Cooldown         : 45 seconds
 Category         : 631
-Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Odr, Shawl of the Ymirjar (212173 effect#1), Conflagrate (265931 effect#1), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1), Odr, Shawl of the Ymirjar (337164 effect#1)
+Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Odr, Shawl of the Ymirjar (212173 effect#1), Conflagrate (265931 effect#1), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1), Odr, Shawl of the Ymirjar (337164 effect#1)
 Family Flags     : 49, 65
 Attributes       : ........ ........ x....... ........   ........ ........ ........ ...x.... 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -1024,7 +1024,7 @@ GCD              : 1.5 seconds
 Duration         : 5 seconds
 Charges          : 2 (12 seconds cooldown)
 Category         : 651: Warlock (137042 effect#5)
-Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Flamelicked (185229 effect#1), Odr, Shawl of the Ymirjar (212173 effect#1), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1), Odr, Shawl of the Ymirjar (337164 effect#1)
+Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Flamelicked (185229 effect#1), Odr, Shawl of the Ymirjar (212173 effect#1), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1), Odr, Shawl of the Ymirjar (337164 effect#1)
 Family Flags     : 7, 49, 118
 Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -1074,7 +1074,7 @@ Range            : 40 yards
 GCD              : 1.5 seconds
 Charges          : 1 (12.96 seconds cooldown)
 Category         : 672: Warlock (137042 effect#2), Item - Warlock T19 Destruction 4P Bonus (212017 effect#1), Item - Warlock T19 Destruction 4P Bonus (212017 effect#2), Conflagrate (231793 effect#1), Cinders of the Azj'Aqir (337166 effect#1), Cinders of the Azj'Aqir (337166 effect#2)
-Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Flamelicked (185229 effect#1), Odr, Shawl of the Ymirjar (212173 effect#1), Conflagrate (265931 effect#1), Flashover (267115 effect#3), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1), Odr, Shawl of the Ymirjar (337164 effect#1)
+Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Flamelicked (185229 effect#1), Odr, Shawl of the Ymirjar (212173 effect#1), Conflagrate (265931 effect#1), Flashover (267115 effect#3), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1), Odr, Shawl of the Ymirjar (337164 effect#1)
 Family Flags     : 49, 55, 118
 Attributes       : ........ ........ x....... ........   ........ ........ .x...... ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -1239,10 +1239,9 @@ Duration         : 900 seconds
 Cooldown         : 600 seconds
 Category         : 831
 Category Cooldown: 600 seconds
-Stance Mask      : 0x80200000
 Family Flags     : 56
-Attributes       : ........ ........ ........ ........   ........ ..x..... .x...... ........ 
-                 : x..x.... x....... ...x.... ........   ........ x....... ........ ........ 
+Attributes       : ........ ........ x....... ........   ........ ..x..... .x...... ........ 
+                 : x..x.... x....... ........ ........   ........ x....... ........ ........ 
                  : ........ ........ x....... ........   ..x..x.. ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ .......x ........   ........ .x...... ........ ........ 
@@ -1321,9 +1320,9 @@ Duration         : 12 seconds
 Proc Chance      : 100%
 Proc Flags       : ...x.x.x .x...x.. .x.x.... .......x 
                  : White Melee Taken, Yellow Melee Taken, White Ranged Taken , Yellow Ranged Taken, Generic Hostile Spell Taken, Magic Hostile Spell Taken, Periodic Taken
-Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1)
+Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Family Flags     : 36, 49
-Attributes       : ........ ........ ..x..... ........   ........ ........ ........ ........ 
+Attributes       : ........ ........ x.x..... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ..x..... 
                  : ........ ........ ........ ........   ........ .....x.. ........ ........ 
                  : ........ ........ .......x ........   x....... ........ ........ ........ 
@@ -1352,7 +1351,7 @@ School           : Shadow
 Spell Type       : Magic
 Spell Level      : 28
 Range            : 50000 yards
-Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1)
+Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Family Flags     : 47, 49
 Attributes       : ........ ........ .......x ........   ........ ........ ........ ........ 
                  : ..x..... ........ ........ ........   x....... .x...... ........ ......x. 
@@ -1422,7 +1421,7 @@ GCD              : 1.5 seconds
 Velocity         : 25 yards/sec
 Stacks           : 5 maximum
 Proc Chance      : 101%
-Affecting spells : Backdraft (117828 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Immolate (157736 effect#2), Flamelicked (185229 effect#1), Odr, Shawl of the Ymirjar (212173 effect#1), Chaotic Flames (253092 effect#1), Conflagrate (265931 effect#1), Chaotic Inferno (279673 effect#1), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Chaos Shards (287637 effect#2), Decimating Bolt (325299 effect#1), Wrath of Consumption (337130 effect#1), Odr, Shawl of the Ymirjar (337164 effect#1)
+Affecting spells : Backdraft (117828 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Immolate (157736 effect#2), Flamelicked (185229 effect#1), Odr, Shawl of the Ymirjar (212173 effect#1), Chaotic Flames (253092 effect#1), Conflagrate (265931 effect#1), Chaotic Inferno (279673 effect#1), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Chaos Shards (287637 effect#2), Decimating Bolt (325299 effect#1), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1), Odr, Shawl of the Ymirjar (337164 effect#1)
 Family Flags     : 38, 49, 118
 Attributes       : ........ ........ x.x..... ........   ........ ........ ........ ........ 
                  : ........ ........ .x...... ........   ........ ........ ........ ........ 
@@ -1510,7 +1509,7 @@ School           : Physical
 Spell Type       : None
 Resource         : 20 Energy (3) (id=1189)
 Spell Level      : 14
-Range            : 8 - 25 yards
+Range            : 6 - 25 yards
 GCD              : 1.5 seconds
 Duration         : 8 seconds
 Cooldown         : 15 seconds
@@ -1700,7 +1699,7 @@ Effects          :
                    Base Value: 3 | Scaled Value: 3 | PvP Coefficient: 1.00000 | Misc Value: 0x7f | Target: Enemy (6)
                    Affected School(s): All
 Description      : $@spelldesc32388
-Tooltip          : Damage taken increased by $s1%.
+Tooltip          : Damage taken increased by ${$s1}.1%.
 
 Name             : Blood Fury (desc=Racial) (id=33702) [Scaling Spell (-1)] 
 Class            : Mage, Warlock
@@ -1749,7 +1748,7 @@ School           : Fire
 Spell Type       : Magic
 Spell Level      : 14
 Range            : 100 yards
-Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Flamelicked (185229 effect#1), Inferno (270545 effects: #2, #3), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Rain of Fire (335189 effect#1), Wrath of Consumption (337130 effect#1)
+Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Flamelicked (185229 effect#1), Inferno (270545 effects: #2, #3), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Rain of Fire (335189 effect#1), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Family Flags     : 49, 92
 Attributes       : ........ ........ .......x x..x....   ...x.x.x ........ ........ ........ 
                  : ..x..... ......x. ...x.... ......x.   ........ .x...... ........ .x....x. 
@@ -1777,9 +1776,9 @@ GCD              : 1.5 seconds
 Velocity         : 40 yards/sec
 Duration         : 18 seconds
 Cooldown         : 15 seconds
-Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1)
+Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Family Flags     : 49, 101
-Attributes       : ........ ........ ........ ........   ........ ........ ........ ........ 
+Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   .......x ........ ........ ..x..... 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -1882,7 +1881,7 @@ Description      : $@spelldesc56246
 Name             : Kilrogg's Cunning (id=58081) [Spell Family (5), Passive, Hidden] 
 School           : Physical
 Spell Type       : None
-Conduit Id       : 221 (values=50.0, 55.0, 60.0, 65.0, 70.0, 75.0, 80.0, 85.0, 90.0, 95.0, 100.0, 105.0, 110.0, 115.0, 120.0)
+Conduit Id       : 221 (values=50.0, 55.0, 60.0, 65.0, 70.0, 150.0, 80.0, 85.0, 90.0, 95.0, 100.0, 105.0, 110.0, 115.0, 120.0)
 Attributes       : ......xx ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -1890,7 +1889,7 @@ Attributes       : ......xx ........ ........ ........   ........ ........ .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ........ ........ 
-                 : ........ ........ ........ ........   
+                 : ...x.... ........ ........ ........   
                  : Passive (6), Hidden (7)
 Effects          :
 #1 (id=51387)    : Apply Aura (6) | Add Flat Modifier (107): Spell Effect 3 (23)
@@ -1899,9 +1898,9 @@ Effects          :
 #2 (id=127212)   : Apply Aura (6) | Add Flat Modifier (107): Spell Effect 1 (3)
                    Base Value: -500 | Scaled Value: -500 | PvP Coefficient: 1.00000 | Misc Value: 3 | Target: Self (1)
                    Family Flags: 62
-Description      : Your Eye of Kilrogg is no longer stealthed and can now place your Demonic Circle.  The casting Warlock must be within line of sight of the Eye of Kilrogg to place the Demonic Circle.
+Description      : Your Eye of Kilrogg is no longer stealthed and can now place your Demonic Circle. You must be within line of sight of the Eye of Kilrogg to place the Demonic Circle.
 
-In addition, the movement speed of your Eye of Kilrogg is increased by |cFFFFFFFF${$s1}%|r.
+The movement speed of your Eye of Kilrogg is increased by |cFFFFFFFF${$s1}%|r.
 
 Name             : Glyph of Soulwell (id=58094) [Spell Family (5), Passive, Hidden] 
 Class            : Warlock
@@ -1949,9 +1948,9 @@ Spell Level      : 1
 Range            : 40 yards
 GCD              : 1.5 seconds
 Duration         : 15 seconds
-Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Tormented Agony (252938 effect#1), Creeping Death (264000 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1)
+Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Tormented Agony (252938 effect#1), Creeping Death (264000 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Family Flags     : 8, 49
-Attributes       : ........ ........ ........ ........   ........ ........ ........ ........ 
+Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
                  : ........ x....... ........ ........   .......x ........ ........ ........ 
                  : ........ ........ ....x... ........   ........ .....x.. ........ ........ 
                  : ........ ........ .......x ........   ........ ........ ........ ........ 
@@ -2193,7 +2192,7 @@ Attributes       : ........ ........ x....... ........   ........ ........ .....
                  : ........ ........ ........ ........   
 Effects          :
 #1 (id=87009)    : School Damage (2): shadow
-                   Base Value: 5 | Scaled Value: 5 (coefficient=0, delta coefficient=0.05) | AP Coefficient: 0.68750 | PvP Coefficient: 1.00000 | Target: Enemy (6)
+                   Base Value: 9 | Scaled Value: 9 (coefficient=0, delta coefficient=0.05) | AP Coefficient: 0.68750 | PvP Coefficient: 1.00000 | Target: Enemy (6)
 #2 (id=155200)   : Dummy (3)
                    Base Value: 20 | Scaled Value: 20 | PvP Coefficient: 1.00000
 Description      : Sends a shadowy bolt at the enemy, causing $s1 Shadow damage. Deals $s2% additional damage to targets below 20% health.
@@ -2203,7 +2202,7 @@ Class            : Warlock
 School           : Shadowflame
 Spell Type       : Magic
 Range            : 50000 yards
-Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Dirty Hands (211105 effect#1), From the Shadows (270569 effect#1), Demonic Meteor (278737 effect#1), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1)
+Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Dirty Hands (211105 effect#1), From the Shadows (270569 effect#1), Demonic Meteor (278737 effect#1), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Family Flags     : 49, 86
 Attributes       : ........ ........ .......x ........   ...x...x ........ ........ ........ 
                  : ..x..... ........ ........ ....x...   x....... ........ ........ ......x. 
@@ -2261,7 +2260,7 @@ Effects          :
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Target: Self (1)
 #3 (id=135904)   : Apply Aura (6) | Disable Abilities (263)
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Target: Self (1)
-                   Affected Spells: Axe Toss (89766)
+                   Affected Spells: Axe Toss (89766), Axe Toss (347008)
                    Family Flags: 34
 #4 (id=169566)   : Apply Aura (6) | Unknown(371)
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Target: Self (1)
@@ -2300,7 +2299,7 @@ School           : Physical
 Spell Type       : Ranged
 Spell Level      : 17
 Range            : 30 yards
-Velocity         : 20 yards/sec
+Velocity         : 30 yards/sec
 Duration         : 4 seconds
 Cooldown         : 30 seconds
 Affecting spells : Felstorm (89751 effect#3)
@@ -2314,11 +2313,11 @@ Attributes       : ........ ........ x.x..... ........   ........ ........ .x...
                  : ........ ........ ........ ........   x....... ..x..... ........ ........ 
                  : ........ ........ ........ ........   
 Effects          :
-#1 (id=92676)    : Apply Aura (6) | Stun (12)
+#1 (id=92676)    : Trigger Spell (64): Axe Toss
+                   Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Trigger Spell: 347008 | Mechanic: Interrupt | Target: Enemy (6)
+#2 (id=834867)   : Apply Aura (6) | Stun (12)
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Mechanic: Stun | Target: Enemy (6)
-#2 (id=834867)   : Interrupt Cast (68)
-                   Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Mechanic: Interrupt | Target: Enemy (6)
-Description      : The $?s108499[Wrathguard][Felguard] hurls its weapon, stunning or interrupting the target for $89766d.
+Description      : The $?s108499[Wrathguard][Felguard] hurls its weapon, stunning and interrupting the target for $89766d.
 Tooltip          : Stunned for $d.
 
 Name             : Flee (desc=Special Ability) (id=89792) [Spell Family (57)] 
@@ -2535,7 +2534,7 @@ GCD              : 1.5 seconds
 Cooldown         : 20 seconds
 Affecting spells : Demonic Calling (205146 effects: #1, #2), Item - Warlock T19 Demonology 4P Bonus (212007 effect#1), Call Dreadstalkers (334727 effect#1)
 Family Flags     : 25
-Attributes       : ........ ........ ........ ........   ........ ........ ........ ........ 
+Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ..x..... ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -2605,13 +2604,13 @@ Duration         : 8 seconds
 Cooldown         : 180 seconds
 Affecting spells : Unending Resolve (317138 effects: #1, #2)
 Family Flags     : 54, 67
-Attributes       : ....x... ........ ..x..... ........   ........ ..x..... ........ ........ 
+Attributes       : ....x... ........ x.x..... ........   ........ ..x..... ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ...x.... ........ .x...... ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ....x... ........ ........   ........ ........ ........ ........ 
                  : ........ .....x.. ........ ........   ........ ........ ........ ........ 
-                 : ........ ........ ........ ........   x....... ........ ........ ........ 
+                 : ........ ........ ........ ........   x......x ........ ........ ........ 
                  : ........ ........ ........ ........   
 Effects          :
 #1 (id=114369)   : Apply Aura (6) | Mechanic Immunity (77)
@@ -2753,7 +2752,7 @@ Duration         : 20 seconds
 Cooldown         : 60 seconds
 Category         : 25
 Category Cooldown: 60 seconds
-Attributes       : ........ ........ ........ ...x....   .....x.. ........ ........ ........ 
+Attributes       : ........ ........ x....... ...x....   .....x.. ........ ........ ........ 
                  : ........ ......x. ........ ........   ........ ........ ........ ......x. 
                  : ........ ........ ........ ........   ...x.... ........ .xx..... ........ 
                  : .....x.. ........ ........ ........   ........ ........ ........ ........ 
@@ -2840,7 +2839,7 @@ Spell Level      : 1
 Range            : 50000 yards
 GCD              : 1.5 seconds
 Cooldown         : 30 seconds
-Attributes       : ........ ........ ........ .....x..   ........ ..x..... ........ ..x..... 
+Attributes       : ........ ........ x....... .....x..   ........ ..x..... ........ ..x..... 
                  : ........ ........ ........ ..x..x..   ........ ........ x....... ......x. 
                  : ........ ...x.... ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ...x....   ........ ...x.... ........ ........ 
@@ -2883,7 +2882,7 @@ Spell Type       : None
 GCD              : 1.5 seconds
 Duration         : Aura (infinite)
 Family Flags     : 61
-Attributes       : ........ ........ ........ ........   ........ ..x..... ........ ........ 
+Attributes       : ........ ........ x....... ........   ........ ..x..... ........ ........ 
                  : ........ x....... ........ ........   ........ ........ xx...... ........ 
                  : ........ x....... ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ .....x..   ........ ........ ........ ........ 
@@ -2936,7 +2935,7 @@ Duration         : 0.001 seconds
 Cooldown         : 10 seconds
 Affecting spells : Pillars of the Dark Portal (217519 effect#1), Pillars of the Dark Portal (337065 effect#1)
 Family Flags     : 57
-Attributes       : ........ ........ ........ ........   ........ ........ .x...... ........ 
+Attributes       : ........ ........ x....... ........   ........ ........ .x...... ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -3076,7 +3075,7 @@ Duration         : 17 seconds
 Cooldown         : 120 seconds
 Category         : 1336
 Category Cooldown: 120 seconds
-Attributes       : ........ ........ ........ ........   .......x ........ .x...... ........ 
+Attributes       : ........ ........ x....... ........   .......x ........ .x...... ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -3186,7 +3185,7 @@ Attributes       : ........ ........ x.x..... ........   ........ ..x..... .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ .....x.. ........ ........   ........ ........ ........ ........ 
-                 : ........ ........ ........ ........   x....... ........ ........ ........ 
+                 : ........ ........ ........ ........   x......x ........ ........ ........ 
                  : ........ ........ ........ ........   
 Effects          :
 #1 (id=126899)   : Apply Aura (6) | Modify All Haste% (193)
@@ -3225,7 +3224,7 @@ Range            : 40 yards
 Cast Time        : 3 seconds
 GCD              : 1.5 seconds
 Velocity         : 20 yards/sec
-Affecting spells : Backdraft (117828 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Immolate (157736 effect#2), Item - Warlock T17 Destruction 4P Bonus (165452 effect#1), Flamelicked (185229 effect#1), Item - Warlock T18 Destruction 2P Bonus (185965 effects: #1, #2), Embrace Chaos (212019 effect#1), Odr, Shawl of the Ymirjar (212173 effect#1), Crashing Chaos (277706 effect#1), Chaotic Inferno (278748 effect#2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1), Odr, Shawl of the Ymirjar (337164 effect#1), Madness  of the Azj'Aqir (337170 effects: #1, #2), Soul Tithe (340238 effect#1)
+Affecting spells : Backdraft (117828 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Immolate (157736 effect#2), Item - Warlock T17 Destruction 4P Bonus (165452 effect#1), Flamelicked (185229 effect#1), Item - Warlock T18 Destruction 2P Bonus (185965 effects: #1, #2), Embrace Chaos (212019 effect#1), Odr, Shawl of the Ymirjar (212173 effect#1), Crashing Chaos (277706 effect#1), Chaotic Inferno (278748 effect#2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1), Odr, Shawl of the Ymirjar (337164 effect#1), Madness of the Azj'Aqir (337170 effects: #1, #2), Soul Tithe (340238 effect#1)
 Family Flags     : 45, 49, 118
 Attributes       : ........ ........ x....... ........   ........ ........ ........ ...x.... 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -3332,7 +3331,7 @@ School           : Physical
 Spell Type       : None
 Spell Level      : 29
 Family Flags     : 103
-Attributes       : ........ ........ ........ x..x....   .....x.. ........ ........ ........ 
+Attributes       : ........ ........ x....... x..x....   .....x.. ........ ........ ........ 
                  : ........ ......x. ...x.... ........   ........ ........ ........ ........ 
                  : .......x ........ ........ ........   ...x.... ........ .xx..... ........ 
                  : ........ ....x... ........ ........   ........ ........ ....x... ........ 
@@ -3556,7 +3555,7 @@ Spell Type       : Magic
 Spell Level      : 3
 Range            : 40 yards
 Duration         : 14 seconds
-Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Epidemic (184922 effects: #1, #2), Absolute Corruption (196103 effect#2), Sacrolash's Dark Strike (207952 effect#1), Tormented Agony (252938 effect#1), Creeping Death (264000 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Corruption (317031 effect#1), Sacrolash's Dark Strike (337111 effect#1), Wrath of Consumption (337130 effect#1)
+Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Epidemic (184922 effects: #1, #2), Absolute Corruption (196103 effect#2), Sacrolash's Dark Strike (207952 effect#1), Tormented Agony (252938 effect#1), Creeping Death (264000 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Corruption (317031 effect#1), Relic of Demonic Synergy (337060 effects: #2, #3), Sacrolash's Dark Strike (337111 effect#1), Wrath of Consumption (337130 effect#1)
 Triggered by     : Corruption (172)
 Family Flags     : 1, 49
 Attributes       : ........ ........ ........ ..x.....   ........ ........ ........ ........ 
@@ -3613,9 +3612,9 @@ Range            : 40 yards
 Cast Time        : 2 seconds
 GCD              : 1.5 seconds
 Cooldown         : 30 seconds
-Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Flamelicked (185229 effect#1), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1)
+Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Flamelicked (185229 effect#1), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Family Flags     : 49, 72
-Attributes       : ........ ........ ........ ........   ........ ........ ........ ........ 
+Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -3634,7 +3633,7 @@ School           : Fire
 Spell Type       : Magic
 Range            : 100 yards
 Duration         : 18 seconds
-Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Item - Warlock T17 Destruction 2P Bonus (165455 effect#1), Flamelicked (185229 effect#1), Odr, Shawl of the Ymirjar (212173 effect#1), Conflagrate (265931 effect#1), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1), Odr, Shawl of the Ymirjar (337164 effect#1), Combusting Engine (339986 effect#1)
+Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Item - Warlock T17 Destruction 2P Bonus (165455 effect#1), Flamelicked (185229 effect#1), Odr, Shawl of the Ymirjar (212173 effect#1), Conflagrate (265931 effect#1), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1), Odr, Shawl of the Ymirjar (337164 effect#1), Ashen Remains (339892 effect#1), Combusting Engine (339986 effect#1)
 Family Flags     : 4, 49, 118
 Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ......x. 
@@ -3649,11 +3648,12 @@ Effects          :
 #1 (id=219942)   : Apply Aura (6) | Periodic Damage (3): fire every 3 seconds
                    Base Value: 0 | Scaled Value: 0 | SP Coefficient: 0.25000 | PvP Coefficient: 1.00000 | Chain Multiplier: 1 | Chain Targets: 1 | Target: Enemy (6)
 #2 (id=839431)   : Apply Aura (6) | Modify Damage Taken% from Caster's Spells (271)
-                   Base Value: 10 | Scaled Value: 10 | PvP Coefficient: 1.00000 | Target: Enemy (6)
+                   Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Target: Enemy (6)
                    Affected Spells: Incinerate (29722), Chaos Bolt (116858), Incinerate (244670)
                    Family Flags: 38, 45
 Description      : $@spelldesc348
-Tooltip          : Suffering $w1 Fire damage every $t1 sec.$?e1[ Damage taken by Chaos Bolt and Incinerate increased by $w2%.][]
+Tooltip          : Suffering $w1 Fire damage every $t1 sec.$?a339892[ 
+Damage taken by Chaos Bolt and Incinerate increased by $w2%.][]
 Variables        : $mastery=$?s77220[${((100+$77220m3)/100)}][${1.00}]
 
 Name             : Warlock (id=157903) [Passive, Hidden] 
@@ -4084,7 +4084,7 @@ School           : Shadow
 Spell Type       : Magic
 Spell Level      : 1
 Range            : 50000 yards
-Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1)
+Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Triggered by     : Grimoire of Sacrifice (196099)
 Family Flags     : 49, 116
 Attributes       : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -4196,7 +4196,7 @@ Range            : 40 yards
 GCD              : 1.5 seconds
 Affecting spells : Mastery: Master Demonologist (77219 effect#2), From the Shadows (270569 effect#1)
 Family Flags     : 46
-Attributes       : ........ ........ ........ ........   ........ ........ ........ ........ 
+Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ......x. 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ x.......   ........ ........ ........ ........ 
@@ -4217,7 +4217,7 @@ School           : Shadowflame
 Spell Type       : Magic
 Spell Level      : 1
 Range            : 100 yards
-Affecting spells : Mastery: Master Demonologist (77219 effect#2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), From the Shadows (270569 effect#1), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1)
+Affecting spells : Mastery: Master Demonologist (77219 effect#2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), From the Shadows (270569 effect#1), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Family Flags     : 46, 49
 Attributes       : ........ ........ .......x x..x....   .....x.. ........ ...x.... ........ 
                  : ........ ......x. ...x.... ........   ........ ........ ........ ......x. 
@@ -4272,7 +4272,7 @@ Effects          :
 #1 (id=288215)   : School Damage (2): shadow
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Target: Unknown(25)
 #2 (id=288216)   : Apply Aura (6) | Silence (27)
-                   Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Mechanic: Silence | Target: Unknown(25)
+                   Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Misc Value: 127 | Mechanic: Silence | Target: Unknown(25)
 Description      : $@spelldesc316099
 Tooltip          : Silenced.
 
@@ -4315,7 +4315,13 @@ Effects          :
                    Base Value: 40 | Scaled Value: 40 | PvP Coefficient: 1.00000 | Misc Value: 37 | Target: Self (1)
 #2 (id=708688)   : Apply Aura (6) | Dummy (4)
                    Base Value: 2 | Scaled Value: 2 | PvP Coefficient: 1.00000 | Misc Value: 37 | Target: Self (1)
-Description      : Incinerate now also hits all enemies near your target for $s1% damage and generates $s2 Soul Shard Fragment for each additional enemy hit.
+#3 (id=871511)   : Apply Aura (6) | Apply Percent Modifier w/ Label (218): Spell Effect 1 (3)
+                   Base Value: -60 | Scaled Value: -60 | PvP Coefficient: 1.00000 | Misc Value: 3 | Misc Value 2: 966 (Label) | Target: Self (1)
+                   Affected Spells (Label): Decimating Bolt (325299)
+#4 (id=871512)   : Apply Aura (6) | Apply Percent Modifier w/ Label (218): Spell Effect 2 (12)
+                   Base Value: -60 | Scaled Value: -60 | PvP Coefficient: 1.00000 | Misc Value: 12 | Misc Value 2: 966 (Label) | Target: Self (1)
+                   Affected Spells (Label): Decimating Bolt (325299)
+Description      : Incinerate now also hits all enemies near your target for $s1% damage and generates $s2 Soul Shard $LFragment:Fragments; for each additional enemy hit.
 
 Name             : Eradication (id=196412) [Spell Family (5), Passive] 
 Class            : Warlock
@@ -4370,7 +4376,7 @@ Duration         : 3 seconds
 Cooldown         : 25 seconds
 Affecting spells : Improved Rain of Fire/Hellfire (24430 effect#1), Warlock (137042 effect#1)
 Family Flags     : 5
-Attributes       : ........ ........ ........ ........   ..x...x. ........ ........ ....xx.. 
+Attributes       : ........ ........ x....... ........   ..x...x. ........ ........ ....xx.. 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ .....x.. ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -4389,7 +4395,7 @@ Class            : Warlock
 School           : Fire
 Spell Type       : Magic
 Range            : 100 yards
-Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Odr, Shawl of the Ymirjar (212173 effect#1), Conflagrate (265931 effect#1), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1), Odr, Shawl of the Ymirjar (337164 effect#1)
+Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Odr, Shawl of the Ymirjar (212173 effect#1), Conflagrate (265931 effect#1), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1), Odr, Shawl of the Ymirjar (337164 effect#1)
 Family Flags     : 15, 49
 Attributes       : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ .x...... ........ ......x. 
@@ -4546,7 +4552,7 @@ Resource         : 0% Base Mana (0) and 1% Base Mana (0) per tick (id=10748)
 Range            : 40 yards
 GCD              : 1.5 seconds
 Duration         : 5 seconds
-Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Nightfall (264571 effect#3), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Decimating Bolt (325299 effect#2), Malefic Wrath (337125 effects: #1, #2), Wrath of Consumption (337130 effect#1)
+Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Nightfall (264571 effect#3), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Decimating Bolt (325299 effect#2), Relic of Demonic Synergy (337060 effects: #2, #3), Malefic Wrath (337125 effects: #1, #2), Wrath of Consumption (337130 effect#1)
 Family Flags     : 23, 49
 Attributes       : ........ ........ x....... ........   ..x..... ......x. ........ ..x..x.. 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -4748,9 +4754,9 @@ Range            : 40 yards
 GCD              : 1.5 seconds
 Duration         : 16 seconds
 Cooldown         : 45 seconds
-Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1)
+Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Family Flags     : 49, 84
-Attributes       : ........ ........ ........ ........   ........ ........ ........ ........ 
+Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ .....x.. ........ ........ 
                  : ........ ........ .......x ........   ........ ........ ........ ........ 
@@ -4779,7 +4785,7 @@ Cooldown         : 180 seconds
 Labels           : 690: Strive for Perfection (296320 effect#2), Strive for Perfection (299367 effect#2), Strive for Perfection (299369 effect#2)
 Affecting spells : Dark Caller (334183 effect#1)
 Family Flags     : 88
-Attributes       : ........ ........ ........ ........   ........ ..x..... ........ ....x... 
+Attributes       : ........ ........ x....... ........   ........ ..x..... ........ ....x... 
                  : ..x..... ........ ........ ........   ........ ........ ........ ........ 
                  : ....x... ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -4862,7 +4868,7 @@ Class            : Warlock
 School           : Shadow
 Spell Type       : Magic
 Range            : 500 yards
-Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1)
+Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Family Flags     : 49, 84
 Attributes       : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ .x....x. 
@@ -5363,7 +5369,7 @@ Range            : 100 yards
 Duration         : 8 seconds
 Stacks           : 1 maximum
 Proc Chance      : 101%
-Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Epidemic (184922 effects: #1, #2), Item - Warlock T19 Affliction 2P Bonus (212002 effect#1), Creeping Death (264000 effects: #1, #2), Dreadful Calling (278727 effect#2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Unstable Affliction (334315 effect#1), Wrath of Consumption (337130 effect#1)
+Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Epidemic (184922 effects: #1, #2), Item - Warlock T19 Affliction 2P Bonus (212002 effect#1), Creeping Death (264000 effects: #1, #2), Dreadful Calling (278727 effect#2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Unstable Affliction (334315 effect#1), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Family Flags     : 40, 49
 Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ......x. 
@@ -5390,7 +5396,7 @@ Range            : 100 yards
 Duration         : 8 seconds
 Stacks           : 1 maximum
 Proc Chance      : 101%
-Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Epidemic (184922 effects: #1, #2), Item - Warlock T19 Affliction 2P Bonus (212002 effect#1), Creeping Death (264000 effects: #1, #2), Dreadful Calling (278727 effect#2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Unstable Affliction (334315 effect#1), Wrath of Consumption (337130 effect#1)
+Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Epidemic (184922 effects: #1, #2), Item - Warlock T19 Affliction 2P Bonus (212002 effect#1), Creeping Death (264000 effects: #1, #2), Dreadful Calling (278727 effect#2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Unstable Affliction (334315 effect#1), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Family Flags     : 40, 49
 Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ......x. 
@@ -5417,7 +5423,7 @@ Range            : 100 yards
 Duration         : 8 seconds
 Stacks           : 1 maximum
 Proc Chance      : 101%
-Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Epidemic (184922 effects: #1, #2), Item - Warlock T19 Affliction 2P Bonus (212002 effect#1), Creeping Death (264000 effects: #1, #2), Dreadful Calling (278727 effect#2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Unstable Affliction (334315 effect#1), Wrath of Consumption (337130 effect#1)
+Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Epidemic (184922 effects: #1, #2), Item - Warlock T19 Affliction 2P Bonus (212002 effect#1), Creeping Death (264000 effects: #1, #2), Dreadful Calling (278727 effect#2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Unstable Affliction (334315 effect#1), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Family Flags     : 40, 49
 Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ......x. 
@@ -5444,7 +5450,7 @@ Range            : 100 yards
 Duration         : 8 seconds
 Stacks           : 1 maximum
 Proc Chance      : 101%
-Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Epidemic (184922 effects: #1, #2), Item - Warlock T19 Affliction 2P Bonus (212002 effect#1), Creeping Death (264000 effects: #1, #2), Dreadful Calling (278727 effect#2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Unstable Affliction (334315 effect#1), Wrath of Consumption (337130 effect#1)
+Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Epidemic (184922 effects: #1, #2), Item - Warlock T19 Affliction 2P Bonus (212002 effect#1), Creeping Death (264000 effects: #1, #2), Dreadful Calling (278727 effect#2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Unstable Affliction (334315 effect#1), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Family Flags     : 40, 49
 Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ......x. 
@@ -5471,7 +5477,7 @@ Range            : 100 yards
 Duration         : 8 seconds
 Stacks           : 1 maximum
 Proc Chance      : 101%
-Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Epidemic (184922 effects: #1, #2), Item - Warlock T19 Affliction 2P Bonus (212002 effect#1), Creeping Death (264000 effects: #1, #2), Dreadful Calling (278727 effect#2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Unstable Affliction (334315 effect#1), Wrath of Consumption (337130 effect#1)
+Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Epidemic (184922 effects: #1, #2), Item - Warlock T19 Affliction 2P Bonus (212002 effect#1), Creeping Death (264000 effects: #1, #2), Dreadful Calling (278727 effect#2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Unstable Affliction (334315 effect#1), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Family Flags     : 40, 49
 Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ......x. 
@@ -5498,7 +5504,7 @@ Spell Level      : 9
 Range            : 40 yards
 GCD              : 1.5 seconds
 Duration         : 5 seconds
-Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Flamelicked (185229 effect#1), Odr, Shawl of the Ymirjar (212173 effect#1), Inevitable Demise (273525 effect#3), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Inevitable Demise (334320 effects: #2, #3), Claw of Endereth (337038 effects: #1, #2), Wrath of Consumption (337130 effect#1), Odr, Shawl of the Ymirjar (337164 effect#1)
+Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Flamelicked (185229 effect#1), Odr, Shawl of the Ymirjar (212173 effect#1), Inevitable Demise (273525 effect#3), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Inevitable Demise (334320 effects: #2, #3), Claw of Endereth (337038 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1), Odr, Shawl of the Ymirjar (337164 effect#1)
 Family Flags     : 3, 49
 Attributes       : ........ ........ x....... ........   ..x..... ......x. ........ ..x..x.. 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -6084,7 +6090,7 @@ Range            : 100 yards
 GCD              : 1.5 seconds
 Cooldown         : 30 seconds
 Family Flags     : 14
-Attributes       : ........ ........ ........ ........   ........ ........ ........ ........ 
+Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
                  : ..x..... ........ ........ ........   ........ ........ ........ ......x. 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -6135,9 +6141,9 @@ Range            : 40 yards
 Cast Time        : 4.5 seconds
 GCD              : 1.5 seconds
 Velocity         : 35 yards/sec
-Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Shadowy Inspiration (196606 effect#1), Demonic Core (264173 effect#1), From the Shadows (270569 effect#1), Shadow's Bite (272945 effect#1), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Power Siphon (334581 effect#1), Wrath of Consumption (337130 effect#1), Balespider's Burning Core (337161 effect#1)
+Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Shadowy Inspiration (196606 effect#1), Demonic Core (264173 effect#1), From the Shadows (270569 effect#1), Shadow's Bite (272945 effect#1), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Decimating Bolt (325299 effect#3), Power Siphon (334581 effect#1), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1), Balespider's Burning Core (337161 effect#1)
 Family Flags     : 49, 70
-Attributes       : ........ ........ ........ ........   ........ ........ ........ ........ 
+Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -6286,6 +6292,7 @@ GCD              : 1.5 seconds
 Duration         : 15 seconds
 Cooldown         : 90 seconds
 Labels           : 690: Strive for Perfection (296320 effect#2), Strive for Perfection (299367 effect#2), Strive for Perfection (299369 effect#2)
+Affecting spells : Summon Demonic Tyrant (334585 effect#1)
 Family Flags     : 81
 Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -6299,7 +6306,7 @@ Effects          :
 #1 (id=709184)   : Summon (28)
                    Base Value: 1 | Scaled Value: 1 | PvP Coefficient: 1.00000 | Misc Value: 135002 | Misc Value 2: 0x109f | Radius: 5 yards | Target: Unknown(44)
 #2 (id=830602)   : Energize Power (30)
-                   Base Value: 50 | Scaled Value: 50 | PvP Coefficient: 1.00000 | Misc Value: soul_shard | Target: Self (1)
+                   Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Misc Value: soul_shard | Target: Self (1)
 Description      : Summon a Demonic Tyrant to increase the duration of all of your current lesser demons by ${$265273m3/1000} sec, and increase the damage of all of your other demons by $265273s2%, while damaging your target.$?s334585[
 
 |cFFFFFFFFGenerates ${$s2/10} Soul Shards.|r][]
@@ -6317,7 +6324,7 @@ Attributes       : ........ ........ x....... ........   ........ ..x..... .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
-                 : ........ ........ ........ ........   x....... ........ ........ ........ 
+                 : ........ ........ ........ ........   x......x ........ ........ ........ 
                  : ........ ........ ........ ........   
 Effects          :
 #1 (id=709317)   : Apply Aura (6) | Dummy (4)
@@ -6341,7 +6348,7 @@ Spell Level      : 1
 Range            : 40 yards
 Cast Time        : 2 seconds
 Velocity         : 35 yards/sec
-Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1)
+Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Family Flags     : 49
 Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -6420,7 +6427,7 @@ School           : Fire
 Spell Type       : Magic
 Range            : 100 yards
 Duration         : 8 seconds
-Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Odr, Shawl of the Ymirjar (212173 effect#1), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1), Odr, Shawl of the Ymirjar (337164 effect#1)
+Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Odr, Shawl of the Ymirjar (212173 effect#1), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1), Odr, Shawl of the Ymirjar (337164 effect#1)
 Family Flags     : 49, 87, 118
 Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ......x. 
@@ -6435,7 +6442,6 @@ Effects          :
                    Base Value: 25 | Scaled Value: 25 | PvP Coefficient: 1.00000 | Chain Multiplier: 1 | Chain Targets: 1 | Target: Enemy (6)
                    Affected Spells: Immolate (348), Soul Fire (6353), Conflagrate (17962), Incinerate (29722), Immolate (157736), Channel Demonfire (196448), Incinerate (244670)
                    Family Flags: 2, 4, 15, 38, 55, 65
-Hotfixed         : Base Value (30.0 -> 25.0)
 Description      : $@spelldesc205184
 Tooltip          : Fire damage taken increased by $s1%.
 Variables        : $mastery=$?s77220[${((100+$77220m3)/100)}][${1.00}]
@@ -6476,7 +6482,6 @@ Attributes       : ......x. ........ ........ ........   ........ ........ .....
 Effects          :
 #1 (id=710845)   : Apply Aura (6) | Dummy (4)
                    Base Value: 15 | Scaled Value: 15 | PvP Coefficient: 1.00000 | Target: Self (1)
-Hotfixed         : Base Value (20.0 -> 15.0)
 Description      : While your initial Infernal is active, every Soul Shard you spend has a $s1% chance to summon an additional Infernal that lasts $335236d.
 
 Name             : Rain of Chaos (id=266087) [Spell Family (5)] 
@@ -6717,7 +6722,7 @@ School           : Shadow
 Spell Type       : Magic
 Spell Level      : 1
 Range            : 100 yards
-Affecting spells : Mastery: Master Demonologist (77219 effect#2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1)
+Affecting spells : Mastery: Master Demonologist (77219 effect#2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Family Flags     : 49, 89
 Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ .x....x. 
@@ -7445,10 +7450,8 @@ Attributes       : ......x. ........ ........ ........   ........ ........ .....
 Effects          :
 #1 (id=716157)   : Apply Aura (6) | Unknown(277)
                    Base Value: 0 | Scaled Value: 35.8719 (coefficient=0.377599) | PvP Coefficient: 0.20000 | Trigger Spell: 270653 | Target: Self (1)
-Hotfixed         : Coefficient (0.055714 -> 0.377599)
 #2 (id=716158)   : Apply Aura (6) | Dummy (4)
                    Base Value: 0 | Scaled Value: 10.7616 (coefficient=0.11328) | PvP Coefficient: 0.20000 | Target: Self (1)
-Hotfixed         : Coefficient (0.016714 -> 0.11328)
 Description      : Increases your movement speed by $s1% of your highest secondary rating, up to $s2%.
 Tooltip          : Increases your movement speed by $s1% of your highest secondary rating, up to $s2%.
 
@@ -8291,9 +8294,9 @@ Cast Time        : 1.5 seconds
 GCD              : 1.5 seconds
 Duration         : 10 seconds
 Cooldown         : 20 seconds
-Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1)
+Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Family Flags     : 49, 85
-Attributes       : ........ ........ ........ ........   ........ ........ ........ ........ 
+Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
                  : ........ x....... ........ ........   ........ ........ ........ ..x..... 
                  : ........ ........ ........ ........   ........ .x...x.. ........ ........ 
                  : ........ ........ .......x ........   ........ ........ ........ ........ 
@@ -9537,7 +9540,7 @@ School           : Shadow
 Spell Type       : Magic
 Range            : 100 yards
 Velocity         : 40 yards/sec
-Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1)
+Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Family Flags     : 49
 Attributes       : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ..x..... ........ ........ ........   ........ ........ ........ ......x. 
@@ -9703,28 +9706,17 @@ Attributes       : ........ ........ ........ ........   ........ ........ .....
                  : Periodic effect affected by haste (173), Periodic effect can crit (265)
 Effects          :
 #1 (id=793902)   : School Damage (2): arcane
-                   Base Value: 0 | Scaled Value: 0 (coefficient=0, delta coefficient=0.05) | SP Coefficient: 1.00000 | PvP Coefficient: 1.00000 | Target: Enemy (6)
+                   Base Value: 0 | Scaled Value: 0 (coefficient=0, delta coefficient=0.05) | SP Coefficient: 0.60000 | PvP Coefficient: 1.00000 | Target: Enemy (6)
 #2 (id=793903)   : Apply Aura (6) | Periodic Damage (3): arcane every 3 seconds
-                   Base Value: 0 | Scaled Value: 0 | SP Coefficient: 0.24000 | PvP Coefficient: 1.00000 | Target: Enemy (6)
-Description      : Deal $s1 Arcane damage instantly, and $o2 over $d. If the enemy dies while affected by Scouring Tithe, you generate ${$312379s1/10} Soul $LShard:Shards;. If they survive, Scouring Tithe's cooldown is refreshed.
+                   Base Value: 0 | Scaled Value: 0 | SP Coefficient: 0.15000 | PvP Coefficient: 1.00000 | Target: Enemy (6)
+#3 (id=871508)   : Dummy (3)
+                   Base Value: 50 | Scaled Value: 50 | PvP Coefficient: 1.00000
+#4 (id=871509)   : Dummy (3)
+                   Base Value: 50 | Scaled Value: 50 | PvP Coefficient: 1.00000
+#5 (id=871510)   : Dummy (3)
+                   Base Value: 50 | Scaled Value: 50 | PvP Coefficient: 1.00000
+Description      : Deal $s1 Arcane damage instantly, and $o2 over $d. If the enemy dies while affected by Scouring Tithe, you generate $?a137043[${$s3/10}]?a137044[${$s4/10}][${$s5/10}] Soul $LShard:Shards;. If they survive, Scouring Tithe's cooldown is refreshed.
 Tooltip          : Suffering $w2 Arcane damage every $t2 sec.
-
-Name             : Scouring Tithe (desc=Kyrian) (id=312379) [Spell Family (5)] 
-Class            : Warlock
-School           : Arcane
-Spell Type       : None
-Attributes       : ........ ........ ........ ........   ........ ........ ........ ........ 
-                 : ........ ........ ........ ........   ........ ........ ........ ........ 
-                 : ........ ........ ........ ........   ........ ........ ........ ........ 
-                 : ........ ........ ........ ........   ........ ........ ........ ........ 
-                 : ........ ........ ........ ........   ........ ........ ........ ........ 
-                 : ........ ........ ........ ........   ........ ........ ........ ........ 
-                 : ........ ........ ........ ........   x....... ........ ........ ........ 
-                 : ........ ........ ........ ........   
-Effects          :
-#1 (id=794006)   : Energize Power (30)
-                   Base Value: 50 | Scaled Value: 50 | PvP Coefficient: 1.00000 | Misc Value: soul_shard | Target: Self (1)
-Description      : $@spelldesc312321
 
 Name             : Unstable Affliction (id=316099) [Spell Family (5)] 
 Class            : Affliction Warlock
@@ -9739,7 +9731,7 @@ GCD              : 1.5 seconds
 Duration         : 16 seconds
 Stacks           : 1 maximum
 Proc Chance      : 101%
-Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Epidemic (184922 effects: #1, #2), Item - Warlock T19 Affliction 2P Bonus (212002 effect#1), Creeping Death (264000 effects: #1, #2), Dreadful Calling (278727 effect#2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Unstable Affliction (334315 effect#1), Wrath of Consumption (337130 effect#1)
+Affecting spells : Mastery: Potent Afflictions (77215 effects: #1, #2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Epidemic (184922 effects: #1, #2), Item - Warlock T19 Affliction 2P Bonus (212002 effect#1), Creeping Death (264000 effects: #1, #2), Dreadful Calling (278727 effect#2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Unstable Affliction (334315 effect#1), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Family Flags     : 40, 49
 Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -9862,7 +9854,7 @@ Cast Time        : 2 seconds
 GCD              : 1.5 seconds
 Duration         : 12 seconds
 Cooldown         : 60 seconds
-Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
+Attributes       : ........ ........ x....... ........   ........ ..x..... ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -9882,19 +9874,19 @@ Class            : Warlock
 School           : Shadow
 Spell Type       : Magic
 Range            : 100 yards
-Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1)
+Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Family Flags     : 49
 Attributes       : ........ ........ .......x ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ......x. 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
-                 : ........ ........ ........ ........   ........ ........ ........ ........ 
+                 : x....... ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ........ ........ 
                  : ........ ........ ........ ........   
 Effects          :
 #1 (id=810354)   : School Damage (2): shadow
-                   Base Value: 0 | Scaled Value: 0 (coefficient=0, delta coefficient=0.05) | SP Coefficient: 1.00000 | PvP Coefficient: 1.00000 | Target: Enemy (6)
+                   Base Value: 0 | Scaled Value: 0 (coefficient=0, delta coefficient=0.05) | SP Coefficient: 0.20000 | PvP Coefficient: 1.00000 | Target: Enemy (6)
 Description      : $@spelldesc321792
 
 Name             : Impending Catastrophe (id=322170) [Spell Family (5)] 
@@ -9903,7 +9895,7 @@ School           : Shadow
 Spell Type       : Magic
 Range            : 100 yards
 Duration         : 12 seconds
-Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1)
+Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Family Flags     : 49
 Attributes       : ........ ........ .......x ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ......x. 
@@ -9916,7 +9908,7 @@ Attributes       : ........ ........ .......x ........   ........ ........ .....
                  : Periodic effect affected by haste (173), Periodic effect can crit (265)
 Effects          :
 #1 (id=810357)   : Apply Aura (6) | Periodic Damage (3): shadow every 2 seconds
-                   Base Value: 0 | Scaled Value: 0 | SP Coefficient: 0.43500 | PvP Coefficient: 1.00000 | Radius: 0 - 8 yards | Target: Unknown(87) -> AOE enemy (instant) (16)
+                   Base Value: 0 | Scaled Value: 0 | SP Coefficient: 0.17500 | PvP Coefficient: 1.00000 | Radius: 0 - 8 yards | Target: Unknown(87) -> AOE enemy (instant) (16)
 Description      : $@spelldesc321792
 Tooltip          : Suffering $w1 Shadow damage every $t1 sec.
 
@@ -9929,7 +9921,7 @@ Spell Level      : 11
 Range            : 100 yards
 Cast Time        : 1.5 seconds
 GCD              : 1.5 seconds
-Affecting spells : Mastery: Potent Afflictions (77215 effect#2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1), Soul Tithe (340238 effect#1)
+Affecting spells : Mastery: Potent Afflictions (77215 effect#2), Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1), Soul Tithe (340238 effect#1)
 Family Flags     : 49, 127
 Attributes       : ........ ........ x....... .....x..   ...x...x ..x..... ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ..x..... ......x. 
@@ -9956,7 +9948,7 @@ Range            : 40 yards
 Cast Time        : 2.5 seconds
 GCD              : 1.5 seconds
 Cooldown         : 45 seconds
-Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1)
+Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Family Flags     : 49
 Attributes       : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -9968,7 +9960,7 @@ Attributes       : ........ ........ ........ ........   ........ ........ .....
                  : ........ ........ ........ ........   
 Effects          :
 #1 (id=815472)   : Dummy (3)
-                   Base Value: 1 | Scaled Value: 1 | PvP Coefficient: 1.00000 | Chain Multiplier: 1 | Chain Targets: 1 | Target: Enemy (6)
+                   Base Value: 60 | Scaled Value: 60 | PvP Coefficient: 1.00000 | Chain Multiplier: 1 | Chain Targets: 1 | Target: Enemy (6)
 #2 (id=815483)   : Trigger Spell (64): Decimating Bolt
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Chain Multiplier: 1 | Misc Value: 100 | Trigger Spell: 327070 | Chain Targets: 1 | Target: Enemy (6)
 #3 (id=819800)   : Trigger Spell (64): Decimating Bolt
@@ -9977,9 +9969,9 @@ Effects          :
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Chain Multiplier: 1 | Misc Value: 300 | Trigger Spell: 327070 | Chain Targets: 1 | Target: Enemy (6)
 #5 (id=819802)   : Trigger Spell (64): Decimating Bolt
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Chain Multiplier: 1 | Misc Value: 400 | Trigger Spell: 327072 | Chain Targets: 1 | Target: Enemy (6)
-Description      : Hurl bolts of decimating magic at your target, dealing $<damage> Shadow damage and increasing the damage of your next $325299u $?s137046[Incinerates]?s198590[Drain Souls][Shadow Bolts] by $325299s1%.
+Description      : Hurl bolts of decimating magic at your target, dealing $<damage> Shadow damage and increasing the damage of your next$?s198590[][ $325299u] $?s137046[Incinerates]?s198590[Drain Soul]?a137044&?!s137046[Demonbolts]?!a137044[Shadow Bolts][] by $325299s1%.$?a196408[ This value is reduced while using Fire and Brimstone.][]
 
-Decimating Bolt's damage, and the bonus to $?s137046[Incinerate]?s198590[Drain Soul][Shadow Bolt] both increase as your target's health decreases.
+Decimating Bolt's damage, and the bonus to $?s137046[Incinerate]?s198590[Drain Soul]?a137044[Demonobolt]?!s137046&!a137044[Shadow Bolt][] both increase as your target's health decreases.
 Variables        : $damage=${4*$327059s1}
 
 Name             : Decimating Bolt (desc=Necrolord) (id=325299) [Spell Family (5)] 
@@ -9988,6 +9980,7 @@ School           : Shadow
 Spell Type       : Magic
 Range            : 40 yards
 Duration         : 45 seconds
+Labels           : 966: Fire and Brimstone (196408 effect#3), Fire and Brimstone (196408 effect#4)
 Stacks           : 3 maximum
 Proc Chance      : 100%
 Proc Flags       : ........ ....x... x....... ........ 
@@ -9998,34 +9991,38 @@ Attributes       : ........ ........ ........ ........   ........ ........ .....
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ....x... ........ ........   ........ ........ ....x... ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
-                 : ........ ........ ........ ........   ........ ........ ........ ........ 
+                 : ........ ........ ........ ........   .......x ........ ........ ........ 
                  : ........ ........ ........ ........   
 Effects          :
 #1 (id=815488)   : Apply Aura (6) | Add Percent Modifier (108): Spell Direct Amount (0)
-                   Base Value: 200 | Scaled Value: 200 | PvP Coefficient: 1.00000 | Target: Self (1)
+                   Base Value: 100 | Scaled Value: 100 | PvP Coefficient: 1.00000 | Target: Self (1)
                    Affected Spells: Shadow Bolt (686), Incinerate (29722), Incinerate (244670)
                    Family Flags: 0, 38
 #2 (id=815492)   : Apply Aura (6) | Add Percent Modifier (108): Spell Periodic Amount (22)
-                   Base Value: 200 | Scaled Value: 200 | PvP Coefficient: 1.00000 | Misc Value: 22 | Target: Self (1)
+                   Base Value: 100 | Scaled Value: 100 | PvP Coefficient: 1.00000 | Misc Value: 22 | Target: Self (1)
                    Affected Spells: Drain Soul (198590)
                    Family Flags: 23
+#3 (id=872229)   : Apply Aura (6) | Add Percent Modifier (108): Spell Direct Amount (0)
+                   Base Value: 100 | Scaled Value: 100 | PvP Coefficient: 1.00000 | Target: Self (1)
+                   Affected Spells: Demonbolt (264178)
+                   Family Flags: 70
 Description      : $@spelldesc325289
-Tooltip          : Damage of $?s137046[Incinerate]?s198590[Drain Soul][Shadow Bolt] increased by $w2%.
+Tooltip          : Damage of $?s137046[Incinerate]?s198590[Drain Soul]?a137044&!s137046[Demonbolt][Shadow Bolt] increased by $w2%.
 
 Name             : Soul Rot (desc=Night Fae) (id=325640) [Spell Family (5)] 
 Class            : Warlock
 Covenant         : Night Fae
 School           : Nature
 Spell Type       : Magic
-Resource         : 0 - 20 Health (-2) (id=192719)
+Resource         : 0.5% Base Mana (0) (id=192719)
 Range            : 40 yards
 Cast Time        : 1.5 seconds
 GCD              : 1.5 seconds
 Duration         : 8 seconds
 Cooldown         : 60 seconds
-Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Deadwind Harvester (216708 effect#4), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1), Exhumed Soul (340348 effects: #1, #2, #3)
+Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Deadwind Harvester (216708 effect#4), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1), Soul Eater (340348 effects: #1, #2)
 Family Flags     : 49, 112
-Attributes       : ........ ........ ........ ........   ........ ........ ........ ........ 
+Attributes       : ........ ........ x....... ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   .......x ........ ........ ........ 
                  : ........ ........ ........ ........   ........ .x...x.. ........ ........ 
                  : ........ ........ .......x ........   ........ ........ ........ ........ 
@@ -10042,12 +10039,10 @@ Effects          :
 #3 (id=816151)   : Dummy (3)
                    Base Value: 3 | Scaled Value: 3 | PvP Coefficient: 1.00000
 #4 (id=816155)   : Dummy (3)
-                   Base Value: 20 | Scaled Value: 20 | PvP Coefficient: 1.00000
-Description      : Wither away all life force of your current target and up to $s3 additional targets nearby, causing them to suffer $o2 Nature damage over $d.
+                   Base Value: 10 | Scaled Value: 10 | PvP Coefficient: 1.00000
+Description      : Wither away all life force of your current target and up to $s3 additional targets nearby, causing your primary target to suffer ${$o2*(1+$m4/10)} Nature damage and secondary targets to suffer $o2 Nature damage over $d.
 
-For the next $d, casting Drain Life will cause you to also Drain Life from any enemy affected by your Soul Rot, and Drain Life will not consume any mana.
-
-Consumes $s4% of maximum health when cast.
+For the next $d, casting Drain Life will cause you to also Drain Life from any enemy affected by your Soul Rot, and Drain Life will not consume any mana.
 Tooltip          : Suffering $s2 Nature damage every $t2 sec.
 
 Name             : Decimating Bolt (desc=Necrolord) (id=327059) [Spell Family (5)] 
@@ -10055,7 +10050,8 @@ Class            : Warlock
 School           : Shadow
 Spell Type       : Magic
 Range            : 100 yards
-Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1)
+Labels           : 1154: Fatal Decimation (340268 effect#1)
+Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Triggered by     : Decimating Bolt (327070), Decimating Bolt (327072)
 Family Flags     : 49
 Attributes       : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -10068,7 +10064,7 @@ Attributes       : ........ ........ ........ ........   ........ ........ .....
                  : ........ ........ ........ ........   
 Effects          :
 #1 (id=818373)   : School Damage (2): shadow
-                   Base Value: 0 | Scaled Value: 0 (coefficient=0, delta coefficient=0.05) | SP Coefficient: 0.50000 | PvP Coefficient: 1.00000 | Target: Enemy (6)
+                   Base Value: 0 | Scaled Value: 0 (coefficient=0, delta coefficient=0.05) | SP Coefficient: 0.30000 | PvP Coefficient: 1.00000 | Target: Enemy (6)
 Description      : $@spelldesc325289
 
 Name             : Decimating Bolt (desc=Necrolord) (id=327070) [Spell Family (5)] 
@@ -10077,7 +10073,7 @@ School           : Shadow
 Spell Type       : None
 Range            : 100 yards
 Velocity         : 25 yards/sec
-Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1)
+Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Triggered by     : Decimating Bolt (325289)
 Family Flags     : 49
 Attributes       : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -10099,7 +10095,7 @@ School           : Shadow
 Spell Type       : None
 Range            : 100 yards
 Velocity         : 25 yards/sec
-Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Wrath of Consumption (337130 effect#1)
+Affecting spells : Affliction Warlock (137043 effects: #1, #2), Demonology Warlock (137044 effects: #1, #2), Destruction Warlock (137046 effects: #1, #2), Reap and Sow (281494 effects: #1, #2), Wakener's Loyalty (281495 effects: #1, #2), Lessons of Space-Time (281496 effects: #1, #2), Relic of Demonic Synergy (337060 effects: #2, #3), Wrath of Consumption (337130 effect#1)
 Triggered by     : Decimating Bolt (325289)
 Family Flags     : 49
 Attributes       : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -10140,11 +10136,11 @@ Effects          :
                    Base Value: -5500 | Scaled Value: -5500 | PvP Coefficient: 1.00000 | Misc Value: 10 | Target: Self (1)
                    Affected Spells: Summon Imp (688), Summon Felhunter (691), Summon Voidwalker (697), Summon Succubus (712), Summon Felguard (30146), Summon Observer (112869), Summon Fel Succubus (240263)
                    Family Flags: 26, 27, 28, 29, 30, 96, 97, 98, 99, 100
-#2 (id=869594)   : Apply Aura (6) | Add Percent Modifier (108): Spell Resource Cost (14)
+#2 (id=869636)   : Apply Aura (6) | Add Percent Modifier (108): Spell Resource Cost (14)
                    Base Value: -100 | Scaled Value: -100 | PvP Coefficient: 1.00000 | Misc Value: 14 | Target: Self (1)
                    Affected Spells: Summon Imp (688), Summon Felhunter (691), Summon Voidwalker (697), Summon Succubus (712), Summon Felguard (30146), Summon Observer (112869), Summon Fel Succubus (240263)
                    Family Flags: 26, 27, 28, 29, 30, 96, 97, 98, 99, 100
-Description      : Your next Imp, Voidwalker, Succubus, Felhunter, or Felguard Summon spell has its casting time reduced by $/1000;S1 sec.
+Description      : Your next Imp, Voidwalker, Succubus, Felhunter, or Felguard Summon spell is free and has its casting time reduced by $/1000;S1 sec.
 
 Tooltip          : Imp, Voidwalker, Succubus, Felhunter, or Felguard casting time reduced by $/1000;S1 sec.
 
@@ -10317,7 +10313,7 @@ School           : Shadow
 Spell Type       : None
 Spell Level      : 58
 Range            : 40 yards
-Attributes       : ......x. ........ x....... ........   ........ ........ ........ ........ 
+Attributes       : ......x. ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ......x. 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ x....... ........ 
@@ -10327,8 +10323,10 @@ Attributes       : ......x. ........ x....... ........   ........ ........ .....
                  : ........ ........ ........ ........   
                  : Passive (6)
 Effects          :
-#1 (id=830600)   : Apply Aura (6) | Dummy (4)
-                   Base Value: 5 | Scaled Value: 5 | PvP Coefficient: 1.00000 | Misc Value: 11 | Target: Self (1)
+#1 (id=830600)   : Apply Aura (6) | Add Flat Modifier (107): Spell Effect 2 (12)
+                   Base Value: 50 | Scaled Value: 50 | PvP Coefficient: 1.00000 | Misc Value: 12 | Target: Self (1)
+                   Affected Spells: Summon Demonic Tyrant (265187)
+                   Family Flags: 81
 Description      : Summoning your Demonic Tyrant instantly generates $s1 Soul Shards.
 
 Name             : Fel Firebolt (desc=Rank 2) (id=334591) [Spell Family (5), Passive] 
@@ -10479,11 +10477,11 @@ Attributes       : ......x. ........ ........ .......x   ........ ..x..... .....
                  : Passive (6), Cannot cancel aura (31), Disable player procs (112), Disable target procs (113), Disable weapon procs (151)
 Effects          :
 #1 (id=834759)   : Apply Aura (6) | Dummy (4)
-                   Base Value: 1000 | Scaled Value: 1000 | PvP Coefficient: 1.00000 | Trigger Spell: 336908 | Target: Self (1)
+                   Base Value: 2000 | Scaled Value: 2000 | PvP Coefficient: 1.00000 | Trigger Spell: 336908 | Target: Self (1)
 #2 (id=834760)   : Apply Aura (6) | Dummy (4)
-                   Base Value: 300 | Scaled Value: 300 | PvP Coefficient: 1.00000 | Target: Self (1)
+                   Base Value: 600 | Scaled Value: 600 | PvP Coefficient: 1.00000 | Target: Self (1)
 #3 (id=834761)   : Apply Aura (6) | Dummy (4)
-                   Base Value: 2000 | Scaled Value: 2000 | PvP Coefficient: 1.00000 | Target: Self (1)
+                   Base Value: 1500 | Scaled Value: 1500 | PvP Coefficient: 1.00000 | Target: Self (1)
 Description      : Every Soul Shard you spend reduces the cooldown of $?a137043[Summon Darkglare]?a137044[Summon Demonic Tyrant][Summon Infernal] by $?a137043[${$m1/1000}.1]?a137044[${$m2/1000}.1][${$m3/1000}.1] sec.
 
 Name             : Claw of Endereth (id=337038) [Spell Family (5), Passive] 
@@ -10509,29 +10507,27 @@ Effects          :
                    Family Flags: 3
 Description      : Drain Life now channels ${$s1*-2}% faster and restores health ${$s1*-2}% faster.
 
-Name             : Mark of Borrowed Power (id=337057) [Spell Family (5), Passive] 
-School           : Physical
+Name             : Relic of Demonic Synergy (id=337057) [Spell Family (5), Passive] 
+School           : Shadow
 Spell Type       : None
-Proc Chance      : 101%
-Proc Flags       : ........ ..x.x.x. x....... ........ 
-                 : Generic Heal, Generic Hostile Spell, Magic Heal, Magic Hostile Spell
-Attributes       : ......x. ........ ........ .......x   ........ ..x..... ........ ........ 
-                 : ........ ........ ........ ....x...   ........ ........ xx..x... ..x..... 
-                 : ........ ........ .......x ........   ........ ........ ........ ........ 
-                 : ........ ....x... ........ ........   ........ ........ ........ ........ 
-                 : ........ ....x... ........ ........   ........ ........ ........ ........ 
+Proc Chance      : 100%
+Real PPM         : 3
+Proc Flags       : ..x.x... ........ x....... ........ 
+                 : White Melee, Yellow Melee, Magic Hostile Spell
+Attributes       : ......x. ........ ........ ........   ........ ........ ........ ....x... 
+                 : ........ ........ ........ ........   ........ ........ ........ ........ 
+                 : ........ .......x ........ ........   ........ ........ ........ ........ 
+                 : ........ ........ ........ ........   ........ ........ ........ ........ 
+                 : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   
-                 : Passive (6), Cannot cancel aura (31), Disable player procs (112), Disable target procs (113), Disable weapon procs (151)
+                 : Passive (6)
 Effects          :
-#1 (id=834825)   : Apply Aura (6) | Dummy (4)
-                   Base Value: 10 | Scaled Value: 10 | PvP Coefficient: 1.00000 | Trigger Spell: 336908 | Target: Self (1)
-#2 (id=834826)   : Apply Aura (6) | Dummy (4)
-                   Base Value: 25 | Scaled Value: 25 | PvP Coefficient: 1.00000 | Target: Self (1)
-#3 (id=834827)   : Apply Aura (6) | Dummy (4)
-                   Base Value: 5 | Scaled Value: 5 | PvP Coefficient: 1.00000 | Target: Self (1)
-Description      : $?a137043[Malefic Rapture]?a137044[Call Dreadstalkers][Chaos Bolt] has a $?a137043[$s1]?a137044[$s2][$s3]% chance to refund all Soul Shards spent.
+#1 (id=834825)   : Unknown(174) | Dummy (4)
+                   Base Value: 10 | Scaled Value: 10 | PvP Coefficient: 1.00000 | Misc Value: 1 | Radius: 100 yards | Target: Self (1)
+Description      : Damage done by you or your primary demon has a chance to grant the other one $?c2[${$s1*1.5}%][$s1%] increased damage for $337060d.
+
 
 Name             : Pillars of the Dark Portal (id=337065) [Spell Family (5), Passive] 
 School           : Physical
@@ -10550,7 +10546,9 @@ Effects          :
                    Base Value: -100 | Scaled Value: -100 | PvP Coefficient: 1.00000 | Misc Value: 10 | Target: Self (1)
                    Affected Spells: Demonic Gateway (111771)
                    Family Flags: 57
-Description      : Demonic Gateway is now instant cast, and your first use of the gateway does not trigger its cooldown.
+Description      : Demonic Gateway is now instant cast, and your first use of your gateway does not trigger its cooldown.
+
+In addition, nether energy lashes enemies you pass through, knocking them away.
 
 Name             : Perpetual Agony of Azj'Aqir (id=337106) [Spell Family (5), Passive] 
 School           : Physical
@@ -10591,9 +10589,8 @@ Description      : Corruption damage is increased by $s1%, and any target affect
 Name             : Malefic Wrath (id=337122) [Spell Family (5), Passive] 
 School           : Physical
 Spell Type       : None
+Internal Cooldown: 0.1 seconds
 Proc Chance      : 101%
-Proc Flags       : ........ ........ x....... ........ 
-                 : Magic Hostile Spell
 Attributes       : ......x. ........ ........ .......x   ........ ..x..... ........ ........ 
                  : ........ ........ ........ ....x...   ........ ........ xx..x... ..x..... 
                  : ........ ........ .......x ........   ........ ........ ........ ........ 
@@ -10618,12 +10615,12 @@ Proc Flags       : ........ ........ x....... ........
                  : Magic Hostile Spell
 Triggered by     : Malefic Wrath (337122)
 Attributes       : ........ ........ ........ .......x   ........ ..x..... ........ ........ 
-                 : ........ ........ ........ ....x...   ........ ........ xx...... ..x..... 
+                 : ........ ........ ........ ........   ........ ........ xx...... ..x..... 
                  : ........ ........ .......x ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ....x... ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
-                 : ........ ........ ........ ........   ........ ........ ........ ........ 
+                 : ........ ........ ........ ........   .......x ........ ........ ........ 
                  : ........ ........ ........ ........   
                  : Cannot cancel aura (31), Disable player procs (112), Disable target procs (113), Disable weapon procs (151)
 Effects          :
@@ -10656,9 +10653,9 @@ Attributes       : ......x. ........ ........ .......x   ........ ..x..... .....
 Effects          :
 #1 (id=834939)   : Apply Aura (6) | Dummy (4)
                    Base Value: 2 | Scaled Value: 2 | PvP Coefficient: 1.00000 | Target: Self (1)
-Description      : Targets that die with your Agony applied to them grant you Wrath of Consumption, increasing all periodic damage dealt by $337130s1% for $337130d, stacking up to $337130u times.
+Description      : Targets that die with your Agony or Corruption applied to them grant you Wrath of Consumption, increasing all periodic damage dealt by $337130s1% for $337130d, stacking up to $337130u times.
 
-Name             : Implosive Pontential (id=337135) [Spell Family (5), Passive] 
+Name             : Implosive Potential (id=337135) [Spell Family (5), Passive] 
 School           : Physical
 Spell Type       : None
 Attributes       : ......x. ........ ........ .......x   ........ ..x..... ........ ........ 
@@ -10675,7 +10672,9 @@ Effects          :
                    Base Value: 3 | Scaled Value: 3 | PvP Coefficient: 1.00000 | Target: Self (1)
 #2 (id=834955)   : Apply Aura (6) | Dummy (4)
                    Base Value: 5 | Scaled Value: 5 | PvP Coefficient: 1.00000 | Target: Self (1)
-Description      : When Implosion damages at least $s1 targets, gain $s2% Haste for $337139d for each Imp exploded.
+#3 (id=873970)   : Apply Aura (6) | Dummy (4)
+                   Base Value: 1 | Scaled Value: 1 | PvP Coefficient: 1.00000 | Target: Self (1)
+Description      : Implosion grants $s3% haste for $337139d for each Imp exploded. When this damages at least $s1 targets, instead gain $s2% haste per Imp.
 
 Name             : Grim Inquisitor's Dread Calling (id=337141) [Spell Family (5), Passive] 
 Class            : Warlock
@@ -10755,7 +10754,7 @@ Attributes       : ......x. ........ ........ .......x   ........ ..x..... .....
 Effects          :
 #1 (id=834991)   : Apply Aura (6) | Proc Trigger Spell (42): Balespider's Burning Core
                    Base Value: 15 | Scaled Value: 15 | PvP Coefficient: 1.00000 | Trigger Spell: 337161 | Target: Self (1)
-Description      : Shadow Bolt increases the damage of your next Demonbolt by $337161s1%, stacking up to $337161u times.
+Description      : Shadow Bolt increases the damage of your Demonbolt by $337161s1%, stacking up to $337161u times.
 
 Name             : Balespider's Burning Core (id=337161) [Spell Family (5)] 
 School           : Physical
@@ -10763,8 +10762,6 @@ Spell Type       : None
 Duration         : 15 seconds
 Stacks           : 4 maximum
 Proc Chance      : 101%
-Proc Flags       : ........ ........ x....... ........ 
-                 : Magic Hostile Spell
 Triggered by     : Balespider's Burning Core (337159)
 Attributes       : ........ ........ ........ .......x   ........ ..x..... ........ ........ 
                  : ........ ........ ........ ....x...   ........ ........ xx..x... ..x..... 
@@ -10772,16 +10769,16 @@ Attributes       : ........ ........ ........ .......x   ........ ..x..... .....
                  : ........ ....x... ........ ........   ........ ........ ........ ........ 
                  : ........ ....x... ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
-                 : ........ ........ ........ ........   ........ ........ ........ ........ 
+                 : ........ ........ ........ ........   .......x ........ ........ ........ 
                  : ........ ........ ........ ........   
                  : Cannot cancel aura (31), Disable player procs (112), Disable target procs (113), Disable weapon procs (151)
 Effects          :
 #1 (id=834993)   : Apply Aura (6) | Add Percent Modifier (108): Spell Direct Amount (0)
-                   Base Value: 25 | Scaled Value: 25 | PvP Coefficient: 1.00000 | Target: Self (1)
+                   Base Value: 7.5 | Scaled Value: 7.5 | PvP Coefficient: 1.00000 | Target: Self (1)
                    Affected Spells: Demonbolt (264178)
                    Family Flags: 70
 Description      : $@spelldesc337159
-Tooltip          : Damage of your next Demonbolt increased by $s1%.
+Tooltip          : Damage of your Demonbolt increased by $s1%.
 
 Name             : Odr, Shawl of the Ymirjar (id=337163) [Spell Family (5), Passive] 
 School           : Physical
@@ -10820,7 +10817,7 @@ Attributes       : ........ ........ ........ .......x   ........ ..x..... .....
                  : Cannot cancel aura (31), Disable player procs (112), Disable target procs (113), Disable weapon procs (151)
 Effects          :
 #1 (id=834996)   : Apply Aura (6) | Modify Damage Taken% from Caster's Spells (271)
-                   Base Value: 15 | Scaled Value: 15 | PvP Coefficient: 1.00000 | Target: Enemy (6)
+                   Base Value: 25 | Scaled Value: 25 | PvP Coefficient: 1.00000 | Target: Enemy (6)
                    Affected Spells: Immolate (348), Soul Fire (6353), Mortal Coil (6789), Shadowburn (17877), Conflagrate (17962), Incinerate (29722), Chaos Bolt (116858), Immolate (157736), Channel Demonfire (196448), Drain Life (234153), Incinerate (244670), Conflagrate (265931)
                    Family Flags: 2, 3, 4, 7, 15, 19, 38, 45, 55, 65, 87, 114
 Description      : $@spelldesc337163
@@ -10847,7 +10844,7 @@ Effects          :
                    Affected Spells (Category): Conflagrate (17962)
 Description      : Conflagrate has $s1 additional $Lcharge:charges; and has its recharge time reduced by ${$m2/-1000}.1 sec.
 
-Name             : Madness  of the Azj'Aqir (id=337169) [Spell Family (5), Passive] 
+Name             : Madness of the Azj'Aqir (id=337169) [Spell Family (5), Passive] 
 School           : Physical
 Spell Type       : None
 Proc Chance      : 101%
@@ -10863,15 +10860,15 @@ Attributes       : ......x. ........ ........ .......x   ........ ..x..... .....
                  : ........ ........ ........ ........   
                  : Passive (6), Cannot cancel aura (31), Disable player procs (112), Disable target procs (113), Disable weapon procs (151)
 Effects          :
-#1 (id=835002)   : Apply Aura (6) | Proc Trigger Spell (42): Madness  of the Azj'Aqir
+#1 (id=835002)   : Apply Aura (6) | Proc Trigger Spell (42): Madness of the Azj'Aqir
                    Base Value: 1 | Scaled Value: 1 | PvP Coefficient: 1.00000 | Trigger Spell: 337170 | Target: Self (1)
 Description      : Chaos Bolt increases the damage of Chaos Bolt by $337170s1% and reduces the cast time of Chaos Bolt by $337170s2% for $337170d.
 
-Name             : Madness  of the Azj'Aqir (id=337170) [Spell Family (5)] 
+Name             : Madness of the Azj'Aqir (id=337170) [Spell Family (5)] 
 School           : Physical
 Spell Type       : None
 Duration         : 3 seconds
-Triggered by     : Madness  of the Azj'Aqir (337169)
+Triggered by     : Madness of the Azj'Aqir (337169)
 Attributes       : ........ ........ ........ .......x   ........ ..x..... ........ ........ 
                  : ........ ........ ........ ....x...   ........ ........ xx..x... ..x..... 
                  : ........ ........ .......x ........   ........ ........ ........ ........ 
@@ -10883,7 +10880,7 @@ Attributes       : ........ ........ ........ .......x   ........ ..x..... .....
                  : Cannot cancel aura (31), Disable player procs (112), Disable target procs (113), Disable weapon procs (151)
 Effects          :
 #1 (id=835003)   : Apply Aura (6) | Add Percent Modifier (108): Spell Direct Amount (0)
-                   Base Value: 10 | Scaled Value: 10 | PvP Coefficient: 1.00000 | Target: Self (1)
+                   Base Value: 25 | Scaled Value: 25 | PvP Coefficient: 1.00000 | Target: Self (1)
                    Affected Spells: Chaos Bolt (116858)
                    Family Flags: 45
 #2 (id=835004)   : Apply Aura (6) | Add Percent Modifier (108): Spell Cast Time (10)
@@ -10929,7 +10926,7 @@ Effects          :
                    Base Value: -45000 | Scaled Value: -45000 | PvP Coefficient: 1.00000 | Misc Value: 11 | Trigger Spell: 333889 | Target: Self (1)
                    Affected Spells: Fel Domination (333889)
                    Family Flags: 123
-Description      : Reduces the cooldown of Fel Domination by |cFFFFFFFF${$s1/-1000}|r sec.
+Description      : The cooldown of Fel Domination is reduced by |cFFFFFFFF${$s1/-1000} sec|r.
 
 Name             : Resolute Barrier (id=339272) [Spell Family (5), Passive, Hidden] 
 School           : Physical
@@ -10953,8 +10950,10 @@ Effects          :
 #1 (id=838476)   : Apply Aura (6) | Apply Flat Modifier w/ Label (219): Unknown(38)
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Misc Value: 38 | Misc Value 2: 1067 (Label) | Target: Self (1)
                    Affected Spells (Label): Resolute Barrier (339272), Accrued Vitality (339282), Shade of Terror (339379), Demonic Momentum (339411), Demonic Momentum (339412), Corrupting Leer (339455), Rolling Agony (339481), Focused Malignancy (339500), Cold Embrace (339576), Borne of Blood (339578), Carnivorous Stalkers (339656), Tyrant's Soul (339766), Tyrant's Soul (339784), Fel Commando (339845), Duplicitous Havoc (339890), Ashen Remains (339892), Combusting Engine (339896), Infernal Brand (340041), Infernal Brand (340045)
-Description      : Attacks received that deal at least 5% of your health decrease Unending Resolve's cooldown by 10 seconds. Cannot occur more than once every |cFFFFFFFF${$proccooldown-$s1/-1000}|r sec.
+Description      : Attacks received that deal at least $<health>% of your health decrease Unending Resolve's cooldown by $<cdr> sec. Cannot occur more than once every |cFFFFFFFF${$proccooldown-$s1/-1000} sec|r.
 
+Variables        : $health=${5}
+$cdr=${10}
 
 Name             : Accrued Vitality (id=339282) [Spell Family (5), Passive, Hidden] 
 School           : Physical
@@ -10995,13 +10994,13 @@ Attributes       : ......xx ........ ........ ........   ........ ........ .....
 Effects          :
 #1 (id=838624)   : Apply Aura (6) | Dummy (4)
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Misc Value: 38 | Misc Value 2: 0x42b | Target: Self (1)
-Description      : Damage required to break your Fear effects is increased by |cFFFFFFFF${$s1}%|r.
+Description      : Your Fear effects can withstand |cFFFFFFFF${$s1}%|r more damage before breaking.
 
 Name             : Demonic Momentum (id=339411) [Spell Family (5), Passive, Hidden] 
 School           : Physical
 Spell Type       : None
 Labels           : 1067: Resolute Barrier (339272 effect#1)
-Conduit Id       : 171 (values=30.0, 32.0, 34.0, 36.0, 38.0, 40.0, 42.0, 44.0, 46.0, 48.0, 50.0, 52.0, 54.0, 56.0, 58.0)
+Conduit Id       : 171 (values=30.0, 33.0, 36.0, 39.0, 42.0, 45.0, 48.0, 51.0, 46.0, 57.0, 60.0, 63.0, 66.0, 69.0, 72.0)
 Attributes       : ......xx ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -11014,7 +11013,7 @@ Attributes       : ......xx ........ ........ ........   ........ ........ .....
 Effects          :
 #1 (id=838672)   : Apply Aura (6) | Dummy (4)
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Misc Value: 38 | Misc Value 2: 0x42b | Target: Self (1)
-Description      : Demonic Circle increases movement speed by |cFFFFFFFF${$s1}%|r for $339412d.
+Description      : Demonic Circle: Teleport increases movement speed by |cFFFFFFFF${$s1}%|r for $339412d.
 
 Name             : Corrupting Leer (id=339455) [Spell Family (5), Passive, Hidden] 
 School           : Physical
@@ -11033,13 +11032,14 @@ Attributes       : ......xx ........ ........ ........   ........ ........ .....
 Effects          :
 #1 (id=838762)   : Apply Aura (6) | Dummy (4)
                    Base Value: 3 | Scaled Value: 3 | PvP Coefficient: 1.00000 | Misc Value: 38 | Misc Value 2: 0x42b | Target: Self (1)
-Description      : Agony and Unstable Affliction damage have a |cFFFFFFFF${$s1}.1%|r chance to reduce the cooldown of Summon Darkglare by 5 sec.
+Description      : Agony and Unstable Affliction damage have a |cFFFFFFFF${$s1}.1%|r chance to reduce the cooldown of Summon Darkglare by $<cdr> sec.
+Variables        : $cdr=${5}
 
 Name             : Rolling Agony (id=339481) [Spell Family (5), Passive, Hidden] 
 School           : Physical
 Spell Type       : None
 Labels           : 1067: Resolute Barrier (339272 effect#1)
-Conduit Id       : 201 (values=4000.0, 4300.0, 4600.0, 4900.0, 5200.0, 5500.0, 5800.0, 6200.0, 6500.0, 6800.0, 7100.0, 7400.0, 7700.0, 8000.0, 8300.0)
+Conduit Id       : 201 (values=4000.0, 4400.0, 4800.0, 5200.0, 5600.0, 6000.0, 6400.0, 6800.0, 7200.0, 7600.0, 8000.0, 8400.0, 8800.0, 9200.0, 9600.0)
 Attributes       : ......xx ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -11054,13 +11054,13 @@ Effects          :
                    Base Value: 4000 | Scaled Value: 4000 | PvP Coefficient: 1.00000 | Misc Value: 1 | Target: Self (1)
                    Affected Spells: Agony (980)
                    Family Flags: 10
-Description      : Increases the duration of Agony by |cFFFFFFFF${$s1/1000}.1|r sec.
+Description      : The duration of Agony is increased by |cFFFFFFFF${$s1/1000}.1 sec|r.
 
 Name             : Focused Malignancy (id=339500) [Spell Family (5), Passive, Hidden] 
 School           : Physical
 Spell Type       : None
 Labels           : 1067: Resolute Barrier (339272 effect#1)
-Conduit Id       : 202 (values=25.0, 27.0, 29.0, 31.0, 33.0, 35.0, 37.0, 39.0, 41.0, 43.0, 45.0, 47.0, 49.0, 51.0, 53.0)
+Conduit Id       : 202 (values=15.0, 16.5, 18.0, 19.5, 21.0, 22.5, 24.0, 25.5, 27.0, 28.5, 30.0, 31.5, 33.0, 34.5, 36.0)
 Attributes       : ......xx ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -11094,13 +11094,13 @@ Effects          :
                    Base Value: 33 | Scaled Value: 33 | PvP Coefficient: 1.00000 | Misc Value: 3 | Target: Self (1)
                    Affected Spells: Shadow Embrace (32388), Shadow Embrace (32390)
                    Family Flags: 31
-Description      : Increases the effectiveness of Shadow Embrace by |cFFFFFFFF${$s1}%|r.
+Description      : The effectiveness of Shadow Embrace is increased by |cFFFFFFFF${$s1}%|r.
 
 Name             : Borne of Blood (id=339578) [Spell Family (5), Passive, Hidden] 
 School           : Physical
 Spell Type       : None
 Labels           : 1067: Resolute Barrier (339272 effect#1)
-Conduit Id       : 204 (values=16.0, 17.0, 18.0, 19.0, 20.0, 21.0, 22.0, 23.0, 24.0, 25.0, 26.0, 27.0, 28.0, 29.0, 30.0)
+Conduit Id       : 204 (values=16.0, 17.6, 19.200001, 20.799999, 22.4, 24.0, 25.6, 27.200001, 28.799999, 30.4, 32.0, 33.599998, 35.200001, 36.799999, 38.400002)
 Attributes       : ......xx ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -11119,7 +11119,7 @@ Name             : Carnivorous Stalkers (id=339656) [Spell Family (5), Passive, 
 School           : Physical
 Spell Type       : None
 Labels           : 1067: Resolute Barrier (339272 effect#1)
-Conduit Id       : 205 (values=8.0, 8.5, 9.0, 9.5, 10.0, 10.5, 11.0, 11.5, 12.0, 12.5, 13.0, 13.5, 14.0, 14.5, 15.0)
+Conduit Id       : 205 (values=3.0, 3.3, 3.6, 3.9, 4.2, 4.5, 4.8, 5.1, 5.4, 5.7, 6.0, 6.3, 6.6, 6.9, 7.2)
 Attributes       : ......xx ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -11152,11 +11152,11 @@ Attributes       : ......xx ........ ........ ........   ........ ........ .....
 Effects          :
 #1 (id=839250)   : Apply Aura (6) | Dummy (4)
                    Base Value: 10 | Scaled Value: 10 | PvP Coefficient: 1.00000 | Misc Value: 3 | Target: Self (1)
-Description      : After your Demonic Tyrant expires, gain a Demonic Core and |cFFFFFFFF${$s1}.1%|r increased damage from your demons for 15 sec.
+Description      : After your Demonic Tyrant expires, gain a stack of Demonic Core and increase the damage your demons deal by |cFFFFFFFF${$s1}.1%|r for $339784d.
 
 Name             : Tyrant's Soul (id=339784) [Spell Family (5)] 
 Class            : Warlock
-School           : Physical
+School           : Shadow
 Spell Type       : None
 Duration         : 15 seconds
 Labels           : 1067: Resolute Barrier (339272 effect#1)
@@ -11178,7 +11178,7 @@ Name             : Fel Commando (id=339845) [Spell Family (5), Passive, Hidden]
 School           : Physical
 Spell Type       : None
 Labels           : 1067: Resolute Barrier (339272 effect#1)
-Conduit Id       : 207 (values=10.0, 10.75, 11.5, 12.25, 13.0, 13.75, 14.5, 15.25, 16.0, 16.75, 17.5, 18.25, 19.0, 19.75, 20.5)
+Conduit Id       : 207 (values=7.5, 8.25, 9.0, 9.75, 10.5, 11.25, 12.0, 12.75, 13.5, 14.25, 15.0, 15.75, 16.5, 17.25, 18.0)
 Attributes       : ......xx ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -11197,7 +11197,7 @@ Name             : Duplicitous Havoc (id=339890) [Spell Family (5), Passive, Hid
 School           : Physical
 Spell Type       : None
 Labels           : 1067: Resolute Barrier (339272 effect#1)
-Conduit Id       : 208 (values=10.0, 10.75, 11.5, 12.25, 13.0, 13.75, 14.5, 15.25, 16.0, 16.75, 17.5, 18.25, 19.0, 19.75, 20.5)
+Conduit Id       : 208 (values=10.0, 11.0, 12.0, 13.0, 14.0, 15.0, 16.0, 17.0, 18.0, 19.0, 20.0, 21.0, 22.0, 23.0, 24.0)
 Attributes       : ......xx ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -11215,10 +11215,11 @@ Effects          :
 Description      : Havoc transfers |cFFFFFFFF${$s1}.1%|r more damage.
 
 Name             : Ashen Remains (id=339892) [Spell Family (5), Passive, Hidden] 
+Class            : Warlock
 School           : Physical
 Spell Type       : None
 Labels           : 1067: Resolute Barrier (339272 effect#1)
-Conduit Id       : 211 (values=5.0, 5.33, 5.66, 6.0, 6.33, 6.66, 7.0, 7.33, 7.66, 8.0, 8.33, 8.66, 9.0, 9.33, 9.66)
+Conduit Id       : 211 (values=4.0, 4.4, 4.8, 5.2, 5.6, 6.0, 6.4, 6.8, 7.2, 7.6, 8.0, 8.4, 8.8, 9.2, 9.6)
 Attributes       : ......xx ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -11229,15 +11230,17 @@ Attributes       : ......xx ........ ........ ........   ........ ........ .....
                  : ...x.... ........ ........ ........   
                  : Passive (6), Hidden (7)
 Effects          :
-#1 (id=839429)   : Apply Aura (6) | Dummy (4)
-                   Base Value: 10 | Scaled Value: 10 | PvP Coefficient: 1.00000 | Misc Value: 3 | Target: Self (1)
-Description      : Chaos Bolt and Incinerate damage on targets with Immolate increased by |cFFFFFFFF${$s1}.1%|r.
+#1 (id=839429)   : Apply Aura (6) | Add Flat Modifier (107): Spell Effect 2 (12)
+                   Base Value: 10 | Scaled Value: 10 | PvP Coefficient: 1.00000 | Misc Value: 12 | Target: Self (1)
+                   Affected Spells: Immolate (157736)
+                   Family Flags: 4
+Description      : Chaos Bolt and Incinerate deal |cFFFFFFFF${$s1}.1%|r increased damage to targets afflicted by Immolate.
 
 Name             : Combusting Engine (id=339896) [Spell Family (5), Passive, Hidden] 
 School           : Physical
 Spell Type       : None
 Labels           : 1067: Resolute Barrier (339272 effect#1)
-Conduit Id       : 212 (values=15.0, 16.0, 17.0, 18.0, 19.0, 20.0, 21.0, 22.0, 23.0, 24.0, 25.0, 26.0, 27.0, 28.0, 29.0)
+Conduit Id       : 212 (values=8.0, 8.8, 9.6, 10.4, 11.2, 12.0, 12.8, 13.6, 14.4, 15.2, 16.0, 16.799999, 17.6, 18.4, 19.200001)
 Attributes       : ......xx ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -11262,7 +11265,7 @@ Attributes       : .......x ........ ........ ........   ........ ........ .....
                  : ........ ........ ........ ........   .......x ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
-                 : ........ ........ ........ ........   ........ ........ ........ ........ 
+                 : ........ ....x... ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   x....... ........ ........ ........ 
                  : ........ ........ ........ ........   
@@ -11272,13 +11275,13 @@ Effects          :
                    Base Value: 25 | Scaled Value: 25 | PvP Coefficient: 1.00000 | Target: Enemy (6)
                    Affected Spells: Immolate (157736), Internal Combustion (266134)
                    Family Flags: 4, 32
-Tooltip          : Damage taken from the Warlock's Immolate increased by $s1%.
+Tooltip          : Damage taken from the Warlock's Immolate increased by $w1%.
 
 Name             : Infernal Brand (id=340041) [Spell Family (5), Passive, Hidden] 
 School           : Physical
 Spell Type       : None
 Labels           : 1067: Resolute Barrier (339272 effect#1)
-Conduit Id       : 214 (values=10.0, 11.0, 12.0, 13.0, 14.0, 15.0, 16.0, 17.0, 18.0, 19.0, 20.0, 21.0, 10.0, 23.0, 24.0)
+Conduit Id       : 214 (values=2.0, 2.2, 2.4, 2.6, 2.8, 3.0, 3.2, 3.4, 3.6, 3.8, 4.0, 4.2, 4.4, 4.6, 4.8)
 Attributes       : ......xx ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -11311,10 +11314,10 @@ Effects          :
                    Base Value: 10 | Scaled Value: 10 | PvP Coefficient: 1.00000 | Misc Value: 11 | Target: Self (1)
 Description      : When a target dies under the effect of Scouring Tithe, gain |cFFFFFFFF${$s1}.1%|r increased damage to your $?c1[Malefic Rapture][]$?c2[demons][]$?c3[Chaos Bolt][] for $340238d.
 
-Name             : Prolonged Decimation (id=340268) [Spell Family (5), Passive, Hidden] 
+Name             : Fatal Decimation (id=340268) [Spell Family (5), Passive, Hidden] 
 School           : Physical
 Spell Type       : None
-Conduit Id       : 218 (values=10.0, 11.0, 24.0, 13.0, 14.0, 15.0, 16.0, 17.0, 18.0, 19.0, 20.0, 21.0, 22.0, 23.0, 24.0)
+Conduit Id       : 218 (values=50.0, 55.0, 60.0, 65.0, 70.0, 15.0, 75.0, 80.0, 85.0, 90.0, 95.0, 100.0, 105.0, 110.0, 115.0)
 Attributes       : ......xx ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -11325,9 +11328,10 @@ Attributes       : ......xx ........ ........ ........   ........ ........ .....
                  : ...x.... ........ ........ ........   
                  : Passive (6), Hidden (7)
 Effects          :
-#1 (id=840037)   : Apply Aura (6) | Dummy (4)
-                   Base Value: 20 | Scaled Value: 20 | PvP Coefficient: 1.00000 | Misc Value: 11 | Target: Self (1)
-Description      : $?s29722[Incinerate]?s198590[Drain Soul][Shadow Bolt] has a |cFFFFFFFF${$s1}.1%|r chance to not consume a charge of Decimating Bolt.
+#1 (id=840037)   : Apply Aura (6) | Apply Percent Modifier w/ Label (218): Spell Direct Amount (0)
+                   Base Value: 20 | Scaled Value: 20 | PvP Coefficient: 1.00000 | Misc Value 2: 1154 (Label) | Target: Self (1)
+                   Affected Spells (Label): Decimating Bolt (327059)
+Description      : Decimating Bolt's missiles deal |cFFFFFFFF${$s1}.1%|r increased damage.
 
 Name             : Catastrophic Origin (id=340316) [Spell Family (5), Passive, Hidden] 
 School           : Physical
@@ -11347,10 +11351,10 @@ Effects          :
                    Base Value: 50 | Scaled Value: 50 | PvP Coefficient: 1.00000 | Misc Value: 11 | Target: Self (1)
 Description      : Impending Catastrophe's damage over time and the inflicted Curse last |cFFFFFFFF${$s1}.1%|r longer against your primary target.
 
-Name             : Exhumed Soul (id=340348) [Spell Family (5), Passive, Hidden] 
+Name             : Soul Eater (id=340348) [Spell Family (5), Passive, Hidden] 
 School           : Physical
 Spell Type       : None
-Conduit Id       : 220 (values=30.0, 32.0, 34.0, 36.0, 38.0, 40.0, 42.0, 44.0, 46.0, 48.0, 50.0, 52.0, 54.0, 56.0, 58.0)
+Conduit Id       : 220 (values=25.0, 27.5, 30.0, 32.5, 35.0, 37.5, 40.0, 42.5, 45.0, 47.5, 50.0, 52.5, 55.0, 57.5, 60.0)
 Attributes       : ......xx ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
                  : ........ ........ ........ ........   ........ ........ ........ ........ 
@@ -11365,15 +11369,11 @@ Effects          :
                    Base Value: 20 | Scaled Value: 20 | PvP Coefficient: 1.00000 | Misc Value: 22 | Target: Self (1)
                    Affected Spells: Soul Rot (325640)
                    Family Flags: 112
-#2 (id=840172)   : Apply Aura (6) | Add Percent Modifier (108): Spell Resource Cost (14)
-                   Base Value: 10 | Scaled Value: 10 | PvP Coefficient: 1.00000 | Misc Value: 14 | Target: Self (1)
-                   Affected Spells: Soul Rot (325640)
-                   Family Flags: 112
-#3 (id=840175)   : Apply Aura (6) | Add Percent Modifier (108): Spell Radius (6)
+#2 (id=840172)   : Apply Aura (6) | Add Percent Modifier (108): Spell Radius (6)
                    Base Value: 20 | Scaled Value: 20 | PvP Coefficient: 1.00000 | Misc Value: 6 | Target: Self (1)
                    Affected Spells: Soul Rot (325640)
                    Family Flags: 112
-Description      : Soul Rot damage and radius increased by |cFFFFFFFF${$s1}.1%|r, but costs |cFFFFFFFF${$s1/3}.1%|r more health.
+Description      : Soul Rot's damage and radius is increased by |cFFFFFFFF${$s1}.1%|r.
 
 Name             : Diabolic Bloodstone (id=340562) [Spell Family (5), Passive, Hidden] 
 School           : Physical
@@ -11445,7 +11445,7 @@ Spell Type       : None
 Range            : 100 yards
 Duration         : Aura (infinite)
 Stacks           : 30 maximum
-Proc Chance      : 101%
+Proc Chance      : 100%
 Attributes       : ........ ........ ........ .......x   ........ ..x..... ........ ........ 
                  : ........ ........ ........ ....x...   ........ ........ xx...... ..x..... 
                  : ........ ........ .......x ........   ........ ........ ........ ........ 
@@ -11460,5 +11460,29 @@ Effects          :
                    Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Misc Value: 127 | Target: Self (1)
 Description      : $@spelldesc337141
 Tooltip          : Your next Call Dreadstalkers will have their damage increased by $337141s1%.
+
+Name             : Axe Toss (desc=Special Ability) (id=347008) [Spell Family (57)] 
+Class            : Warlock
+School           : Physical
+Spell Type       : Ranged
+Spell Level      : 17
+Range            : 30 yards
+Duration         : 4 seconds
+Cooldown         : 30 seconds
+Affecting spells : Felstorm (89751 effect#3)
+Triggered by     : Axe Toss (89766)
+Family Flags     : 34
+Attributes       : ........ ........ x.x..... ........   ........ ........ .x...... ........ 
+                 : ........ ........ ........ ........   ........ ........ ........ ........ 
+                 : ........ ........ ........ ........   ........ ........ ........ ........ 
+                 : ........ ........ ........ ........   ........ ........ ........ ........ 
+                 : ........ ........ ........ ........   ........ ........ ........ ........ 
+                 : ........ ........ ........ ........   ........ ........ ........ ........ 
+                 : ........ ........ ........ ........   x....... ..x..... ........ ........ 
+                 : ........ ........ ........ ........   
+Effects          :
+#1 (id=873981)   : Interrupt Cast (68)
+                   Base Value: 0 | Scaled Value: 0 | PvP Coefficient: 1.00000 | Mechanic: Interrupt | Target: Enemy (6)
+Description      : The $?s108499[Wrathguard][Felguard] hurls its weapon, stunning and interrupting the target for $89766d.
 
 
